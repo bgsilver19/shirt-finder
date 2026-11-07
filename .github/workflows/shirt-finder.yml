@@ -1,0 +1,60 @@
+name: Shirt Finder
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"   # every 4 hours
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        default: search
+        options: [search, test-notify, dry-run, selftest]
+
+permissions:
+  contents: write   # to save state/seen.json back to the repo
+
+concurrency:
+  group: shirt-finder
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          SMS_GATEWAY_ADDRESS: ${{ secrets.SMS_GATEWAY_ADDRESS }}
+          LENS_IMAGE_URL: ${{ secrets.LENS_IMAGE_URL }}
+        run: |
+          case "${{ inputs.mode || 'search' }}" in
+            test-notify) python shirt_finder.py --test-notify ;;
+            dry-run)     python shirt_finder.py --dry-run --force-daily ;;
+            selftest)    python shirt_finder.py --selftest ;;
+            *)           python shirt_finder.py ;;
+          esac
+
+      - name: Save what has been checked
+        if: always()
+        run: |
+          git config user.name "shirt-finder-bot"
+          git config user.email "shirt-finder-bot@users.noreply.github.com"
+          git add state/seen.json
+          git diff --cached --quiet || (git commit -m "Update checked listings [skip ci]" && git push)
