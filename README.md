@@ -11,6 +11,7 @@ Searches the web every 4 hours for your lost Urban Outfitters shirt (all-over pr
 | Every 4 hours | **eBay**: 8 keyword searches, plus eBay's own *search by image* using your photo | Free |
 | Once a day | **Google Lens** reverse-image search of your photo (covers Poshmark, Depop, Mercari, Etsy, Grailed, blogs and any other site Google has indexed) | Free tier |
 | Once a day | **Google Images**: one keyword search a day, cycling through 6 different searches | Free tier |
+| Once a day | **Poshmark**: a Google search limited to poshmark.com, cycling through 6 searches and alternating between all results and only the past month. It never visits Poshmark itself (Poshmark has no public API and its terms forbid bots), and it uses Google's thumbnail of each listing photo. | Free tier |
 
 Each listing it hasn't seen before is sent to **Claude** along with your photo, and Claude decides whether it's the same artwork:
 
@@ -40,7 +41,7 @@ Add each of these under **Settings → Secrets and variables → Actions → New
 | `NOTIFY_EMAIL` | `bradley.g.silverman@gmail.com` | — |
 | `SMS_GATEWAY_ADDRESS` | Your carrier's email-to-text address, see below | — |
 | `ANTHROPIC_API_KEY` | Claude API key | console.anthropic.com → API Keys. Add $5–10 of credit, which should last months. |
-| `SERPAPI_KEY` | SerpAPI key, for Google Lens and Google Images | serpapi.com. The free plan is plenty, since this uses about 60 searches a month. |
+| `SERPAPI_KEY` | SerpAPI key, for Google Lens and Google Images | serpapi.com. The free plan is plenty, since this uses about 90 searches a month. |
 | `EBAY_CLIENT_ID` | eBay App ID | developer.ebay.com → create a *Production* keyset |
 | `EBAY_CLIENT_SECRET` | eBay Cert ID | Same page as the App ID |
 

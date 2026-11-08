@@ -83,6 +83,18 @@ GOOGLE_QUERIES = [
     'sublimation t-shirt goldfish rider rainbow scroll frame balloons parachutes',
 ]
 
+# Poshmark-only Google Images searches (SerpAPI) - one per day, rotating.
+# Poshmark has no public API and its terms forbid bots on its site, so this
+# never visits Poshmark: it asks Google what Google has indexed from Poshmark.
+POSHMARK_QUERIES = [
+    "urban outfitters all over print tee rainbow fish",
+    "urban outfitters goldfish shirt",
+    "urban outfitters hot air balloon shirt rainbow",
+    "vintage urban outfitters sublimation tee",
+    "all over print shirt man riding fish rainbow",
+    "urban outfitters rainbow parachute balloon tee",
+]
+
 # Words that make a listing title worth a look when Claude verification is off.
 DISTINCTIVE_WORDS = [
     "goldfish", "carp", "koi", "fish", "rainbow", "balloon", "parachute",
@@ -112,6 +124,16 @@ def env(name: str, default: str | None = None) -> str | None:
 
 def log(msg: str) -> None:
     print(f"[{dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M:%S}Z] {msg}", flush=True)
+
+
+# Serious problems (bad keys, services down). Any of these makes the run fail
+# (red X on GitHub), so GitHub emails you instead of the program failing silently.
+PROBLEMS: list[str] = []
+
+
+def problem(msg: str) -> None:
+    PROBLEMS.append(msg)
+    log("PROBLEM: " + msg)
 
 
 def normalize_url(url: str) -> str:
@@ -146,7 +168,8 @@ class Candidate:
 def load_state() -> dict:
     if STATE_FILE.exists():
         return json.loads(STATE_FILE.read_text())
-    return {"seen": {}, "matches": [], "last_lens_date": None, "last_google_date": None, "google_query_index": 0}
+    return {"seen": {}, "matches": [], "last_lens_date": None, "last_google_date": None, "google_query_index": 0,
+            "last_poshmark_date": None, "poshmark_query_index": 0}
 
 
 def save_state(state: dict) -> None:
@@ -191,7 +214,7 @@ def search_ebay() -> list[Candidate]:
     try:
         token = ebay_token()
     except Exception as e:  # noqa: BLE001
-        log(f"eBay auth failed: {e}")
+        problem(f"eBay sign-in failed (check EBAY_CLIENT_ID / EBAY_CLIENT_SECRET): {e}")
         return []
     if not token:
         return []
@@ -253,6 +276,14 @@ def serpapi(params: dict) -> dict:
     return data
 
 
+def pick_image(m: dict, link: str, full_key: str) -> str | None:
+    """Image to show Claude. For Poshmark listings use Google's own thumbnail,
+    so the program never downloads anything from Poshmark's servers."""
+    if "poshmark." in link:
+        return m.get("thumbnail")
+    return m.get(full_key) or m.get("thumbnail")
+
+
 def search_google_lens(state: dict, today: str, force: bool) -> list[Candidate]:
     if not env("SERPAPI_KEY"):
         log("Google Lens: SERPAPI_KEY not set - skipping.")
@@ -267,7 +298,7 @@ def search_google_lens(state: dict, today: str, force: bool) -> list[Candidate]:
     try:
         data = serpapi({"engine": "google_lens", "url": url, "country": "us", "hl": "en"})
     except Exception as e:  # noqa: BLE001
-        log(f"Google Lens failed: {e}")
+        problem(f"Google Lens search failed (check SERPAPI_KEY): {e}")
         return []
     state["last_lens_date"] = today
     out = []
@@ -275,7 +306,7 @@ def search_google_lens(state: dict, today: str, force: bool) -> list[Candidate]:
         if m.get("link"):
             price = (m.get("price") or {}).get("value") if isinstance(m.get("price"), dict) else None
             out.append(Candidate(f"Google Lens ({m.get('source', 'web')})", m.get("title", ""),
-                                 m["link"], m.get("image") or m.get("thumbnail"), price))
+                                 m["link"], pick_image(m, m["link"], "image"), price))
     log(f"Google Lens: {len(out)} visual matches")
     return out
 
@@ -292,7 +323,7 @@ def search_google_images(state: dict, today: str, force: bool) -> list[Candidate
     try:
         data = serpapi({"engine": "google_images", "q": q, "gl": "us", "hl": "en"})
     except Exception as e:  # noqa: BLE001
-        log(f"Google Images '{q}' failed: {e}")
+        problem(f"Google Images search failed (check SERPAPI_KEY): {e}")
         return []
     state["last_google_date"] = today
     state["google_query_index"] = idx + 1
@@ -300,8 +331,44 @@ def search_google_images(state: dict, today: str, force: bool) -> list[Candidate
     for m in data.get("images_results", []) or []:
         if m.get("link"):
             out.append(Candidate(f"Google Images ({m.get('source', 'web')})", m.get("title", ""),
-                                 m["link"], m.get("original") or m.get("thumbnail")))
+                                 m["link"], pick_image(m, m["link"], "original")))
     log(f"Google Images '{q}': {len(out)} results")
+    return out
+
+
+def search_poshmark(state: dict, today: str, force: bool) -> list[Candidate]:
+    """Daily Google Images search limited to poshmark.com.
+
+    Alternates between all of Google's Poshmark results and only pages Google
+    found in the past month, so brand-new listings get a better chance of
+    showing up near the top.
+    """
+    if not env("SERPAPI_KEY"):
+        log("Poshmark: SERPAPI_KEY not set - skipping.")
+        return []
+    if state.get("last_poshmark_date") == today and not force:
+        log("Poshmark: already ran today.")
+        return []
+    n = state.get("poshmark_query_index", 0)
+    q = POSHMARK_QUERIES[n % len(POSHMARK_QUERIES)]
+    recent_only = (n // len(POSHMARK_QUERIES)) % 2 == 1
+    params = {"engine": "google_images", "q": f"site:poshmark.com {q}", "gl": "us", "hl": "en"}
+    if recent_only:
+        params["tbs"] = "qdr:m"
+    try:
+        data = serpapi(params)
+    except Exception as e:  # noqa: BLE001
+        problem(f"Poshmark search failed (check SERPAPI_KEY): {e}")
+        return []
+    state["last_poshmark_date"] = today
+    state["poshmark_query_index"] = n + 1
+    out = []
+    for m in data.get("images_results", []) or []:
+        link = m.get("link") or ""
+        if "poshmark." in link:
+            out.append(Candidate("Poshmark (via Google)", m.get("title", ""), link,
+                                 pick_image(m, link, "original")))
+    log(f"Poshmark '{q}'{' (past month)' if recent_only else ''}: {len(out)} listings")
     return out
 
 
@@ -486,6 +553,7 @@ def run(dry_run: bool, force_daily: bool) -> int:
     candidates = search_ebay()
     candidates += search_google_lens(state, today, force_daily)
     candidates += search_google_images(state, today, force_daily)
+    candidates += search_poshmark(state, today, force_daily)
 
     # De-duplicate and drop anything already judged.
     fresh: dict[str, Candidate] = {}
@@ -513,7 +581,7 @@ def run(dry_run: bool, force_daily: bool) -> int:
             try:
                 verdicts = judge_with_claude(batch, ref_b64)
             except Exception as e:  # noqa: BLE001
-                log(f"Claude check failed for a batch, will retry next run: {e}")
+                problem(f"Claude photo check failed (check ANTHROPIC_API_KEY and credit balance); will retry next run: {e}")
                 continue  # not marked seen -> retried next run
         else:
             verdicts = {i: judge_by_keywords(c) for i, c in enumerate(batch)}
@@ -546,6 +614,9 @@ def run(dry_run: bool, force_daily: bool) -> int:
     state["last_run_date"] = today
     if not dry_run:
         save_state(state)
+    if PROBLEMS:
+        log(f"{len(PROBLEMS)} problem(s) this run - marking the run as failed so GitHub emails you.")
+        exit_code = 1
     return exit_code
 
 
@@ -559,6 +630,9 @@ def selftest() -> int:
     c2 = Candidate("eBay", "Nike running shirt", "https://ebay.com/itm/222222222", None)
     assert judge_by_keywords(c1)[0] == "possible"
     assert judge_by_keywords(c2)[0] == "no"
+    assert pick_image({"original": "o", "thumbnail": "t"}, "https://poshmark.com/listing/x", "original") == "t"
+    assert pick_image({"original": "o", "thumbnail": "t"}, "https://www.etsy.com/listing/1", "original") == "o"
+    assert len(POSHMARK_QUERIES) > 0
     notify([(c1, "same_design", "selftest"), (c2, "possible", "selftest")], dry_run=True)
     json.dumps(VERDICT_SCHEMA)
     log("Selftest passed.")
