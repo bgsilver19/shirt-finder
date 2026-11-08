@@ -2,8 +2,10 @@
  "google_query_index": 1,
  "last_google_date": "2026-11-08",
  "last_lens_date": "2026-11-08",
+ "last_poshmark_date": "2026-11-08",
  "last_run_date": "2026-11-08",
  "matches": [],
+ "poshmark_query_index": 1,
  "seen": {
   "http://teesandtops.uk": {
    "d": "2026-11-08",
@@ -298,6 +300,106 @@
   "https://nordstromrack.com/s/upper-atmosphere-cotton-graphic-t-shirt/7884390": {
    "d": "2026-11-08",
    "t": "Billionaire Boys Club Upper Atmosphere Cotton Graphic T ...",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/mens-urban-outfitters-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Mens Urban Outfitters T Shirt for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/urban-outfitters-graphic-t-shirts": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters Graphic T Shirts for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/urban-outfitters-ringer-tee": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters Ringer Tee for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/urban-outfitters-vintage-tees": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters Vintage Tees for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Fortnite-youth-light-green-short-sleeve-graphic-tee-size-m-8-6a7a553831f0f67af290a371": {
+   "d": "2026-11-08",
+   "t": "Shirts & Tops | Fortnite Youth Light Green Short Sleeve Graphic Tee Size M  8 | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/GREEN-URBAN-CORSET-TOP-627da61c21f2e1c8a66d193d": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Tops | Green Urban Corset Top | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Green-oversized-Kesha-Urban-Outfitters-shirt-6a8ef71b8091ef8f9085c6e3": {
+   "d": "2026-11-08",
+   "t": "Green oversized Kesha Urban Outfitters shirt",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Ice-Cube-PreOwned-Large-Band-TShirt-6721621acd201b75b4b5175d": {
+   "d": "2026-11-08",
+   "t": "Shirts | Ice Cube Preowned Large Band Tshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/NWT-Scotch--Soda-TShirt-677066edf8847121b852a35f": {
+   "d": "2026-11-08",
+   "t": "Scotch & Soda | Shirts | Nwt Scotch Soda Tshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Pizza-my-heart-t-shirt-56e3abea6802783c5a011bfa": {
+   "d": "2026-11-08",
+   "t": "Tops | Pizza My Heart T Shirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Prince-Purple-Rain-Black-Tshirt-Medium-660ee4c1038291e65246c8c9": {
+   "d": "2026-11-08",
+   "t": "Shirts | Prince Purple Rain Black Tshirt Medium | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/ReDone-White-Tee-with-Pink-Sweetheart-Graphic-68d47aa6a0dc2ba79b69472b": {
+   "d": "2026-11-08",
+   "t": "Re/Done | Tops | Redone White Tee With Pink Sweetheart Graphic | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Sic-em-bears-Baylor-bears-66611e8e775caffbd473e260": {
+   "d": "2026-11-08",
+   "t": "Tops | Sic Em Bears Baylor Bears | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Black-ButtonUp-Top-6ad7eea671a0035527eff050": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Black Buttonup Top | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Dark-Navy-Ribbed-VNeck-Crew-Sweater-6aac1c3fadedd1ab413ce2ca": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Sweaters | Urban Outfitters Dark Navy Ribbed Vneck Crew  Sweater | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Hoodie-Sweatshirt-Tie-Dye-Iets-Frans-Mens-Size-Small-6a7c1681a1bf20acc1aaa8cd": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Shirts | Urban Outfitters Hoodie Sweatshirt Tie Dye Iets  Frans Mens Size Small | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Sardine-Hidden-Fish-Mug-Unused-69acc60ba9a4485e3f135fe9": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Dining | Urban Outfitters Sardine Hidden Fish Mug Unused  | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-UO-Leo-Souvenir-ButtonDown-Top-XS-Like-New-6ada5afa8091efd08df49b3a": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Uo Leo Souvenir Buttondown Top  Xs Like New | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Vintage-70s80s-maroon-velour-pleated-sweatshirt-5e324c38aa7ed3c1b3610b29": {
+   "d": "2026-11-08",
+   "t": "Vintage | Tops | Vintage 7s80s Maroon Velour Pleated Sweatshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/rainbow-leopard-cropped-and-collared-button-up-60919ef081a36cdeaecd5b61": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | Tops | Rainbow Leopard Cropped And Collared Button Up |  Poshmark",
    "v": "no"
   },
   "https://redbubble.com/shop/cover+art+mens-graphic-t-shirts": {
