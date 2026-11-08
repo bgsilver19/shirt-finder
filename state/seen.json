@@ -1,8 +1,409 @@
 {
- "google_query_index": 0,
- "last_google_date": null,
- "last_lens_date": null,
+ "google_query_index": 1,
+ "last_google_date": "2026-11-08",
+ "last_lens_date": "2026-11-08",
  "last_run_date": "2026-11-08",
  "matches": [],
- "seen": {}
+ "seen": {
+  "http://teesandtops.uk": {
+   "d": "2026-11-08",
+   "t": "TeesandTops Shop | Redbubble",
+   "v": "no"
+  },
+  "https://acorn-onlinestore.com/products/4ad19g94": {
+   "d": "2026-11-08",
+   "t": "70s GRATEFUL DEAD T-shirt\u3011\u5546\u54c1\u8a73\u7d30 | ACORN VINTAGE ONLINE ...",
+   "v": "no"
+  },
+  "https://adriancashmere.com/products/genesis-top": {
+   "d": "2026-11-08",
+   "t": "Genesis Top \u2013 Adrian Cashmere",
+   "v": "no"
+  },
+  "https://afterlifeboutique.com/products/vintage-1972-kelley-mouse-studio-test-print-t-shirt-ted-lucas-grateful-dead-europe-72-graphic-rare-1970s-psychedelic-art-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Vintage 1972 Kelley Mouse Studio Test Print T-Shirt | Ted ...",
+   "v": "no"
+  },
+  "https://amazon.com/Earth-Wind-Fire-T-Shirt-Charcoal/dp/B07TK3GHZD": {
+   "d": "2026-11-08",
+   "t": "Amazon.com: Men's Earth Wind & Fire Let's Groove (Back Print ...",
+   "v": "no"
+  },
+  "https://balloondogapparel.com/collections/mens-short-sleeve-shirt-with-pocket": {
+   "d": "2026-11-08",
+   "t": "Men's Short Sleeve Shirt with Pocket \u2013 Balloon Dog Apparel",
+   "v": "no"
+  },
+  "https://beymen.com/tr/p_casablanca-cok-renkli-t-shirt_1697926": {
+   "d": "2026-11-08",
+   "t": "Casablanca - \u00c7ok Renkli T-shirt - \u00c7ok Renkli",
+   "v": "no"
+  },
+  "https://buggirl200.com/products/shelley-duvall-boatneck-tee": {
+   "d": "2026-11-08",
+   "t": "Shelley Duvall Boatneck Tee \u2013 Bug Girl",
+   "v": "no"
+  },
+  "https://casablancaparis.com/en-us/products/m-sp26-jts-001-36-ex-fl-casablanca-pool-classic-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Black Casablanca Pool Short Sleeve T-Shirt",
+   "v": "no"
+  },
+  "https://chancestuff.com/products/star-line-album-t-shirt-cd-fan-pack": {
+   "d": "2026-11-08",
+   "t": "Star Line T-Shirt Fan Pack",
+   "v": "no"
+  },
+  "https://clothbase.com/items/23ec3a8d_casablanca-multicolor-printed-mesh-baby-t-shirt_casablanca": {
+   "d": "2026-11-08",
+   "t": "Casablanca Multicolor Printed Mesh Baby T-shirt Casablanca",
+   "v": "no"
+  },
+  "https://clothbase.com/items/c8eb7f15_molly-goddard-blue-luke-t-shirt_molly-goddard": {
+   "d": "2026-11-08",
+   "t": "Molly Goddard Blue Luke T-Shirt Molly Goddard",
+   "v": "no"
+  },
+  "https://creativesoul.com/products/billionaire-boys-club-news-ss-knit-oversize-tee": {
+   "d": "2026-11-08",
+   "t": "Billionaire Boys Club News SS Knit (Oversize Fit) | Creative ...",
+   "v": "no"
+  },
+  "https://domicile-tokyo.shop-pro.jp": {
+   "d": "2026-11-08",
+   "t": "TONY TAFURO - DOMICILE TOKYO ONLINE SHOP",
+   "v": "no"
+  },
+  "https://ebay.com/shop/archaic-smile-shirt": {
+   "d": "2026-11-08",
+   "t": "Archaic Smile Shirt | eBay",
+   "v": "no"
+  },
+  "https://ebay.com/shop/balloon-body": {
+   "d": "2026-11-08",
+   "t": "Balloon Body | eBay",
+   "v": "no"
+  },
+  "https://ebay.es/str/tokyojapanquality": {
+   "d": "2026-11-08",
+   "t": "Tokyo Japan Quality | Tiendas eBay",
+   "v": "no"
+  },
+  "https://edhardy.eu/collections/t-shirts": {
+   "d": "2026-11-08",
+   "t": "Men's T-shirts \u2013 Ed Hardy Europe",
+   "v": "no"
+  },
+  "https://editorialist.com/p/casablanca-paris-natures-teacher-mesh-baby-t-shirt-size-xs-by": {
+   "d": "2026-11-08",
+   "t": "Casablanca Nature's Teacher Mesh Baby T-shirt - Multicolor ...",
+   "v": "no"
+  },
+  "https://en.zalando.de/womens-clothing-shirts": {
+   "d": "2026-11-08",
+   "t": "Shirts for women | ZALANDO - Page 27",
+   "v": "no"
+  },
+  "https://essentials-egy.com/products/casablanca-rainbow-icecream-tee": {
+   "d": "2026-11-08",
+   "t": "Casablanca Rainbow Ice Cream Tee Egypt | Essentials EG",
+   "v": "no"
+  },
+  "https://etsy.com/au/market/funky_print_tshirts": {
+   "d": "2026-11-08",
+   "t": "Funky Print Tshirts - Etsy Australia",
+   "v": "no"
+  },
+  "https://etsy.com/ca/listing/1704527788/disco-mounted-fish-mirror-ball-goldfish": {
+   "d": "2026-11-08",
+   "t": "Disco Mounted Fish | Mirror Ball Goldfish | Funky Maximalist Art | Boho  Dopamine Decor - Etsy Canada",
+   "v": "no"
+  },
+  "https://etsy.com/ca/market/funky_t_shirts": {
+   "d": "2026-11-08",
+   "t": "Funky T Shirts - Etsy Canada",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4377553544/vintage-90s-puff-daddy-t-shirt-single": {
+   "d": "2026-11-08",
+   "t": "Vintage 90's Puff Daddy T-shirt Single Stitch Winterland XL ...",
+   "v": "no"
+  },
+  "https://etsy.com/listing/594532616/womens-open-road-flowy-crop-top-classic": {
+   "d": "2026-11-08",
+   "t": "Women's Open Road Flowy Crop Top Classic Rock Couture Soft ...",
+   "v": "no"
+  },
+  "https://etsy.com/market/balloon_shirt": {
+   "d": "2026-11-08",
+   "t": "Balloon Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/cute_character_shirt": {
+   "d": "2026-11-08",
+   "t": "Cute Character Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/funny_30_birthday_shirt": {
+   "d": "2026-11-08",
+   "t": "Funny 30 Birthday Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/girls_rainbow_shirt": {
+   "d": "2026-11-08",
+   "t": "Girls Rainbow Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/uk/market/skeleton_fish_shirt": {
+   "d": "2026-11-08",
+   "t": "Skeleton Fish Shirt - Etsy UK",
+   "v": "no"
+  },
+  "https://facebook.com/djtristanfanpage/posts/i-am-super-excited-to-show-you-the-next-release-of-my-psychedelic-clothing-piece/1538149444341020": {
+   "d": "2026-11-08",
+   "t": "I am super excited to show you the next release of my ...",
+   "v": "no"
+  },
+  "https://facebook.com/groups/4406050846346519/posts/4408281339456803": {
+   "d": "2026-11-08",
+   "t": "\ud83c\udf93\ud83d\udc9a Adopt-a-Senior Spotlight: Audrina Scott \ud83d\udc9a\ud83c\udf93",
+   "v": "no"
+  },
+  "https://faraonecasadaste.it/uk/auction-0067/hermes-hermes-hermes-shirt-5610": {
+   "d": "2026-11-08",
+   "t": "Hermes : Hermes shirt - Auction GIOIELLI OROLOGI E LUXURY ...",
+   "v": "no"
+  },
+  "https://feature.com/products/casablanca-surf-trip-printed-oversized-t-shirt-tie-dye": {
+   "d": "2026-11-08",
+   "t": "Surf Trip Printed Oversized T-Shirt - Tie Dye \u2013 Feature",
+   "v": "no"
+  },
+  "https://fontainesdc.com/collections/store": {
+   "d": "2026-11-08",
+   "t": "Store \u2013 Fontaines D.C.",
+   "v": "no"
+  },
+  "https://gem.app/product/issey-miyake-issey-miyake-aya-takano-f-w-31766": {
+   "d": "2026-11-08",
+   "t": "Issey Miyake Issey Miyake Aya Takano F/W 2004 Shirt - Gem",
+   "v": "no"
+  },
+  "https://gibot.it/en/shirt-round-neck/semi-couture/semi-couture-maglia-polo-giulia-paillettes/32232": {
+   "d": "2026-11-08",
+   "t": "Maglia Polo Giulia Paillettes",
+   "v": "no"
+  },
+  "https://giglio.com/en-us/clothing-woman_sweater-casablanca-wf24jtp028.html": {
+   "d": "2026-11-08",
+   "t": "Casablanca Sweater woman - White | WF24JTP028 | GIGLIO.COM",
+   "v": "no"
+  },
+  "https://giglio.com/en-us/clothing-woman_top-casablanca-wps25jts03401.html": {
+   "d": "2026-11-08",
+   "t": "Casablanca Top woman - Multicolor | WPS25JTS03401 | GIGLIO.COM",
+   "v": "no"
+  },
+  "https://hottopic.com/product/aerosmith-1977-tour-boyfriend-fit-girls-t-shirt/19883508.html": {
+   "d": "2026-11-08",
+   "t": "Aerosmith 1977 Tour Boyfriend Fit Girls T-Shirt | Hot Topic",
+   "v": "no"
+  },
+  "https://houseofsunny.com": {
+   "d": "2026-11-08",
+   "t": "House of Sunny",
+   "v": "no"
+  },
+  "https://hyfae.com/shop/p/khaos-mesh-top-jalaconda": {
+   "d": "2026-11-08",
+   "t": "Illustrated Mesh Long-sleeve Top by designer Jalaconda ...",
+   "v": "no"
+  },
+  "https://instagram.com/p/DX0Fv9egFP1": {
+   "d": "2026-11-08",
+   "t": "We are born of love. Love is our mother.\" - Rumi \ud83e\udde1 Wearing ...",
+   "v": "no"
+  },
+  "https://instagram.com/p/DbMgbCtuDFC": {
+   "d": "2026-11-08",
+   "t": "From city to city, Karol's taking the merch around the world \ud83c\udf0e\ud83e\udde1 Now it's  your turn! \ud83e\udd9c\u2728 Get your official merch in shopk",
+   "v": "no"
+  },
+  "https://instagram.com/reel/DRxTmkYjG7l": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters | NYC, let's bounce! We teamed up with @Nike to build a  giant pink bounce house inspired by the new Ni",
+   "v": "no"
+  },
+  "https://issuu.com/localemagazine/docs/14julyoc": {
+   "d": "2026-11-08",
+   "t": "Orange County July 2014 by Locale Magazine - Issuu",
+   "v": "no"
+  },
+  "https://issuu.com/localemagazine/docs/sdjune2014_fullmag_small/12": {
+   "d": "2026-11-08",
+   "t": "Issuu",
+   "v": "no"
+  },
+  "https://issuu.com/scng/docs/boc21": {
+   "d": "2026-11-08",
+   "t": "2021 Best of OC by Southern California News Group Special Sections - Issuu",
+   "v": "no"
+  },
+  "https://jing-shop.com/en/sure-shirts/10799-no-time-t-shirt-size-l-stonewashed.html": {
+   "d": "2026-11-08",
+   "t": "No Time\" T-shirt Size L Stonewashed",
+   "v": "no"
+  },
+  "https://made4walkin.com/products/wild-child-t-shirt-gypsy-ivory-short-sleeve-top-with-graphic-print-great-for-festivals-cast-a-spell-available-in-small-medium-or-large": {
+   "d": "2026-11-08",
+   "t": "Wild Child T Shirt Gypsy Ivory Short Sleeve Top With Graphic ...",
+   "v": "no"
+  },
+  "https://magnoliapearl.com/products/through-endless-skies-t-kiss-molly": {
+   "d": "2026-11-08",
+   "t": "Through Endless Skies Tee \u2013 Magnolia Pearl Clothing",
+   "v": "no"
+  },
+  "https://minnqu.com/index.php": {
+   "d": "2026-11-08",
+   "t": "women's short sleeve graphic T-shirt HE1108-02-01",
+   "v": "no"
+  },
+  "https://modesens.com/product/casablanca-short-sleeve-cuban-collar-shirt-multi-124764865": {
+   "d": "2026-11-08",
+   "t": "Casablanca Short Sleeve Cuban Collar Shirt In Multi | ModeSens",
+   "v": "no"
+  },
+  "https://most-iconic-art.com/products/untitled-by-wassily-kandinsky-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Untitled by Wassily Kandinsky T-Shirt | Abstract Art Tee",
+   "v": "no"
+  },
+  "https://myrorna.se/shop/annons/troja-me369-gron-rosa-gra-ull-cashmere-stl-s": {
+   "d": "2026-11-08",
+   "t": "Tr\u00f6ja, Me369, gr\u00f6n, rosa, gr\u00e5, ull, cashmere, stl. S ...",
+   "v": "no"
+  },
+  "https://neimanmarcus.com/p/casablanca-mens-silk-natures-teacher-mushroom-camp-shirt-prod277620318": {
+   "d": "2026-11-08",
+   "t": "Casablanca Men's Silk Nature's Teacher Mushroom Camp ...",
+   "v": "no"
+  },
+  "https://nordstrom.com/s/bdg-pixelated-balloon-pants/8514344": {
+   "d": "2026-11-08",
+   "t": "BDG Urban Outfitters Pixelated Balloon Pants (Men) | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstromrack.com/s/upper-atmosphere-cotton-graphic-t-shirt/7884390": {
+   "d": "2026-11-08",
+   "t": "Billionaire Boys Club Upper Atmosphere Cotton Graphic T ...",
+   "v": "no"
+  },
+  "https://redbubble.com/shop/cover+art+mens-graphic-t-shirts": {
+   "d": "2026-11-08",
+   "t": "Cover Art T-Shirts for Sale | Redbubble",
+   "v": "no"
+  },
+  "https://reddit.com/r/HelpMeFind/comments/1x43p0g/i_used_to_own_this_shirt_and_i_cant_remember_the": {
+   "d": "2026-11-08",
+   "t": "I used to own this shirt and I can't remember the name of ...",
+   "v": "no"
+  },
+  "https://reversible.com/shopping/men/item/casablanca-natures-teacher-silk-shirt-casablanca-paris-839417276": {
+   "d": "2026-11-08",
+   "t": "CASABLANCA Nature's Teacher Silk Shirt | Casablanca Paris ...",
+   "v": "no"
+  },
+  "https://shiekh.com/rare-peace-mangaverse-t-shirt-off-white-yellow-rt6024-ecru.html": {
+   "d": "2026-11-08",
+   "t": "RARE PEACE Mangaverse T-Shirt RT6024-ECRU - Shiekh",
+   "v": "no"
+  },
+  "https://sixthdimension.shop/product/do-re-mi-top": {
+   "d": "2026-11-08",
+   "t": "Do-Re-Mi Mesh Tee \u2013 sixthdimension.shop",
+   "v": "no"
+  },
+  "https://styledby-studio.com/collections/vintage": {
+   "d": "2026-11-08",
+   "t": "Vintage \u2013 Styled by Studio",
+   "v": "no"
+  },
+  "https://terraofheaven.com/products/brunette-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Brunette\" T-shirt - Boho Tops for Sale | Terra of Heaven",
+   "v": "no"
+  },
+  "https://therealreal.com/products/men/clothing/casual-shirts/casablanca-2025-silk-dress-shirt-vdwla": {
+   "d": "2026-11-08",
+   "t": "Casablanca 2025 Silk Dress Shirt - Casual Shirts, Clothing ...",
+   "v": "no"
+  },
+  "https://therealreal.com/products/men/clothing/outerwear/casablanca-printed-trucker-jacket-uisfh": {
+   "d": "2026-11-08",
+   "t": "Casablanca Printed Trucker Jacket - Blue Outerwear, Clothing ...",
+   "v": "no"
+  },
+  "https://therealreal.com/products/men/clothing/t-shirts/roberto-cavalli-vintage-2002-t-shirt-wbit2": {
+   "d": "2026-11-08",
+   "t": "Roberto Cavalli Vintage 2002 T-Shirt - Neutrals T-Shirts ...",
+   "v": "no"
+  },
+  "https://tillys.com/product/disney-mickey-minnie-kiss-unisex-tee/53674415004.html": {
+   "d": "2026-11-08",
+   "t": "DISNEY Mickey & Minnie Kiss Unisex Tee - WHITE - XS",
+   "v": "no"
+  },
+  "https://tumblr.com/southernchicstyle": {
+   "d": "2026-11-08",
+   "t": "southernchicstyle on Tumblr",
+   "v": "no"
+  },
+  "https://tumblr.com/southernchicstyle/693865706504208384/mermaid-shell-a-bration": {
+   "d": "2026-11-08",
+   "t": "Mermaid Shell-a-bration \u2013 @southernchicstyle on Tumblr",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com": {
+   "d": "2026-11-08",
+   "t": "Urban Outfitters: Men's & Women's Clothing, Homeware & Decor",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/the-north-face-rainbow-box-logo-long-sleeve-tee": {
+   "d": "2026-11-08",
+   "t": "The North Face Rainbow Box Logo Long Sleeve Tee | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/vintage-80s-ricks-cafe-jamaica-graphic-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Vintage 80s Rick's Cafe Jamaica Graphic T-shirt | Urban Outfitters",
+   "v": "no"
+  },
+  "https://walmart.com/ip/Rocky-Horror-Picture-Show-Lip-Logo-Men-s-and-Big-Men-s-Tie-Dye-Tee-Sizes-S-3XL/19599323809": {
+   "d": "2026-11-08",
+   "t": "Rocky Horror Picture Show Men's and Big Men's Pride Graphic Tee, Men's  Sizes S-3XL - Walmart.com",
+   "v": "no"
+  },
+  "https://wycovintage.com/products/1970s-grateful-dead-europe-72-shirt-11042263": {
+   "d": "2026-11-08",
+   "t": "1970s Grateful Dead Europe 72 Shirt | WyCo Vintage",
+   "v": "no"
+  },
+  "https://yizzam.com/products/antique-map-figure-of-the-heavenly-bodies-mens-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Antique Map Figure Of The Heavenly Bodies Mens T-Shirt | Yizzam",
+   "v": "no"
+  },
+  "https://yizzam.com/products/imatra-kandinsky-mens-t-shirt": {
+   "d": "2026-11-08",
+   "t": "Imatra - Kandinsky Mens T-Shirt | Yizzam",
+   "v": "no"
+  },
+  "https://yizzam.com/products/william-blake-miltons-mysterious-dream-1820-mens-t-shirt": {
+   "d": "2026-11-08",
+   "t": "William Blake - \"Miltons Mysterious Dream\" (1820) Mens T ...",
+   "v": "no"
+  }
+ }
 }
