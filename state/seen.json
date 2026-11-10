@@ -1,12 +1,22 @@
 {
- "google_query_index": 2,
- "last_google_date": "2026-11-09",
- "last_lens_date": "2026-11-09",
- "last_poshmark_date": "2026-11-09",
- "last_run_date": "2026-11-09",
+ "google_query_index": 3,
+ "last_google_date": "2026-11-10",
+ "last_lens_date": "2026-11-10",
+ "last_poshmark_date": "2026-11-10",
+ "last_run_date": "2026-11-10",
  "matches": [],
- "poshmark_query_index": 2,
+ "poshmark_query_index": 3,
  "seen": {
+  "ebay:266886312061": {
+   "d": "2026-11-10",
+   "t": "Future State Urban Outfitters Flower Chart T-Shirt Women's Size S | eBay",
+   "v": "no"
+  },
+  "ebay:315153737997": {
+   "d": "2026-11-10",
+   "t": "BDG Urban Outfitters Yin & Yang Sun & Dragon Light Tie Dye Men's Size:  Small | eBay",
+   "v": "no"
+  },
   "http://teesandtops.uk": {
    "d": "2026-11-08",
    "t": "TeesandTops Shop | Redbubble",
@@ -47,9 +57,19 @@
    "t": "Amazon.com: Mens Hot Air Balloon T-Shirt Hot Air Balloon Rides Festival",
    "v": "no"
   },
+  "https://amazon.com/clp/B09M6NCD31": {
+   "d": "2026-11-10",
+   "t": "Amazon.com: Tonka Tonka Tough Stripe Logo T-Shirt",
+   "v": "no"
+  },
   "https://amazon.com/clp/B0C3MVJH4X": {
    "d": "2026-11-09",
    "t": "Amazon.com: Colorful Hot Air Balloons T-Shirt",
+   "v": "no"
+  },
+  "https://amazon.com/clp/B0D2PMQ2VL": {
+   "d": "2026-11-10",
+   "t": "Amazon.com: Frutiger Aero Aesthetic Tech Computer Aquarium Tarot Card",
    "v": "no"
   },
   "https://balloondogapparel.com/collections/mens-short-sleeve-shirt-with-pocket": {
@@ -60,6 +80,11 @@
   "https://beymen.com/tr/p_casablanca-cok-renkli-t-shirt_1697926": {
    "d": "2026-11-08",
    "t": "Casablanca - \u00c7ok Renkli T-shirt - \u00c7ok Renkli",
+   "v": "no"
+  },
+  "https://boxlunch.com/product/disney-chicken-little-characters-striped-womens-t-shirt---boxlunch-exclusive/36505777.html": {
+   "d": "2026-11-10",
+   "t": "Disney Chicken Little Characters Striped Women's T-Shirt - BoxLunch  Exclusive | BoxLunch",
    "v": "no"
   },
   "https://bucketlisters.com/experience/phoenix-guided-sunrise-hot-air-balloon-ride": {
@@ -92,14 +117,64 @@
    "t": "Molly Goddard Blue Luke T-Shirt Molly Goddard",
    "v": "no"
   },
+  "https://collectorsweekly.com/stories/233282-original-1960s-tie-dye-american-target-b": {
+   "d": "2026-11-10",
+   "t": "Original 1960s Tie Dye American Target BVD T-Shirt ...",
+   "v": "no"
+  },
   "https://creativesoul.com/products/billionaire-boys-club-news-ss-knit-oversize-tee": {
    "d": "2026-11-08",
    "t": "Billionaire Boys Club News SS Knit (Oversize Fit) | Creative ...",
    "v": "no"
   },
+  "https://depop.com/beetroot_printmaking": {
+   "d": "2026-11-10",
+   "t": "beetroot_printmaking's Shop | Depop",
+   "v": "no"
+  },
+  "https://depop.com/products/mayatraberr-urban-outfitter-ed-hardy-c40d": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitter - Ed Hardy Koi Fish Graphic Baby Tee...",
+   "v": "no"
+  },
+  "https://depop.com/products/mayatraberr-urban-outfitters-skateboard-skeletons-7e54": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters - Skateboard Skeletons Graphic T... | Depop",
+   "v": "no"
+  },
+  "https://depop.com/products/savannah_f-black-graphic-baby-tee-cat": {
+   "d": "2026-11-10",
+   "t": "black graphic baby tee, cat design, \u201csee you later...",
+   "v": "no"
+  },
+  "https://depop.com/theme/urban-outfitters-koi-fish-tee": {
+   "d": "2026-11-10",
+   "t": "Urban outfitters koi fish tee - Depop",
+   "v": "no"
+  },
+  "https://dickssportinggoods.com/p/nike-mens-sportswear-premium-essentials-earth-day-graphic-t-shirt-26nikmcasunswtlspriex/26nikmcasunswtlspriex": {
+   "d": "2026-11-10",
+   "t": "Nike Mens NSW Earth Day T-Shirt - Multi/Black Size S",
+   "v": "no"
+  },
   "https://domicile-tokyo.shop-pro.jp": {
    "d": "2026-11-08",
    "t": "TONY TAFURO - DOMICILE TOKYO ONLINE SHOP",
+   "v": "no"
+  },
+  "https://ebay.com/b/Urban-Outfitters-Crew-Neck-Tops-for-Women/53159/bn_7115505793": {
+   "d": "2026-11-10",
+   "t": "25+ Urban Outfitters Crew Neck Tops for Women for sale | Updated Nov 2026",
+   "v": "no"
+  },
+  "https://ebay.com/b/Urban-Outfitters-Long-Sleeve-T-Shirts-for-Men/15687/bn_6595448": {
+   "d": "2026-11-10",
+   "t": "25+ Urban Outfitters Long Sleeve T-Shirts for Men for sale | Updated Nov  2026",
+   "v": "no"
+  },
+  "https://ebay.com/b/Urban-Outfitters-Striped-T-Shirts-for-Women/53159/bn_96627131": {
+   "d": "2026-11-10",
+   "t": "25+ Urban Outfitters Striped T-Shirts for Women for sale | Updated Nov 2026",
    "v": "no"
   },
   "https://ebay.com/shop/archaic-smile-shirt": {
@@ -110,6 +185,16 @@
   "https://ebay.com/shop/balloon-body": {
    "d": "2026-11-08",
    "t": "Balloon Body | eBay",
+   "v": "no"
+  },
+  "https://ebay.com/shop/graphic-tee-urban-outfitters": {
+   "d": "2026-11-10",
+   "t": "25+ Graphic Tee Urban Outfitters for sale | Updated Nov 2026",
+   "v": "no"
+  },
+  "https://ebay.com/shop/oversized-tee-urban-outfitters": {
+   "d": "2026-11-10",
+   "t": "Oversized Tee Urban Outfitters | eBay",
    "v": "no"
   },
   "https://ebay.es/str/tokyojapanquality": {
@@ -167,9 +252,19 @@
    "t": "Y2K Custo Barcelona T-shirt: Art Nouveau Alphonse Mucha ...",
    "v": "no"
   },
+  "https://etsy.com/listing/1905168503/5-loaves-2-fish-and-loaves-shirt-bible": {
+   "d": "2026-11-10",
+   "t": "5 Loaves 2 Fish and Loaves Shirt Bible Verse T Shirt Faith T Shirt Religious Tee Christian Clothing Bible Verse Tee Chri",
+   "v": "no"
+  },
   "https://etsy.com/listing/4377553544/vintage-90s-puff-daddy-t-shirt-single": {
    "d": "2026-11-08",
    "t": "Vintage 90's Puff Daddy T-shirt Single Stitch Winterland XL ...",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4412999425/anglerfish-vintage-t-shirt-minimalist": {
+   "d": "2026-11-10",
+   "t": "Anglerfish Vintage T-Shirt - Minimalist Deep Sea Fish Tee, Ocean Creature Linocut Style, Unique Sea Monster Gift for Fis",
    "v": "no"
   },
   "https://etsy.com/listing/594532616/womens-open-road-flowy-crop-top-classic": {
@@ -177,9 +272,29 @@
    "t": "Women's Open Road Flowy Crop Top Classic Rock Couture Soft ...",
    "v": "no"
   },
+  "https://etsy.com/listing/947190820/here-comes-the-sun-t-shirt-spring-hippie": {
+   "d": "2026-11-10",
+   "t": "Here comes the Sun t-shirt - Spring Hippie t-shirt - peace out shirt - Hippie Flowers - Gift for her t-shirt - Woman's a",
+   "v": "no"
+  },
+  "https://etsy.com/market/5_loaves_and_2_fish_shirt": {
+   "d": "2026-11-10",
+   "t": "5 Loaves and 2 Fish Shirt - Etsy - Page 2",
+   "v": "no"
+  },
+  "https://etsy.com/market/all_over_print_tshirt_vintage": {
+   "d": "2026-11-10",
+   "t": "All Over Print Tshirt Vintage - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/balloon_shirt": {
    "d": "2026-11-08",
    "t": "Balloon Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/beetle_t_shirt": {
+   "d": "2026-11-10",
+   "t": "Beetle T Shirt - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/cute_character_shirt": {
@@ -215,6 +330,26 @@
   "https://etsy.com/market/hot_air_balloon_t_shirt_design": {
    "d": "2026-11-09",
    "t": "Hot Air Balloon T Shirt Design - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/kids_vintage_nature_tee": {
+   "d": "2026-11-10",
+   "t": "Kids Vintage Nature Tee - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/spiral_t_shirt": {
+   "d": "2026-11-10",
+   "t": "Spiral T Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/sun_faded_black_tee": {
+   "d": "2026-11-10",
+   "t": "Sun Faded Black Tee - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/urban_outfitters_hoodie": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters Hoodie - Etsy",
    "v": "no"
   },
   "https://etsy.com/uk/market/skeleton_fish_shirt": {
@@ -312,6 +447,11 @@
    "t": "Hot Air Balloon Art - Canvas Prints & Wall Art | iCanvas",
    "v": "no"
   },
+  "https://iconsofsurf.com/products/rvca-mycelium-tee": {
+   "d": "2026-11-10",
+   "t": "RVCA | Mycelium Tee",
+   "v": "no"
+  },
   "https://instagram.com/p/DX0Fv9egFP1": {
    "d": "2026-11-08",
    "t": "We are born of love. Love is our mother.\" - Rumi \ud83e\udde1 Wearing ...",
@@ -367,6 +507,26 @@
    "t": "Through Endless Skies Tee \u2013 Magnolia Pearl Clothing",
    "v": "no"
   },
+  "https://mercari.com/us/item/m30423475964": {
+   "d": "2026-11-10",
+   "t": "Men's BDG Urban Outfitters Large T shirt | Mercari",
+   "v": "no"
+  },
+  "https://mercari.com/us/item/m31215317661": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters X Metallica T-Shirt Ride The Lightning Blue Garment Dye  Fit Tee",
+   "v": "no"
+  },
+  "https://mercari.com/us/item/m86298189489": {
+   "d": "2026-11-10",
+   "t": "Sublime Sun Graphic Pink Tie Dye Men Short | Mercari",
+   "v": "no"
+  },
+  "https://mercari.com/us/item/m93326099025": {
+   "d": "2026-11-10",
+   "t": "Women's BDG/Urban Outfitters Earth T- Shirt | Mercari",
+   "v": "no"
+  },
   "https://minnqu.com/index.php": {
    "d": "2026-11-08",
    "t": "women's short sleeve graphic T-shirt HE1108-02-01",
@@ -402,9 +562,24 @@
    "t": "Rainbow Ryders CEO and UNM alum celebrates 40 years of hot air ballooning |  UNM UCAM Newsroom",
    "v": "no"
   },
+  "https://nordstrom.com/browse/back-to-campus": {
+   "d": "2026-11-10",
+   "t": "BDG Urban Outfitters Back to Campus | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstrom.com/browse/women": {
+   "d": "2026-11-10",
+   "t": "Women's BDG Urban Outfitters Clothing, Shoes, & Accessories | Nordstrom",
+   "v": "no"
+  },
   "https://nordstrom.com/s/bdg-pixelated-balloon-pants/8514344": {
    "d": "2026-11-08",
    "t": "BDG Urban Outfitters Pixelated Balloon Pants (Men) | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstromrack.com/s/jbw-mens-saxon-diamond-croc-embossed-leather-strap-watch-48mm-0-16-ctw/6007555": {
+   "d": "2026-11-10",
+   "t": "JBW Men's Saxon Diamond Croc Embossed Leather Strap Watch ...",
    "v": "no"
   },
   "https://nordstromrack.com/s/upper-atmosphere-cotton-graphic-t-shirt/7884390": {
@@ -437,6 +612,16 @@
    "t": "Kennington Ltd. Blue Casual Button Down Shirts for Men on Sale up to 90%  Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/brand/Urban_Outfitters-Kids": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters Clothing, Shoes & Accessories for Kids on Sale up to 90%  Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/brand/Urban_Outfitters-Women-Sweaters-Shrugs_&_Ponchos--color-Pink": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters Pink Shrugs & Ponchos for Women on Sale up to 90% Off:  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/browse/mens-urban-outfitters-t-shirt": {
    "d": "2026-11-08",
    "t": "Mens Urban Outfitters T Shirt for Sale up to 90% Off: Poshmark",
@@ -457,6 +642,16 @@
    "t": "Urban Outfitters Vintage Tees for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Adora-Sweater-Vest-Taupe-SM-NWT-6ad551ec7e97496a11f620d7": {
+   "d": "2026-11-10",
+   "t": "ADORA | Sweaters | Adora Sweater Vest Taupe Sm Nwt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Anthropologie-Daily-Practice-Women-Dress-Sweater-Tunic-Cozy-Crowl-Neck-68489365ed788d82157ad9f2": {
+   "d": "2026-11-10",
+   "t": "Anthropologie | Sweaters | Anthropologie Daily Practice Women Dress Sweater  Tunic Cozy Crowl Neck | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/BARANDA-Vtg-TanGold-Color-with-raised-Black-Paisley-Dots-Long-Sleeve-Blouse-6a451cfe243dae06e94a5c09": {
    "d": "2026-11-09",
    "t": "Baranda | Tops | Baranda Vtg Tangold Color With Raised Black Paisley Dots  Long Sleeve Blouse | Poshmark",
@@ -472,9 +667,19 @@
    "t": "Tops | Bleached Sublimated Tshirt | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/COPY-Odd-future-hot-air-balloon-button-down-shirt-65163956981d48e2a2895615": {
+   "d": "2026-11-10",
+   "t": "COPY - Odd future hot air balloon button down shirt",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Dianes-Of-Honolulu-Vintage-Late-60s-Hawaiian-Maxi-Floral-Dress-Size-12-67df0953d3309f28048c58f8": {
    "d": "2026-11-09",
    "t": "Vintage | Dresses | Dianes Of Honolulu Vintage Late 6s Hawaiian Maxi Floral  Dress Size 2 | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Esperanza-Babydoll-Blouse-61d9d51693649fadab0013fa": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Esperanza Babydoll Blouse | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Fortnite-youth-light-green-short-sleeve-graphic-tee-size-m-8-6a7a553831f0f67af290a371": {
@@ -487,14 +692,34 @@
    "t": "Urban Outfitters | Tops | Green Urban Corset Top | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Gorgeous-floral-cropped-blouse-649f48bac1c346cb5cb063ca": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Gorgeous Floral Cropped Blouse | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Green-oversized-Kesha-Urban-Outfitters-shirt-6a8ef71b8091ef8f9085c6e3": {
    "d": "2026-11-08",
    "t": "Green oversized Kesha Urban Outfitters shirt",
    "v": "no"
   },
+  "https://poshmark.com/listing/HM-Wool-blend-Womens-Turtleneck-XS-6a836e0a231393e2bed060da": {
+   "d": "2026-11-10",
+   "t": "H&M | Sweaters | Hm Wool Blend Womens Turtleneck Xs | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Ice-Cube-PreOwned-Large-Band-TShirt-6721621acd201b75b4b5175d": {
    "d": "2026-11-08",
    "t": "Shirts | Ice Cube Preowned Large Band Tshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Jessica-Simpson-Cropped-Crewneck-Sweater-6ae34338f00c554f715be401": {
+   "d": "2026-11-10",
+   "t": "Jessica Simpson | Sweaters | Jessica Simpson Cropped Crewneck Sweater |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Long-sleeve-top-64f2233832c1dce3f67a804c": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Long Sleeve Top | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/NEW-MTV-Jackass-Urban-Outfitters-UO-Warning-Shirt-TShirt-Tee-L-XL-634f2b92ffb5d01625a71e7f": {
@@ -512,14 +737,29 @@
    "t": "Scotch & Soda | Shirts | Nwt Scotch Soda Tshirt | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/NWT-Urban-Outfitters-Out-From-Under-Light-Blue-TieDye-Jumpsuit-6ad94560a636160f1dde2a39": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Pants & Jumpsuits | Nwt Urban Outfitters Out From Under  Light Blue Tiedye Jumpsuit | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/National-Geographic-Black-TShirt-with-Orange-Goldfish-Graphic-6a4cc973ff032030f3907fde": {
    "d": "2026-11-09",
    "t": "National Geographic | Shirts | National Geographic Black Tshirt With Orange  Goldfish Graphic | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/New-Emily-Wonder-Boutique-Corduroy-Womens-SZ-Med-Shacket-Shirt-Bright-Colors-69d3ead04a072b530d930060": {
+   "d": "2026-11-10",
+   "t": "Emily Wonder | Tops | New Emily Wonder Boutique Corduroy Womens Sz Med  Shacket Shirt Bright Colors | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/New-Salaam-short-summer-dress-M-medium-made-in-the-USA-cap-sleeves-68559216fe25049fb761ca06": {
    "d": "2026-11-09",
    "t": "Salaam | Dresses | New Salaam Short Summer Dress M Medium Made In The Usa  Cap Sleeves | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Paper-Heart-sweater-Size-S-640aad2832c1dc4c4a130a3f": {
+   "d": "2026-11-10",
+   "t": "Paper Heart | Sweaters | Paper Heart Sweater Size S | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Penn-state-Nittany-lion-ears-65cb982d8634cb9d159dd81c": {
@@ -557,14 +797,34 @@
    "t": "Sweaters | Stunning Thick Chic Ribbed Maxi Sweaterdress With Snap Buttons |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/UNIF-sweater-6045c98b920786b3eb81d3a1": {
+   "d": "2026-11-10",
+   "t": "UNIF | Sweaters | Unif Sweater | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/URBAN-REBEL-Womens-Hoodie-Tie-Dye-Light-Hooded-Sweatshirt-Colorful-2X-621c0e3a7468d5005499023f": {
+   "d": "2026-11-10",
+   "t": "Urban Rebel | Tops | Urban Rebel Womens Hoodie Tie Dye Light Hooded  Sweatshirt Colorful 2x | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Black-ButtonUp-Top-6ad7eea671a0035527eff050": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Urban Outfitters Black Buttonup Top | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Carol-Space-Dye-Pullover-Sweater-Puff-Sleeve-Size-L-64d92ced4bc6555d05c01f5d": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Sweaters | Urban Outfitters Carol Space Dye Pullover  Sweater Puff Sleeve Size L | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Dark-Navy-Ribbed-VNeck-Crew-Sweater-6aac1c3fadedd1ab413ce2ca": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Sweaters | Urban Outfitters Dark Navy Ribbed Vneck Crew  Sweater | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Ecote-Linen-ALine-Strapless-Top-650b6a5052eee1d7aa713c61": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Ecote Linen Aline Strapless Top  | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Hoodie-Sweatshirt-Tie-Dye-Iets-Frans-Mens-Size-Small-6a7c1681a1bf20acc1aaa8cd": {
@@ -575,6 +835,26 @@
   "https://poshmark.com/listing/Urban-Outfitters-Lucky-8Ball-Charcoal-Gray-Graphic-TShirt-Size-M-NWT-6a466a05ff353a27dbedf31c": {
    "d": "2026-11-09",
    "t": "Urban Outfitters | Tops | Urban Outfitters Lucky 8ball Charcoal Gray  Graphic Tshirt Size M Nwt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Lyra-Pullover-Sweater-Size-L-67999a080c0a3fa60c5b252a": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters Lyra Pullover Sweater - Size L",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Out-From-Under-First-Base-Seamless-Top-646da55a528015bb8c148847": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Out From Under First Base  Seamless Top | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Pink-Polka-Dot-Leila-Top-Size-M-69fe056f44ad4d526c61b4df": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Pink Polka Dot Leila Top Size M  | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Pink-and-Gold-Wrap-Blouse-with-34-Sleeves-68335f502c9e44837cc4cb6e": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Pink And Gold Wrap Blouse With  34 Sleeves | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Sardine-Hidden-Fish-Mug-Unused-69acc60ba9a4485e3f135fe9": {
@@ -597,6 +877,21 @@
    "t": "Urban Outfitters | Jackets & Coats | Urban Outfitters Velour Bomber Jacket  | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Wool-Blend-Rainbow-Sweater-Size-XSmall-6a7485a29bca613910bb35dc": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Sweaters | Urban Outfitters Wool Blend Rainbow Sweater  Size Xsmall | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-outfitters-cold-shoulder-cross-halter-top-60b3a7126f6c91a87a760cd9": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Cold Shoulder Cross Halter Top |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-outfitters-green-long-sleeve-cropped-shirt-66952968d399ff76cca8f820": {
+   "d": "2026-11-10",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Green Long Sleeve Cropped Shirt  | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Vintage-70s80s-maroon-velour-pleated-sweatshirt-5e324c38aa7ed3c1b3610b29": {
    "d": "2026-11-08",
    "t": "Vintage | Tops | Vintage 7s80s Maroon Velour Pleated Sweatshirt | Poshmark",
@@ -605,6 +900,11 @@
   "https://poshmark.com/listing/rainbow-leopard-cropped-and-collared-button-up-60919ef081a36cdeaecd5b61": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Rainbow Leopard Cropped And Collared Button Up |  Poshmark",
+   "v": "no"
+  },
+  "https://rachaelfarrar.com/products/the-rainbow-sea-slug-facts-tee": {
+   "d": "2026-11-10",
+   "t": "The Rainbow Sea Slug Facts Tee \u2013 Rachael Farrar Artist",
    "v": "no"
   },
   "https://rainbowryders.com/locations/phoenix": {
@@ -667,6 +967,11 @@
    "t": "Vintage \u2013 Styled by Studio",
    "v": "no"
   },
+  "https://target.com/p/-/-/A-1008723764": {
+   "d": "2026-11-10",
+   "t": "Men's Star Trek Men's Short Sleeve Graphic T-Shirt Short Sleeve Graphic T- Shirt - Purple - Large : Target",
+   "v": "no"
+  },
   "https://terraofheaven.com/products/brunette-t-shirt": {
    "d": "2026-11-08",
    "t": "Brunette\" T-shirt - Boho Tops for Sale | Terra of Heaven",
@@ -687,9 +992,49 @@
    "t": "Roberto Cavalli Vintage 2002 T-Shirt - Neutrals T-Shirts ...",
    "v": "no"
   },
+  "https://thezoogallery.com/collections/t-shirts/tshirt": {
+   "d": "2026-11-10",
+   "t": "Zoo Tees",
+   "v": "no"
+  },
+  "https://tillys.com/product/bdg-urban-outfitters-relaxed-cat-maybe-later-womens-tee/541922164.html": {
+   "d": "2026-11-10",
+   "t": "BDG Urban Outfitters Relaxed Cat Maybe Later Womens Tee - OFF WHITE",
+   "v": "no"
+  },
   "https://tillys.com/product/disney-mickey-minnie-kiss-unisex-tee/53674415004.html": {
    "d": "2026-11-08",
    "t": "DISNEY Mickey & Minnie Kiss Unisex Tee - WHITE - XS",
+   "v": "no"
+  },
+  "https://tillys.com/product/ikigai-koi-fish-mens-tee/539478400.html": {
+   "d": "2026-11-10",
+   "t": "IKIGAI Koi Fish Mens Tee - BROWN | Tillys",
+   "v": "no"
+  },
+  "https://tillys.com/product/ikigai-koi-fish-mens-tee/53947840001.html": {
+   "d": "2026-11-10",
+   "t": "IKIGAI Koi Fish Mens Tee - BROWN - S | Tillys",
+   "v": "no"
+  },
+  "https://tillys.com/product/riot-society-floral-koi-womens-boyfriend-tee/550638400.html": {
+   "d": "2026-11-10",
+   "t": "RIOT SOCIETY Floral Koi Womens Boyfriend Tee - BROWN | Tillys",
+   "v": "no"
+  },
+  "https://tillys.com/product/riot-society-koi-girls-boyfriend-tee-/543845100.html": {
+   "d": "2026-11-10",
+   "t": "Koi Cherry Blossoms Wave Girls Tee - Black - Black / L",
+   "v": "no"
+  },
+  "https://tillys.com/product/salty-crew-fish-fight-mens-tee/541692100.html": {
+   "d": "2026-11-10",
+   "t": "SALTY CREW Fish Fight Mens Tee - Black - Size: Large",
+   "v": "no"
+  },
+  "https://tradera.com/item/1629/752323370/troja-me369-gron-rosa-gra-ull-cashmere-stl-s-": {
+   "d": "2026-11-10",
+   "t": "Tr\u00f6ja, Me369, gr\u00f6n, rosa, gr\u00e5, ull.. | K\u00f6p fr\u00e5n Myrorna p\u00e5 ...",
    "v": "no"
   },
   "https://tripadvisor.com/Attraction_Review-g60933-d559837-Reviews-Rainbow_Ryders_Hot_Air_Balloon-Albuquerque_New_Mexico.html": {
@@ -712,6 +1057,31 @@
    "t": "Urban Outfitters: Men's & Women's Clothing, Homeware & Decor",
    "v": "no"
   },
+  "https://urbanoutfitters.com/en-gb/shop/rainbow-led-wall-light": {
+   "d": "2026-11-10",
+   "t": "Rainbow LED Wall Light | Urban Outfitters UK",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/mens-vacation-outfits-curation": {
+   "d": "2026-11-10",
+   "t": "Men's Vacation Outfits & Beach Wear | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/daisy-street-kipper-fish-applique-graphic-cami": {
+   "d": "2026-11-10",
+   "t": "Daisy Street Kipper Fish Applique Graphic Cami | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/spalding-uo-exclusive-basketball3": {
+   "d": "2026-11-10",
+   "t": "Spalding UO Exclusive Basketball | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/stussy-neon-dragon-tee": {
+   "d": "2026-11-10",
+   "t": "Stussy Neon Dragon Tee | Urban Outfitters",
+   "v": "no"
+  },
   "https://urbanoutfitters.com/shop/the-north-face-rainbow-box-logo-long-sleeve-tee": {
    "d": "2026-11-08",
    "t": "The North Face Rainbow Box Logo Long Sleeve Tee | Urban Outfitters",
@@ -720,6 +1090,16 @@
   "https://urbanoutfitters.com/shop/vintage-80s-ricks-cafe-jamaica-graphic-t-shirt": {
    "d": "2026-11-08",
    "t": "Vintage 80s Rick's Cafe Jamaica Graphic T-shirt | Urban Outfitters",
+   "v": "no"
+  },
+  "https://us.amazon.com/AUHILL-Shirts-Blouses-Vintage-Sardines/dp/B0DFG96639": {
+   "d": "2026-11-10",
+   "t": "AUHILL Linen Shirts for Women Fish Print Blouses Casual Flowy Shirts Long  Sleeve Floral Tops Vintage Sardines Art Print",
+   "v": "no"
+  },
+  "https://us.shein.com/Starry-Sky-Cats-Catching-Fish-Washed-Graphic-T-Shirt-Minimal-Line-Art-Kitten-Print-Gift-For-Cat-Lovers-Night-Sky-Fans2026-p-522237392.html": {
+   "d": "2026-11-10",
+   "t": "Starry Sky Cats Catching Fish Washed Graphic T-Shirt, Minimal Line Art  Kitten Print, Gift For Cat Lovers & Night Sky Fa",
    "v": "no"
   },
   "https://viator.com/tours/Colorado-Springs/Colorado-Springs-Sunrise-Balloon-Ride/d22201-34641P1": {
@@ -752,6 +1132,11 @@
    "t": "Rocky Horror Picture Show Men's and Big Men's Pride Graphic Tee, Men's  Sizes S-3XL - Walmart.com",
    "v": "no"
   },
+  "https://wrangler.com/browse/back-to-school-t-shirts.html": {
+   "d": "2026-11-10",
+   "t": "Back To School T-Shirts",
+   "v": "no"
+  },
   "https://wycovintage.com/products/1970s-grateful-dead-europe-72-shirt-11042263": {
    "d": "2026-11-08",
    "t": "1970s Grateful Dead Europe 72 Shirt | WyCo Vintage",
@@ -760,6 +1145,11 @@
   "https://yizzam.com/products/antique-map-figure-of-the-heavenly-bodies-mens-t-shirt": {
    "d": "2026-11-08",
    "t": "Antique Map Figure Of The Heavenly Bodies Mens T-Shirt | Yizzam",
+   "v": "no"
+  },
+  "https://yizzam.com/products/antique-map-figure-of-the-heavenly-bodies-womens-top": {
+   "d": "2026-11-10",
+   "t": "Antique Map Figure Of The Heavenly Bodies Womens Top | Yizzam",
    "v": "no"
   },
   "https://yizzam.com/products/imatra-kandinsky-mens-t-shirt": {
