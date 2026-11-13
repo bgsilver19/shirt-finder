@@ -1,11 +1,19 @@
 {
- "google_query_index": 5,
- "last_google_date": "2026-11-12",
- "last_lens_date": "2026-11-12",
- "last_poshmark_date": "2026-11-12",
- "last_run_date": "2026-11-12",
- "matches": [],
- "poshmark_query_index": 5,
+ "google_query_index": 6,
+ "last_google_date": "2026-11-13",
+ "last_lens_date": "2026-11-13",
+ "last_poshmark_date": "2026-11-13",
+ "last_run_date": "2026-11-13",
+ "matches": [
+  {
+   "date": "2026-11-13",
+   "reason": "Same shirt: rainbow in red scroll frame, man riding goldfish, sun rays, balloons, grid \u2014 appears to be a photo of the same garment (Reddit 'find this shirt' post).",
+   "title": "Find this shirt",
+   "url": "https://www.reddit.com/r/findthisshirt/",
+   "verdict": "same_design"
+  }
+ ],
+ "poshmark_query_index": 6,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -20,6 +28,11 @@
   "ebay:226111066412": {
    "d": "2026-11-11",
    "t": "GoldFish on Ocean Tokyo 1998 by Yayoi Kusama Retro Vintage Art Poster Print  | eBay",
+   "v": "no"
+  },
+  "ebay:254989395701": {
+   "d": "2026-11-13",
+   "t": "Yes - \u201cRelayer\u201d - 2016 White/Gray Shirt - Dye Sublimated ...",
    "v": "no"
   },
   "ebay:266886312061": {
@@ -72,6 +85,21 @@
    "t": "Vintage 1972 Kelley Mouse Studio Test Print T-Shirt | Ted ...",
    "v": "no"
   },
+  "https://alibaba.com/product-detail/Colorful-Skydiving-Skydive-T-Shirt-With_1601715780211.html": {
+   "d": "2026-11-13",
+   "t": "Colorful Skydiving T-Shirt with Rainbow Parachute Design Digital Printing  Short Sleeve Unisex for Adventure Lovers| Ali",
+   "v": "no"
+  },
+  "https://aliexpress.com/item/1005010439273762.html": {
+   "d": "2026-11-13",
+   "t": "Rainbow Play Parachute Multiplayer Outdoor Teamwork Game Kids Cooperative  Camping Kindergarten Sports Party Small Favor",
+   "v": "no"
+  },
+  "https://allaroundartsyfashion.com/products/as-above-so-below-womens-t-shirt": {
+   "d": "2026-11-13",
+   "t": "As Above, So Below\" - Women's T-Shirt \u2013 All Around Artsy Fashion",
+   "v": "no"
+  },
   "https://amazon.com/Colorful-Rainbow-Hot-Air-Balloon/dp/B0F116MFMZ": {
    "d": "2026-11-09",
    "t": "Amazon.com: Colorful Rainbow Hot Air Balloon Flight Tees T-Shirts for Men  Women Kids : Clothing, Shoes & Jewelry",
@@ -80,6 +108,26 @@
   "https://amazon.com/Earth-Wind-Fire-T-Shirt-Charcoal/dp/B07TK3GHZD": {
    "d": "2026-11-08",
    "t": "Amazon.com: Men's Earth Wind & Fire Let's Groove (Back Print ...",
+   "v": "no"
+  },
+  "https://amazon.com/IBDRY-Toddler-Parachute-Birthday-Building/dp/B0CRQVQ5DK": {
+   "d": "2026-11-13",
+   "t": "Amazon.com: IBDRY Toddler Game Rainbow Parachute, Big Game Day Birthday  Party Team Building Game Rainbow Parachute (Siz",
+   "v": "no"
+  },
+  "https://amazon.com/Liquid-Blue-Grateful-Parachuting-T-Shirt/dp/B001SERZMI": {
+   "d": "2026-11-13",
+   "t": "Amazon.com: Liquid Blue Men's Grateful Dead Parachuting Bear Short Sleeve T- Shirt,Multi,Small : Clothing, Shoes & Jewel",
+   "v": "no"
+  },
+  "https://amazon.com/Parachute-Diameter-Colorful-Gymnastics-Cooperative/dp/B0CYZM9ZC2": {
+   "d": "2026-11-13",
+   "t": "Amazon.com : Parachute Toy, 6.1ft Diameter Giant Rainbow Parachute for Kids  Colorful Children Parachute with Handles La",
+   "v": "no"
+  },
+  "https://amazon.com/Skydiving-Skydiver-Skydive-Parachuting-Premium/dp/B0D9YWSF4H": {
+   "d": "2026-11-13",
+   "t": "Skydiving Skydiver Skydive Parachuting Popart Premium Tri-blend T-Shirt :  Clothing, Shoes & Jewelry - Amazon.com",
    "v": "no"
   },
   "https://amazon.com/clp/B07PL5QXBX": {
@@ -107,6 +155,11 @@
    "t": "Amazon.com: Frutiger Aero Aesthetic Tech Computer Aquarium Tarot Card",
    "v": "no"
   },
+  "https://arteraa.com/products/cute-rainbow-sunshine-png-kids-toddler-sublimation-shirt-a-1570": {
+   "d": "2026-11-13",
+   "t": "Cute Rainbow Sunshine PNG - Kids Toddler Sublimation Shirt A 1570 \u2013 Arteraa",
+   "v": "no"
+  },
   "https://balloondogapparel.com/collections/mens-short-sleeve-shirt-with-pocket": {
    "d": "2026-11-08",
    "t": "Men's Short Sleeve Shirt with Pocket \u2013 Balloon Dog Apparel",
@@ -117,9 +170,19 @@
    "t": "Vintage Ray Troll Twist and Trout Tee SZ L | Vintage Fishing Tee Seatt \u2013  The Barn Owl Vintage Goods",
    "v": "no"
   },
+  "https://beepumpkin.com/collections/birthday-family-matching-tees": {
+   "d": "2026-11-13",
+   "t": "Birthday Sales, Baby & Kids Gifts For Birthday - Beepumpkin.com \u2013  Beepumpkin\u2122",
+   "v": "no"
+  },
   "https://beymen.com/tr/p_casablanca-cok-renkli-t-shirt_1697926": {
    "d": "2026-11-08",
    "t": "Casablanca - \u00c7ok Renkli T-shirt - \u00c7ok Renkli",
+   "v": "no"
+  },
+  "https://blog.planoballoonfest.org/royal-race-shirts-revealed": {
+   "d": "2026-11-13",
+   "t": "Plano Balloon Fest | Blog",
    "v": "no"
   },
   "https://boxlunch.com/product/disney-chicken-little-characters-striped-womens-t-shirt---boxlunch-exclusive/36505777.html": {
@@ -172,6 +235,11 @@
    "t": "Original 1960s Tie Dye American Target BVD T-Shirt ...",
    "v": "no"
   },
+  "https://creativefabrica.com/product/rainbow-fish-sublimation-clipart-2": {
+   "d": "2026-11-13",
+   "t": "Rainbow Fish Sublimation Clipart Graphic by Ak Artwork \u00b7 Creative Fabrica",
+   "v": "no"
+  },
   "https://creativesoul.com/products/billionaire-boys-club-news-ss-knit-oversize-tee": {
    "d": "2026-11-08",
    "t": "Billionaire Boys Club News SS Knit (Oversize Fit) | Creative ...",
@@ -207,9 +275,34 @@
    "t": "Nike Mens NSW Earth Day T-Shirt - Multi/Black Size S",
    "v": "no"
   },
+  "https://discountschoolsupply.com/play-learn/active-play/gross-motor/excellerations-brawny-tough-rainbow-parachute---12dia-/p/2692": {
+   "d": "2026-11-13",
+   "t": "Excellerations Brawny Tough Rainbow Parachute - 12'dia",
+   "v": "no"
+  },
+  "https://discountschoolsupply.com/play-learn/active-play/gross-motor/excellerations-brawny-tough-rainbow-parachute---20dia-/p/2693": {
+   "d": "2026-11-13",
+   "t": "Excellerations Brawny Tough Rainbow Parachute - 20'dia",
+   "v": "no"
+  },
+  "https://discountschoolsupply.com/play-learn/active-play/gross-motor/excellerations-brawny-tough-rainbow-parachute---6dia-/p/2701": {
+   "d": "2026-11-13",
+   "t": "Excellerations Brawny Tough Rainbow Parachute - 6'dia",
+   "v": "no"
+  },
   "https://domicile-tokyo.shop-pro.jp": {
    "d": "2026-11-08",
    "t": "TONY TAFURO - DOMICILE TOKYO ONLINE SHOP",
+   "v": "no"
+  },
+  "https://dreamstime.com/illustration/rainbow-parachute.html": {
+   "d": "2026-11-13",
+   "t": "Rainbow Parachute Stock Illustrations \u2013 119 Rainbow Parachute Stock  Illustrations, Vectors & Clipart - Dreamstime",
+   "v": "no"
+  },
+  "https://dreamstime.com/photos-images/rainbow-parachute.html": {
+   "d": "2026-11-13",
+   "t": "579 rainbow parachute Images & Stock Photos | Dreamstime",
    "v": "no"
   },
   "https://ebay.com/b/Urban-Outfitters-Crew-Neck-Tops-for-Women/53159/bn_7115505793": {
@@ -372,6 +465,11 @@
    "t": "Buy Asia Tees Online In India - Etsy India",
    "v": "no"
   },
+  "https://etsy.com/listing/1103332841/retro-skydiving-shirt-skydiver-parachute": {
+   "d": "2026-11-13",
+   "t": "Retro Skydiving Shirt - Skydiver Parachute Silhouette Long Sleeve Skydiving T-Shirt",
+   "v": "no"
+  },
   "https://etsy.com/listing/1266854509/rainbow-hot-air-balloon-t-shirt-birthday": {
    "d": "2026-11-09",
    "t": "Rainbow Hot Air Balloon T-shirt, Birthday Outfit, Summer Trip Shirt - Etsy",
@@ -387,14 +485,29 @@
    "t": "Matisse Exhibition Poster Set: French Museum Art (digital Download) - Etsy",
    "v": "no"
   },
+  "https://etsy.com/listing/1679538850/gymnastics-birthday-shirt-girls-rainbow": {
+   "d": "2026-11-13",
+   "t": "Gymnastics Birthday Shirt Girls, Custom Rainbow Glitter Gymnast Party  Tumbling Beam - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/listing/1704527788/disco-mounted-fish-mirror-ball-goldfish": {
    "d": "2026-11-11",
    "t": "Disco Mounted Fish | Mirror Ball Goldfish | Funky Maximalist Art | Boho  Dopamine Decor - Etsy",
    "v": "no"
   },
+  "https://etsy.com/listing/1713239810/disney-pixar-up-shirt-a-world-of": {
+   "d": "2026-11-13",
+   "t": "Disney Pixar up Shirt, A World of Adventure Awaits Rainbow Balloons Tee,  Disneyland Vacation, Disney up Movie Shirts, P",
+   "v": "no"
+  },
   "https://etsy.com/listing/1734143181/morning-hot-air-balloon-ride-quilt-panel": {
    "d": "2026-11-09",
    "t": "Morning Hot Air Balloon Ride Quilt Panel - AFT-003, Panel Size is 23.5\" X 16\", Quality Quilting Cotton",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1755926520/pink-floyd-lady-pink-unisex-tee": {
+   "d": "2026-11-13",
+   "t": "PINK FLOYD 'lady Pink' Unisex Tee | Officially Licensed ...",
    "v": "no"
   },
   "https://etsy.com/listing/1770516877/woman-glasses-canvas-wall-art-surreal": {
@@ -412,14 +525,34 @@
    "t": "Mini Goldfish Pi\u00f1ata: Tropical Luau, Ocean, Baby Shower Party Decoration",
    "v": "no"
   },
+  "https://etsy.com/listing/1803991956/watercolor-parachute-clip-art-whimsical": {
+   "d": "2026-11-13",
+   "t": "Watercolor Parachute Clip Art: Whimsical PNG Graphics (digital Download) -  Etsy",
+   "v": "no"
+  },
   "https://etsy.com/listing/1810725147/y2k-custo-barcelona-t-shirt-art-nouveau": {
    "d": "2026-11-09",
    "t": "Y2K Custo Barcelona T-shirt: Art Nouveau Alphonse Mucha ...",
    "v": "no"
   },
+  "https://etsy.com/listing/1822259959/skydiving-png-sublimation-colorful": {
+   "d": "2026-11-13",
+   "t": "Skydiving PNG Sublimation - Colorful Parachute Clipart for Shirts, Gifts, Adventure Designs, Extreme Sports Decor",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1849116448/skydiving-t-shirt-design-100-skydiving": {
+   "d": "2026-11-13",
+   "t": "100+ Skydiving T-Shirt Designs: Parachute SVG, PNG Clipart (Digital Download)",
+   "v": "no"
+  },
   "https://etsy.com/listing/1905168503/5-loaves-2-fish-and-loaves-shirt-bible": {
    "d": "2026-11-10",
    "t": "5 Loaves 2 Fish and Loaves Shirt Bible Verse T Shirt Faith T Shirt Religious Tee Christian Clothing Bible Verse Tee Chri",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4305586314/rainbow-balloon-birthday-romper-1st": {
+   "d": "2026-11-13",
+   "t": "Personalized Rainbow Balloon Birthday Outfit, Romper, Sweatshirt or Shirt",
    "v": "no"
   },
   "https://etsy.com/listing/4340398074/surreal-canvas-art-goldfish-phone-booth": {
@@ -562,6 +695,11 @@
    "t": "Goldfish Art Drawing - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/goldfish_transfer": {
+   "d": "2026-11-13",
+   "t": "Goldfish Transfer - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/grunge_fish_tshirt": {
    "d": "2026-11-11",
    "t": "Grunge Fish Tshirt - Etsy",
@@ -622,9 +760,24 @@
    "t": "Ragdoll Cat Shirts - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/skydiving_sublimation": {
+   "d": "2026-11-13",
+   "t": "Skydiving Sublimation - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/spiral_t_shirt": {
    "d": "2026-11-10",
    "t": "Spiral T Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/sublimation_designs_trout": {
+   "d": "2026-11-13",
+   "t": "Sublimation Designs Trout - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/sublimation_fishing_jersey": {
+   "d": "2026-11-13",
+   "t": "Sublimation Fishing Jersey - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/sun_faded_black_tee": {
@@ -737,6 +890,11 @@
    "t": "Rainbow Ryders Hot Air Balloon Company",
    "v": "no"
   },
+  "https://facebook.com/balloonfiesta/posts/welcome-sheldon-grauberger-with-rainbow-ryders-inc-hot-air-balloon-co-the-offici/1553758426796082": {
+   "d": "2026-11-13",
+   "t": "Welcome Sheldon Grauberger with Rainbow Ryders, Inc. Hot Air Balloon Co.,  the official ride operator of #BalloonFiesta ",
+   "v": "no"
+  },
   "https://facebook.com/balloonfiesta/posts/welcome-tony-sandlin-and-sheldon-grauberger-with-rainbow-ryders-inc-hot-air-ball/1237366605101934": {
    "d": "2026-11-09",
    "t": "Welcome Tony Sandlin and Sheldon Grauberger with Rainbow Ryders, Inc. Hot  Air Balloon Co. \u2013 the official ride operator ",
@@ -782,6 +940,11 @@
    "t": "Store \u2013 Fontaines D.C.",
    "v": "no"
   },
+  "https://foxvalleyvalues.com/offer/9518": {
+   "d": "2026-11-13",
+   "t": "Fox Valley Values - Goldfish Swim School - Plan a Pool Party",
+   "v": "no"
+  },
   "https://gem.app/product/issey-miyake-issey-miyake-aya-takano-f-w-31766": {
    "d": "2026-11-08",
    "t": "Issey Miyake Issey Miyake Aya Takano F/W 2004 Shirt - Gem",
@@ -802,14 +965,39 @@
    "t": "Casablanca Top woman - Multicolor | WPS25JTS03401 | GIGLIO.COM",
    "v": "no"
   },
+  "https://giglio.com/ru-ru/clothing-woman_sweater-casablanca-wf24jtp028.html": {
+   "d": "2026-11-13",
+   "t": "Casablanca \u0421\u0432\u0438\u0442\u0435\u0440 \u0416\u0435\u043d\u0441\u043a\u043e\u0435 - \u0411\u0435\u043b\u044b\u0439 | WF24JTP028 | GIGLIO.COM",
+   "v": "no"
+  },
   "https://gohebervalley.com/rainbow-ryders-hot-air-balloon-co": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders Hot Air Balloon Co.",
    "v": "no"
   },
+  "https://gophersport.com/elevair-parachutes": {
+   "d": "2026-11-13",
+   "t": "Lightweight parachutes inspire energetic group play as students work  together on waves, lifts, and cooperative movement",
+   "v": "no"
+  },
+  "https://gophersport.com/rainbow-elevair-parachutes-set": {
+   "d": "2026-11-13",
+   "t": "Rainbow ElevAir Parachute Sets",
+   "v": "no"
+  },
+  "https://grailed.com/listings/55247063-travis-scott-travis-scott-utopia-tour-demon-tee-shirt": {
+   "d": "2026-11-13",
+   "t": "Travis Scott Travis Scott Utopia Tour Demon Tee Shirt | Grailed",
+   "v": "no"
+  },
   "https://holythrift.com/collections/all-products": {
    "d": "2026-11-09",
    "t": "All Collections \u2013 Holy Thrift",
+   "v": "no"
+  },
+  "https://holythrift.com/products/hysterics-pop-art-pin-up-medallion-long-sleeve-xs-s": {
+   "d": "2026-11-13",
+   "t": "Hysterics Pop Art Pin-Up Medallion Long Sleeve (XS/S)",
    "v": "no"
   },
   "https://hottopic.com/product/aerosmith-1977-tour-boyfriend-fit-girls-t-shirt/19883508.html": {
@@ -837,6 +1025,16 @@
    "t": "RVCA | Mycelium Tee",
    "v": "no"
   },
+  "https://instagram.com/p/CL7i1ZYF6mZ": {
+   "d": "2026-11-13",
+   "t": "1970s Goldfish Crackers Promo Tee \u2764\ufe0fSOLD\u2764\ufe0f \u201cWhat? You've never swallowed a  Goldfish?\u201d While researching this shirt I fo",
+   "v": "no"
+  },
+  "https://instagram.com/p/DJptI_Bs9s6": {
+   "d": "2026-11-13",
+   "t": "Our current T-shirt club design is the Parachute Trout! There is actual  context to this T-shirt design - Trout are regu",
+   "v": "no"
+  },
   "https://instagram.com/p/DMY51CQsDvN": {
    "d": "2026-11-12",
    "t": "Vintage fish tees AVAILABLE NOW \ud83e\udd29 onlytrouts.com \ud83d\udd17 in bio",
@@ -847,9 +1045,19 @@
    "t": "Vintage fish tees available RIGHT NOW \ud83e\udd1d Time is to be announced \ud83c\udfa3  onlytrouts.com - link in bio",
    "v": "no"
   },
+  "https://instagram.com/p/DP7ZEqjDyoe": {
+   "d": "2026-11-13",
+   "t": "In gym class, one of the most memorable activities was the rainbow-colored  parachute. Made of lightweight nylon with br",
+   "v": "no"
+  },
   "https://instagram.com/p/DQK3_ikjH1b": {
    "d": "2026-11-12",
    "t": "Vintage Ray Troll art fish tees \ud83c\udfa8\ud83d\udc1f Website drop is NOW AVAILABLE  onlytrouts.com \ud80c\udd9d\ud80c\udd9c link in bio",
+   "v": "no"
+  },
+  "https://instagram.com/p/DWUevMDAWvx": {
+   "d": "2026-11-13",
+   "t": "Giant Rainbow Parachute and Balloon Ball Game @sarahssilks opening party \ud83c\udf08  So much joy \ud83d\udc9b",
    "v": "no"
   },
   "https://instagram.com/p/DX0Fv9egFP1": {
@@ -870,6 +1078,11 @@
   "https://instagram.com/p/DefpTNTkcm1": {
    "d": "2026-11-12",
    "t": "Vintage fishin' tees available Saturday \ud83d\ude0e onlytrouts.com \ud80c\udd9d\ud80c\udd9c link in bio  Restock 10/17 @ 2PM EDT",
+   "v": "no"
+  },
+  "https://instagram.com/p/DeiNJaJCp3j": {
+   "d": "2026-11-13",
+   "t": "Retailer | Travis Scott, in stock at Retailer. Plus 2 price ...",
    "v": "no"
   },
   "https://instagram.com/popular/rainbow-ryders-hot-air-balloon-co-photos": {
@@ -902,14 +1115,29 @@
    "t": "Good eye! - Isthmus | Madison, Wisconsin",
    "v": "no"
   },
+  "https://istockphoto.com/illustrations/rainbow-parachute": {
+   "d": "2026-11-13",
+   "t": "110+ Rainbow Parachute Illustrations - iStock",
+   "v": "no"
+  },
   "https://jing-shop.com/en/sure-shirts/10799-no-time-t-shirt-size-l-stonewashed.html": {
    "d": "2026-11-08",
    "t": "No Time\" T-shirt Size L Stonewashed",
    "v": "no"
   },
+  "https://lacrosseunlimited.com/products/tee-finance-segue-tee-26": {
+   "d": "2026-11-13",
+   "t": "Goldfish Memory T-Shirt - Youth Large | Lacrosse Unlimited",
+   "v": "no"
+  },
   "https://lcheertattoos.com/products/dreamy-balloon-goldfish-color-temporary-tattoo": {
    "d": "2026-11-09",
    "t": "Dreamy Balloon & Goldfish Color Temporary Tattoos | LCHEER",
+   "v": "no"
+  },
+  "https://liquidblue.com/music/rock-and-roll/grateful-dead/parachuting-bears-tie-dye-t-shirt": {
+   "d": "2026-11-13",
+   "t": "Parachuting Bears Tie-Dye T-Shirt ( 5XL )",
    "v": "no"
   },
   "https://made4walkin.com/products/wild-child-t-shirt-gypsy-ivory-short-sleeve-top-with-graphic-print-great-for-festivals-cast-a-spell-available-in-small-medium-or-large": {
@@ -925,6 +1153,11 @@
   "https://magnoliapearl.com/products/through-endless-skies-t-kiss-molly": {
    "d": "2026-11-08",
    "t": "Through Endless Skies Tee \u2013 Magnolia Pearl Clothing",
+   "v": "no"
+  },
+  "https://maxfieldla.com/products/casablanca-music-for-the-people-silk-shirt": {
+   "d": "2026-11-13",
+   "t": "CASABLANCA | MUSIC FOR THE PEOPLE SILK SHIRT",
    "v": "no"
   },
   "https://mercari.com/us/item/m30423475964": {
@@ -977,6 +1210,11 @@
    "t": "Casablanca Men's Silk Nature's Teacher Mushroom Camp ...",
    "v": "no"
   },
+  "https://neimanmarcus.com/p/casablanca-printed-mesh-long-sleeve-top-prod277570526": {
+   "d": "2026-11-13",
+   "t": "Casablanca Printed Mesh Long-Sleeve Top | Neiman Marcus",
+   "v": "no"
+  },
   "https://news.unm.edu/news/rainbow-ryders-ceo-and-unm-alum-celebrates-40-years-of-hot-air-ballooning": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders CEO and UNM alum celebrates 40 years of hot air ballooning |  UNM UCAM Newsroom",
@@ -985,6 +1223,11 @@
   "https://nordstrom.com/browse/back-to-campus": {
    "d": "2026-11-10",
    "t": "BDG Urban Outfitters Back to Campus | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstrom.com/browse/men/clothing/shirts/tshirts/graphic": {
+   "d": "2026-11-13",
+   "t": "Men's Casablanca Graphic Tees | Nordstrom",
    "v": "no"
   },
   "https://nordstrom.com/browse/women": {
@@ -1007,9 +1250,19 @@
    "t": "Billionaire Boys Club Upper Atmosphere Cotton Graphic T ...",
    "v": "no"
   },
+  "https://nowbestshirt.com/product/from-way-up-here-you-look-like-an-asshole-fish-parachute-t-shirt": {
+   "d": "2026-11-13",
+   "t": "From Way up Here You Look Like an Asshole Fish Parachute T-Shirt, hoodie,  sweatshirt & apparel",
+   "v": "no"
+  },
   "https://nowbestshirt.com/product/what-am-i-even-doing-here-hot-air-balloon-trout-shirt": {
    "d": "2026-11-09",
    "t": "What Am I Even Doing Here Hot Air Balloon Trout shirt",
+   "v": "no"
+  },
+  "https://ottumwaproballoonraces.com/tshirtpreorder": {
+   "d": "2026-11-13",
+   "t": "Tshirtpreorder | ottumwaballoonraces",
    "v": "no"
   },
   "https://overtherainbowhotairballoonrides.com": {
@@ -1020,6 +1273,26 @@
   "https://owensteegarage.com/products/cowboy-riding-rainbow-trout-t-shirtjnrp376": {
    "d": "2026-11-12",
    "t": "Cowboy Riding Rainbow Trout T-shirt",
+   "v": "no"
+  },
+  "https://pacsun.com/kids-rainbow-brite-parade-pals-t-shirt-0781602190098.html": {
+   "d": "2026-11-13",
+   "t": "Kids Rainbow Brite Parade Pals T-Shirt | Pacsun",
+   "v": "no"
+  },
+  "https://parachutefishing.com/products/drippy-fish-t-shirt": {
+   "d": "2026-11-13",
+   "t": "Drippy Fish T-Shirt \u2013 Parachute Fishing Company",
+   "v": "no"
+  },
+  "https://pdoomrecords.com/products/goldfish-fountain-tee": {
+   "d": "2026-11-13",
+   "t": "Goldfish Fountain Tee - p(doom) records US",
+   "v": "no"
+  },
+  "https://phoenixmag.com/2023/06/13/on-the-up-and-up-rainbow-ryders-celebrates-40-years-in-the-valley": {
+   "d": "2026-11-13",
+   "t": "On the Up and Up: Rainbow Ryders Celebrates 40 Years in the Valley -  PHOENIX magazine",
    "v": "no"
   },
   "https://phoenixwithkids.net/hot-air-balloon-ride-rainbow-ryders": {
@@ -1052,9 +1325,19 @@
    "t": "urban pipeline Short Sleeve T-Shirts for Women on Sale up to 90% Off:  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/browse/bdg-cropped-sweater": {
+   "d": "2026-11-13",
+   "t": "Bdg Cropped Sweater for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/browse/mens-urban-outfitters-t-shirt": {
    "d": "2026-11-08",
    "t": "Mens Urban Outfitters T Shirt for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/urban-outfitters-baggy-sweaters": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters Baggy Sweaters for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/browse/urban-outfitters-graphic-t-shirts": {
@@ -1062,9 +1345,19 @@
    "t": "Urban Outfitters Graphic T Shirts for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/browse/urban-outfitters-khakis-pants": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters Khakis Pants for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/browse/urban-outfitters-ringer-tee": {
    "d": "2026-11-08",
    "t": "Urban Outfitters Ringer Tee for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/urban-outfitters-striped-sweater": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters Striped Sweater for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/browse/urban-outfitters-vintage-tees": {
@@ -1180,6 +1473,11 @@
   "https://poshmark.com/listing/Fox-Originals-Amsterdam-Shirt-6222ba413cda88efd3d5caa2": {
    "d": "2026-11-12",
    "t": "fox originals | Shirts | Fox Originals Amsterdam Shirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Free-People-multicolored-wide-leg-pants-SZ-M-6468cb20fe2504214b613566": {
+   "d": "2026-11-13",
+   "t": "Free People | Pants & Jumpsuits | Free People Multicolored Wide Leg Pants  Sz M | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/GREEN-URBAN-CORSET-TOP-627da61c21f2e1c8a66d193d": {
@@ -1382,6 +1680,11 @@
    "t": "Urban Rebel | Tops | Urban Rebel Womens Hoodie Tie Dye Light Hooded  Sweatshirt Colorful 2x | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitter-jeans-667c6bbf6ccbb64f2dcf73d8": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters | Pants & Jumpsuits | Urban Outfitter Jeans | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Black-ButtonUp-Top-6ad7eea671a0035527eff050": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Urban Outfitters Black Buttonup Top | Poshmark",
@@ -1402,6 +1705,11 @@
    "t": "Urban Outfitters | Tops | Urban Outfitters Ecote Linen Aline Strapless Top  | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Green-Striped-Track-Pants-with-Maroon-4-Patch-6a9997031b53fe79064c40d5": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters | Pants & Jumpsuits | Urban Outfitters Green Striped Track  Pants With Maroon 4 Patch | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Grey-Tee-with-Navy-NYC-1990-Graphic-6aeb6509a0b935e15e845a4c": {
    "d": "2026-11-11",
    "t": "Urban Outfitters | Tops | Urban Outfitters Grey Tee With Navy Nyc 99  Graphic | Poshmark",
@@ -1412,6 +1720,16 @@
    "t": "Urban Outfitters | Shirts | Urban Outfitters Hoodie Sweatshirt Tie Dye Iets  Frans Mens Size Small | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Kaylee-SplitAnkle-Gingham-Pant-6acd6d26b9dd7037411b275f": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters Kaylee Split-Ankle Gingham Pant",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Light-Blue-Embroidered-Spaghetti-Strap-Top-6a10b23605deb31cadda035b": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters | Dresses | Urban Outfitters Light Blue Embroidered  Spaghetti Strap Top | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Lucky-8Ball-Charcoal-Gray-Graphic-TShirt-Size-M-NWT-6a466a05ff353a27dbedf31c": {
    "d": "2026-11-09",
    "t": "Urban Outfitters | Tops | Urban Outfitters Lucky 8ball Charcoal Gray  Graphic Tshirt Size M Nwt | Poshmark",
@@ -1420,6 +1738,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Lyra-Pullover-Sweater-Size-L-67999a080c0a3fa60c5b252a": {
    "d": "2026-11-10",
    "t": "Urban Outfitters Lyra Pullover Sweater - Size L",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Navy-Joggers-695a976d7ac629cae83864a3": {
+   "d": "2026-11-13",
+   "t": "Urban Outfitters | Pants & Jumpsuits | Urban Outfitters Navy Joggers |  Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Out-From-Under-First-Base-Seamless-Top-646da55a528015bb8c148847": {
@@ -1527,6 +1850,16 @@
    "t": "Hot Air Balloon Clothing & Apparel | Shop Online",
    "v": "no"
   },
+  "https://rainbowryders.com/product/blue-t-shirt": {
+   "d": "2026-11-13",
+   "t": "Rainbow Ryders Blue T-Shirt | Shop Online",
+   "v": "no"
+  },
+  "https://rainbowryders.com/product/kids-bucket-list-t-shirt": {
+   "d": "2026-11-13",
+   "t": "Rainbow Ryders Youth Bucket List T-Shirt | Shop Online",
+   "v": "no"
+  },
   "https://rainbowryders.com/product/short-sleeve-bucket-list-t-shirt": {
    "d": "2026-11-09",
    "t": "Bucket List T-Shirt For Adults | Shop Online",
@@ -1551,6 +1884,11 @@
    "d": "2026-11-12",
    "t": "Anyone know what YouTuber this merch is from? : r/findfashion",
    "v": "no"
+  },
+  "https://reddit.com/r/findthisshirt": {
+   "d": "2026-11-13",
+   "t": "Find this shirt",
+   "v": "same_design"
   },
   "https://reversible.com/shopping/men/item/casablanca-natures-teacher-silk-shirt-casablanca-paris-839417276": {
    "d": "2026-11-08",
@@ -1577,9 +1915,24 @@
    "t": "RARE PEACE Mangaverse T-Shirt RT6024-ECRU - Shiekh",
    "v": "no"
   },
+  "https://shutterstock.com/image-vector/sky-diving-svg-tshirt-design-funny-2342410449": {
+   "d": "2026-11-13",
+   "t": "Sky Diving Svg T-shirt Design Funny Stock Vector (Royalty Free) 2342410449  | Shutterstock",
+   "v": "no"
+  },
   "https://sixthdimension.shop/product/do-re-mi-top": {
    "d": "2026-11-08",
    "t": "Do-Re-Mi Mesh Tee \u2013 sixthdimension.shop",
+   "v": "no"
+  },
+  "https://skydivingapparel.com/products/skydive-all-world-sky-brasil-unisex-tee": {
+   "d": "2026-11-13",
+   "t": "Skydive Around - BRAZIL - Unisex Tee - \u2013 Skydiving Apparel\u2122",
+   "v": "no"
+  },
+  "https://ssense.com/en-pr/men/product/vivienne-westwood/multicolor-peru-t-shirt/19324221": {
+   "d": "2026-11-13",
+   "t": "Multicolor Peru T-shirt",
    "v": "no"
   },
   "https://ssense.com/en-us/men/product/casablanca/multicolor-short-sleeve-football-t-shirt/18722191": {
@@ -1617,9 +1970,24 @@
    "t": "Men's Star Trek Men's Short Sleeve Graphic T-Shirt Short Sleeve Graphic T- Shirt - Purple - Large : Target",
    "v": "no"
   },
+  "https://team.dolfinswimwear.com/shop/goldfish-exclusive/goldfish-youth-unisex-short-sleeve-rash-guard_gf9e10": {
+   "d": "2026-11-13",
+   "t": "Goldfish Youth Unisex Short Sleeve Rash Guard-GF9E10",
+   "v": "no"
+  },
   "https://terraofheaven.com/products/brunette-t-shirt": {
    "d": "2026-11-08",
    "t": "Brunette\" T-shirt - Boho Tops for Sale | Terra of Heaven",
+   "v": "no"
+  },
+  "https://the-retailer.com/en-us/products/travis-scott-utopia-circus-maximus-tour-merch-tee-white": {
+   "d": "2026-11-13",
+   "t": "Travis Scott Utopia Circus Maximus Tour Merch Tee (WHITE)",
+   "v": "no"
+  },
+  "https://thebestofthesouthwest.com/arts-events-culture/rainbow-ryders-rides-high-over-southwest": {
+   "d": "2026-11-13",
+   "t": "Rainbow Ryders rides high over Southwest - The Best of the Southwest",
    "v": "no"
   },
   "https://thekneverworks.com/product-page/pickathon-elkscape-men-s-t-shirt": {
@@ -1650,6 +2018,11 @@
   "https://therealreal.com/products/men/clothing/t-shirts/roberto-cavalli-vintage-2002-t-shirt-wbit2": {
    "d": "2026-11-08",
    "t": "Roberto Cavalli Vintage 2002 T-Shirt - Neutrals T-Shirts ...",
+   "v": "no"
+  },
+  "https://thescoutguide.com/phoenix-scottsdale/editorial/member-spotlight-rainbowryders": {
+   "d": "2026-11-13",
+   "t": "MEMBER SPOTLIGHT: RAINBOW RYDER HOT AIR BALLOON RIDE CO. - The Scout Guide",
    "v": "no"
   },
   "https://thewebster.com/collections/casablanca": {
@@ -1705,6 +2078,16 @@
   "https://trcp.org/2024/11/20/in-the-arena-capt-chris-dollar": {
    "d": "2026-11-12",
    "t": "In the Arena: Capt. Chris Dollar | Theodore Roosevelt Conservation  Partnership",
+   "v": "no"
+  },
+  "https://tripadvisor.com/Attraction_Review-g31231-d1627676-Reviews-Rainbow_Ryders_Hot_Air_Balloon_Ride_Co-Glendale_Arizona.html": {
+   "d": "2026-11-13",
+   "t": "Rainbow Ryders Hot Air Balloon Ride Co. - All You SHOULD Know Before Going  (2026 Reviews)",
+   "v": "no"
+  },
+  "https://tripadvisor.com/Attraction_Review-g33364-d10226657-Reviews-Rainbow_Ryders_Hot_Air_Balloon_Ride_Co-Colorado_Springs_El_Paso_County_Colorado.html": {
+   "d": "2026-11-13",
+   "t": "Rainbow Ryders Hot Air Balloon Ride Co. - All You SHOULD Know Before Going  (2026 Reviews)",
    "v": "no"
   },
   "https://tripadvisor.com/Attraction_Review-g60933-d559837-Reviews-Rainbow_Ryders_Hot_Air_Balloon-Albuquerque_New_Mexico.html": {
@@ -1827,9 +2210,19 @@
    "t": "Rocky Horror Picture Show Men's and Big Men's Pride Graphic Tee, Men's  Sizes S-3XL - Walmart.com",
    "v": "no"
   },
+  "https://walmart.com/ip/Yes-Rock-Music-Band-Relayer-Album-Cover-Adult-Front-Back-Print-T-Shirt/49776158": {
+   "d": "2026-11-13",
+   "t": "Yes - Relayers Sub (Front/Back Print) - Short Sleeve Shirt - Small",
+   "v": "no"
+  },
   "https://wildtribute.com/products/miami-vice-rainbow-trout-t-shirt": {
    "d": "2026-11-12",
    "t": "Wild Tribute Miami Vice Rainbow Trout T-Shirt Charcoal / Large",
+   "v": "no"
+  },
+  "https://willowst.com/products/226s91254": {
+   "d": "2026-11-13",
+   "t": "JUNO TEE",
    "v": "no"
   },
   "https://wrangler.com/browse/back-to-school-t-shirts.html": {
