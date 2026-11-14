@@ -1,9 +1,9 @@
 {
- "google_query_index": 6,
- "last_google_date": "2026-11-13",
- "last_lens_date": "2026-11-13",
- "last_poshmark_date": "2026-11-13",
- "last_run_date": "2026-11-13",
+ "google_query_index": 1,
+ "last_google_date": "2026-11-14",
+ "last_lens_date": "2026-11-14",
+ "last_poshmark_date": "2026-11-14",
+ "last_run_date": "2026-11-14",
  "matches": [
   {
    "date": "2026-11-13",
@@ -13,7 +13,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 6,
+ "poshmark_query_index": 7,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -68,6 +68,11 @@
   "https://5280.com/trains-pontoons-hot-air-balloons-hitch-a-ride-to-colorados-backcountry": {
    "d": "2026-11-09",
    "t": "Trains, Pontoons & Hot Air Balloons: Hitch a Ride to Colorado's Backcountry  - 5280",
+   "v": "no"
+  },
+  "https://abercrombie.com/shop/us/kids/p/easy-crew-sweater-63590319": {
+   "d": "2026-11-14",
+   "t": "girls easy crew sweater in pink stripe | size 9/10 | abercrombie kids",
    "v": "no"
   },
   "https://acorn-onlinestore.com/products/4ad19g94": {
@@ -325,6 +330,11 @@
    "t": "25+ Urban Outfitters T-Shirts for Men for sale | Updated Nov 2026",
    "v": "no"
   },
+  "https://ebay.com/shop/archaic-smile": {
+   "d": "2026-11-14",
+   "t": "Archaic Smile | eBay",
+   "v": "no"
+  },
   "https://ebay.com/shop/archaic-smile-shirt": {
    "d": "2026-11-08",
    "t": "Archaic Smile Shirt | eBay",
@@ -485,6 +495,11 @@
    "t": "Matisse Exhibition Poster Set: French Museum Art (digital Download) - Etsy",
    "v": "no"
   },
+  "https://etsy.com/listing/1525739467/troop-beverly-hills-t-shirt-green-kids": {
+   "d": "2026-11-14",
+   "t": "Kids Halloween Costume, Troop Beverly Hills T-Shirt: Green Kids Tee, 80s Movie Nostalgia",
+   "v": "no"
+  },
   "https://etsy.com/listing/1679538850/gymnastics-birthday-shirt-girls-rainbow": {
    "d": "2026-11-13",
    "t": "Gymnastics Birthday Shirt Girls, Custom Rainbow Glitter Gymnast Party  Tumbling Beam - Etsy",
@@ -638,6 +653,11 @@
   "https://etsy.com/market/blue_fish_clothing_vintage": {
    "d": "2026-11-11",
    "t": "Blue Fish Clothing Vintage - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/boys_balloon_shirt": {
+   "d": "2026-11-14",
+   "t": "Boys Balloon Shirt - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/cowboy_riding_trout_shirt": {
@@ -930,6 +950,11 @@
    "t": "Hermes : Hermes shirt - Auction GIOIELLI OROLOGI E LUXURY ...",
    "v": "no"
   },
+  "https://fashionbrownie.com/page/2": {
+   "d": "2026-11-14",
+   "t": "The Fashion Brownie",
+   "v": "no"
+  },
   "https://feature.com/products/casablanca-surf-trip-printed-oversized-t-shirt-tie-dye": {
    "d": "2026-11-08",
    "t": "Surf Trip Printed Oversized T-Shirt - Tie Dye \u2013 Feature",
@@ -1075,6 +1100,11 @@
    "t": "From city to city, Karol's taking the merch around the world \ud83c\udf0e\ud83e\udde1 Now it's  your turn! \ud83e\udd9c\u2728 Get your official merch in shopk",
    "v": "no"
   },
+  "https://instagram.com/p/Ddg25Byl_iT": {
+   "d": "2026-11-14",
+   "t": "The end of summer can be bittersweet, but we've got just the cure: for the  next 72 hours, the entire NYCLU merch store ",
+   "v": "no"
+  },
   "https://instagram.com/p/DefpTNTkcm1": {
    "d": "2026-11-12",
    "t": "Vintage fishin' tees available Saturday \ud83d\ude0e onlytrouts.com \ud80c\udd9d\ud80c\udd9c link in bio  Restock 10/17 @ 2PM EDT",
@@ -1138,6 +1168,11 @@
   "https://liquidblue.com/music/rock-and-roll/grateful-dead/parachuting-bears-tie-dye-t-shirt": {
    "d": "2026-11-13",
    "t": "Parachuting Bears Tie-Dye T-Shirt ( 5XL )",
+   "v": "no"
+  },
+  "https://m.yelp.com/search": {
+   "d": "2026-11-14",
+   "t": "TOP 10 BEST Wholesale Candy in Orange County, CA - (2026 Guide) - Yelp",
    "v": "no"
   },
   "https://made4walkin.com/products/wild-child-t-shirt-gypsy-ivory-short-sleeve-top-with-graphic-print-great-for-festivals-cast-a-spell-available-in-small-medium-or-large": {
@@ -1290,6 +1325,11 @@
    "t": "Goldfish Fountain Tee - p(doom) records US",
    "v": "no"
   },
+  "https://phildar.com/en/p/womens-addison-sweater-model-mod-065796.html": {
+   "d": "2026-11-14",
+   "t": "Women's Addison Sweater Model",
+   "v": "no"
+  },
   "https://phoenixmag.com/2023/06/13/on-the-up-and-up-rainbow-ryders-celebrates-40-years-in-the-valley": {
    "d": "2026-11-13",
    "t": "On the Up and Up: Rainbow Ryders Celebrates 40 Years in the Valley -  PHOENIX magazine",
@@ -1313,6 +1353,11 @@
   "https://poshmark.com/brand/Urban_Outfitters-Kids": {
    "d": "2026-11-10",
    "t": "Urban Outfitters Clothing, Shoes & Accessories for Kids on Sale up to 90%  Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/brand/Urban_Outfitters-Kids-Shirts_&_Tops": {
+   "d": "2026-11-14",
+   "t": "Urban Outfitters Shirts & Tops for Kids on Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/brand/Urban_Outfitters-Women-Sweaters-Shrugs_&_Ponchos--color-Pink": {
@@ -1370,6 +1415,11 @@
    "t": "Black Short Sleeve T-Shirts for Women on Sale up to 90% Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/13th-Birthday-Sleepover-Squad-Tee-Boho-Rainbow-Girls-Pajama-Top-6a40c1a9e0f2ced1f87e93c0": {
+   "d": "2026-11-14",
+   "t": "Tops | 13th Birthday Sleepover Squad Tee Boho Rainbow Girls Pajama Top |  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/3-Spooky-Ghosts-Halloween-Graphic-Tee-Spooky-Season-Fall-Autumn-Tee-6a83cad324cc87a68e03195e": {
    "d": "2026-11-11",
    "t": "Tops | 3 Spooky Ghosts Halloween Graphic Tee Spooky Season Fall Autumn Tee  | Poshmark",
@@ -1388,6 +1438,16 @@
   "https://poshmark.com/listing/BARANDA-Vtg-TanGold-Color-with-raised-Black-Paisley-Dots-Long-Sleeve-Blouse-6a451cfe243dae06e94a5c09": {
    "d": "2026-11-09",
    "t": "Baranda | Tops | Baranda Vtg Tangold Color With Raised Black Paisley Dots  Long Sleeve Blouse | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/BDG-Oversized-Plaid-ButtonUp-Shirt-in-Tan-Green-Cream-6a5cc928dc3b46ee9e2ec3a5": {
+   "d": "2026-11-14",
+   "t": "BDG | Tops | Bdg Oversized Plaid Buttonup Shirt In Tan Green Cream |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Biggie-smalls-medium-blue-graphic-preowned-Tshirt-669577379d05c41c8f460f69": {
+   "d": "2026-11-14",
+   "t": "Shirts | Biggie Smalls Medium Blue Graphic Preowned Tshirt | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Black-TShirt-with-Gold-Glitter-What-the-Elf-text-698a54955919e006503ac602": {
@@ -1420,6 +1480,11 @@
    "t": "Columbia | Shirts | Columbia Mens Faded Black Rainbow Mountain Graphic  Tshirt Size M Gorpcore | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Columbia-Sportswear-UT-Bright-Orange-Performance-Top-XL-6a341695ff353af8eba7de16": {
+   "d": "2026-11-14",
+   "t": "Columbia | Shirts | Columbia Sportswear Ut Bright Orange Performance Top Xl  | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Crazy-Shirts-Hawaii-Original-Sz-Small-Discovery-Shark-Week-Kids-Black-TShirt-67d7b1f601464891424fe393": {
    "d": "2026-11-12",
    "t": "crazy shirts | Shirts & Tops | Crazy Shirts Hawaii Original Sz Small  Discovery Shark Week Kids Black Tshirt | Poshmark",
@@ -1443,6 +1508,11 @@
   "https://poshmark.com/listing/Dianes-Of-Honolulu-Vintage-Late-60s-Hawaiian-Maxi-Floral-Dress-Size-12-67df0953d3309f28048c58f8": {
    "d": "2026-11-09",
    "t": "Vintage | Dresses | Dianes Of Honolulu Vintage Late 6s Hawaiian Maxi Floral  Dress Size 2 | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Dickies-Shirt-Mens-Medium-Green-Workwear-Graphic-Back-Print-Urban-Outfitters-690a8e7b134ddb127480afcf": {
+   "d": "2026-11-14",
+   "t": "Dickies | Tops | Dickies Shirt Mens Medium Green Workwear Graphic Back Print  Urban Outfitters | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/End-of-the-Rainbow-pan-fried-fish-shirt-64f6ccfa5d686bb39c93a716": {
@@ -1525,6 +1595,16 @@
    "t": "Kelly Koprowski Saved by the Bell T-shirt",
    "v": "no"
   },
+  "https://poshmark.com/listing/Knitted-Sweater-5e56d6bd22bd7c0e8c062e33": {
+   "d": "2026-11-14",
+   "t": "BDG | Sweaters | Knitted Sweater | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Like-New-Super-Cute-Anchor-Top-Black-White-67f6cc362981afe3773cc0e9": {
+   "d": "2026-11-14",
+   "t": "Boutique | Tops | Like New Super Cute Anchor Top Black White | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Liquid-Blue-Mens-2XL-Peace-Sign-Tie-Dye-TShirt-Blue-Cotton-Graphic-Tee-2015-6ad2d1a12fc9f8b2a34da1e3": {
    "d": "2026-11-12",
    "t": "Liquid Blue | Shirts | Liquid Blue Mens 2xl Peace Sign Tie Dye Tshirt Blue  Cotton Graphic Tee 25 | Poshmark",
@@ -1540,6 +1620,11 @@
    "t": "Reel Legends | Shirts | Mens Quick Dry Shirt Reel Legend Fishing Short  Sleeve Button Frontvented Back | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/MadeWorn-Run-DMC-TShirt-In-Black-6987530c56c667972b9c1ce8": {
+   "d": "2026-11-14",
+   "t": "Shirts | Madeworn Run Dmc Tshirt In Black | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Magellan-Outdoors-Trout-Pocket-T-Shirt-Mens-Large-Fishing-Long-Sleeve-Green-6aaeb7478d409c2581577df4": {
    "d": "2026-11-12",
    "t": "Magellan Outdoors | Shirts | Magellan Outdoors Trout Pocket T Shirt Mens  Large Fishing Long Sleeve Green | Poshmark",
@@ -1548,6 +1633,16 @@
   "https://poshmark.com/listing/Mens-Academy-Fishing-TShirt-663e26e0694d72703403d2f2": {
    "d": "2026-11-12",
    "t": "The Academy Brand | Shirts | Mens Academy Fishing Tshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Mens-Mollusk-Linen-Pocket-T-Shirt-Medium-65515151027427dc4731e52c": {
+   "d": "2026-11-14",
+   "t": "Mollusk | Shirts | Mens Mollusk Linen Pocket T Shirt Medium | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Meysikim-Car-Racer-crop-top-fishing-surfing-ect-Longsleeve-black-aop-womens-M-64dcff928634cb1b7f99663f": {
+   "d": "2026-11-14",
+   "t": "meysikim | Tops | Meysikim Car Racer Crop Top Fishing Surfing Ect  Longsleeve Black Aop Womens M | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Mini-Boden-White-Tee-with-Pink-Flamingo-Rainbow-Graphic-6a28531605deb33b2e6f3bdb": {
@@ -1615,6 +1710,11 @@
    "t": "Paper Heart | Sweaters | Paper Heart Sweater Size S | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Peleton-L-Black-95-poly-5-spandex-all-over-graphics-68c97509105c5884f4d4268b": {
+   "d": "2026-11-14",
+   "t": "Graphics | Shirts | Peleton L Black 95 Poly 5 Spandex All Over Graphics |  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Penn-state-Nittany-lion-ears-65cb982d8634cb9d159dd81c": {
    "d": "2026-11-09",
    "t": "Accessories | Penn State Nittany Lion Ears | Poshmark",
@@ -1655,9 +1755,19 @@
    "t": "Seaworld | Shirts | Seaworld T Shirt Medium Octopus Angler Fish Marine Life  Octopus Watermark Sz M | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Seafoam-Accordion-Top-559bcac8cadd6a0466018eda": {
+   "d": "2026-11-14",
+   "t": "Urban Outfitters | Tops | Seafoam Accordion Top | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Sic-em-bears-Baylor-bears-66611e8e775caffbd473e260": {
    "d": "2026-11-08",
    "t": "Tops | Sic Em Bears Baylor Bears | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Soflete-mens-large-short-sleeve-t-shirt-6a2748ea9936d67a73dee453": {
+   "d": "2026-11-14",
+   "t": "soflete | Shirts | Soflete Mens Large Short Sleeve T Shirt | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Stunning-thick-chic-ribbed-maxi-sweaterdress-with-snap-buttons-65fb8a0491e0530a4d39ff1a": {
@@ -1743,6 +1853,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Navy-Joggers-695a976d7ac629cae83864a3": {
    "d": "2026-11-13",
    "t": "Urban Outfitters | Pants & Jumpsuits | Urban Outfitters Navy Joggers |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Nirvana-Distressed-Oversized-TShirt-6aecdbbc353f0ae3f9a5189c": {
+   "d": "2026-11-14",
+   "t": "Urban Outfitters Nirvana Distressed Oversized T-Shirt",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Out-From-Under-First-Base-Seamless-Top-646da55a528015bb8c148847": {
@@ -1875,6 +1990,11 @@
    "t": "I used to own this shirt and I can't remember the name of ...",
    "v": "no"
   },
+  "https://reddit.com/r/findfashion/comments/1xkty4y/does_anybody_know_where_to_get_this_shirt": {
+   "d": "2026-11-14",
+   "t": "does anybody know where to get this shirt : r/findfashion",
+   "v": "no"
+  },
   "https://reddit.com/r/findfashion/comments/1xpy9mt/can_you_help_me_find_this_shirt": {
    "d": "2026-11-11",
    "t": "Can you help me find this shirt? : r/findfashion",
@@ -1895,9 +2015,19 @@
    "t": "CASABLANCA Nature's Teacher Silk Shirt | Casablanca Paris ...",
    "v": "no"
   },
+  "https://rounder.com/products/sierra-ferrell-pair-of-dice-trying-to-love-you-tee": {
+   "d": "2026-11-14",
+   "t": "Sierra Ferrell - Pair Of Dice / Trying To Love You - Tee ...",
+   "v": "no"
+  },
   "https://saksfifthavenue.com/c/men/apparel/t-shirts/casablanca": {
    "d": "2026-11-11",
    "t": "Men's Casablanca Designer T-Shirts | Saks Fifth Avenue",
+   "v": "no"
+  },
+  "https://sanrio.com/products/u-sa-ha-na-beach-day-tee": {
+   "d": "2026-11-14",
+   "t": "U*SA*HA*NA Beach Day Tee",
    "v": "no"
   },
   "https://seaplaneshirts.com/products/celadon-cryptid-ls": {
@@ -1913,6 +2043,11 @@
   "https://shiekh.com/rare-peace-mangaverse-t-shirt-off-white-yellow-rt6024-ecru.html": {
    "d": "2026-11-08",
    "t": "RARE PEACE Mangaverse T-Shirt RT6024-ECRU - Shiekh",
+   "v": "no"
+  },
+  "https://shopavara.com/products/blue-snowflake-embroidered-sweater": {
+   "d": "2026-11-14",
+   "t": "Women's Blue Snowflake Embroidered Sweater | Avara",
    "v": "no"
   },
   "https://shutterstock.com/image-vector/sky-diving-svg-tshirt-design-funny-2342410449": {
@@ -1968,6 +2103,11 @@
   "https://target.com/p/-/-/A-1008723764": {
    "d": "2026-11-10",
    "t": "Men's Star Trek Men's Short Sleeve Graphic T-Shirt Short Sleeve Graphic T- Shirt - Purple - Large : Target",
+   "v": "no"
+  },
+  "https://target.com/p/women-s-peanuts-music-makes-my-heart-sing-short-sleeve-graphic-t-shirt-birch-2x/-/A-1013002317": {
+   "d": "2026-11-14",
+   "t": "Women's Peanuts Music Makes My Heart Sing Short Sleeve Graphic T-Shirt -  Birch - 2X : Target",
    "v": "no"
   },
   "https://team.dolfinswimwear.com/shop/goldfish-exclusive/goldfish-youth-unisex-short-sleeve-rash-guard_gf9e10": {
@@ -2130,6 +2270,11 @@
    "t": "Men's Vacation Outfits & Beach Wear | Urban Outfitters",
    "v": "no"
   },
+  "https://urbanoutfitters.com/shop/bdg-fish-baby-tee": {
+   "d": "2026-11-14",
+   "t": "BDG Fish Baby Tee | Urban Outfitters",
+   "v": "no"
+  },
   "https://urbanoutfitters.com/shop/daisy-street-kipper-fish-applique-graphic-cami": {
    "d": "2026-11-10",
    "t": "Daisy Street Kipper Fish Applique Graphic Cami | Urban Outfitters",
@@ -2138,6 +2283,11 @@
   "https://urbanoutfitters.com/shop/ironman-triathlon-1982-graphic-tee": {
    "d": "2026-11-12",
    "t": "Ironman Triathlon 1982 Graphic Tee in Grey Cotton, Men's 2XL at Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/mindblown-lamb-baby-tee2": {
+   "d": "2026-11-14",
+   "t": "MINDBLOWN Lamb Baby Tee | Urban Outfitters",
    "v": "no"
   },
   "https://urbanoutfitters.com/shop/spalding-uo-exclusive-basketball3": {
@@ -2158,6 +2308,16 @@
   "https://urbanoutfitters.com/shop/tin-fish-graphic-tee": {
    "d": "2026-11-12",
    "t": "Tin Fish Graphic Tee | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/uo-rainbow-stripe-short-sleeve-button-down-shirt": {
+   "d": "2026-11-14",
+   "t": "UO Rainbow Stripe Short Sleeve Button-Down Shirt | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/vintage-1985-flintstones-university-of-bedrock-tee": {
+   "d": "2026-11-14",
+   "t": "Vintage 1985 Flintstones University of Bedrock Tee | Urban Outfitters",
    "v": "no"
   },
   "https://urbanoutfitters.com/shop/vintage-80s-ricks-cafe-jamaica-graphic-t-shirt": {
@@ -2205,6 +2365,11 @@
    "t": "Rainbow Ryders Hot Air Balloon Co. | a Salt Lake Air Sports Outdoors &  Recreation in Park City",
    "v": "no"
   },
+  "https://walmart.com/ip/NB-MUSCLE-TANK/19076306926": {
+   "d": "2026-11-14",
+   "t": "No Boundaries Boxy Fit Heavyweight Graphic Muscle Tank Top, Men's XS-5XL -  Walmart.com",
+   "v": "no"
+  },
   "https://walmart.com/ip/Rocky-Horror-Picture-Show-Lip-Logo-Men-s-and-Big-Men-s-Tie-Dye-Tee-Sizes-S-3XL/19599323809": {
    "d": "2026-11-08",
    "t": "Rocky Horror Picture Show Men's and Big Men's Pride Graphic Tee, Men's  Sizes S-3XL - Walmart.com",
@@ -2213,6 +2378,11 @@
   "https://walmart.com/ip/Yes-Rock-Music-Band-Relayer-Album-Cover-Adult-Front-Back-Print-T-Shirt/49776158": {
    "d": "2026-11-13",
    "t": "Yes - Relayers Sub (Front/Back Print) - Short Sleeve Shirt - Small",
+   "v": "no"
+  },
+  "https://walmart.com/tp/sesame-street-clothing": {
+   "d": "2026-11-14",
+   "t": "Sesame Street Clothing for Kids and Adults",
    "v": "no"
   },
   "https://wildtribute.com/products/miami-vice-rainbow-trout-t-shirt": {
