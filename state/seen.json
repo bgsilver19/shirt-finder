@@ -1,9 +1,9 @@
 {
- "google_query_index": 1,
- "last_google_date": "2026-11-14",
- "last_lens_date": "2026-11-14",
- "last_poshmark_date": "2026-11-14",
- "last_run_date": "2026-11-14",
+ "google_query_index": 2,
+ "last_google_date": "2026-11-15",
+ "last_lens_date": "2026-11-15",
+ "last_poshmark_date": "2026-11-15",
+ "last_run_date": "2026-11-15",
  "matches": [
   {
    "date": "2026-11-13",
@@ -13,7 +13,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 7,
+ "poshmark_query_index": 8,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -135,9 +135,24 @@
    "t": "Skydiving Skydiver Skydive Parachuting Popart Premium Tri-blend T-Shirt :  Clothing, Shoes & Jewelry - Amazon.com",
    "v": "no"
   },
+  "https://amazon.com/clp/B07MJMT774": {
+   "d": "2026-11-15",
+   "t": "Amazon.com: Hot Air Balloon T-Shirt Hot Air Balloon Rides Festival Shirt",
+   "v": "no"
+  },
   "https://amazon.com/clp/B07PL5QXBX": {
    "d": "2026-11-09",
    "t": "Amazon.com: Mens Hot Air Balloon T-Shirt Hot Air Balloon Rides Festival",
+   "v": "no"
+  },
+  "https://amazon.com/clp/B07SRN997H": {
+   "d": "2026-11-15",
+   "t": "Amazon.com: Fun Hot Air Balloon, Hippie Tie Dye Ballooning Gift, Lt T-Shirt",
+   "v": "no"
+  },
+  "https://amazon.com/clp/B07YBTSWKN": {
+   "d": "2026-11-15",
+   "t": "Amazon.com: Colorful Cute Hot Air Balloon Ride Vacation Flying Balloons",
    "v": "no"
   },
   "https://amazon.com/clp/B08SNJSGVW": {
@@ -150,6 +165,11 @@
    "t": "Amazon.com: Tonka Tonka Tough Stripe Logo T-Shirt",
    "v": "no"
   },
+  "https://amazon.com/clp/B0BZHSCKJJ": {
+   "d": "2026-11-15",
+   "t": "Amazon.com: Hot Air Balloon T-Shirt Tees for Women Men Kids Balloon",
+   "v": "no"
+  },
   "https://amazon.com/clp/B0C3MVJH4X": {
    "d": "2026-11-09",
    "t": "Amazon.com: Colorful Hot Air Balloons T-Shirt",
@@ -158,6 +178,11 @@
   "https://amazon.com/clp/B0D2PMQ2VL": {
    "d": "2026-11-10",
    "t": "Amazon.com: Frutiger Aero Aesthetic Tech Computer Aquarium Tarot Card",
+   "v": "no"
+  },
+  "https://amazon.com/stores/Jedzebel/page/0052CB6F-8D78-41D2-A18D-61A5F98C3C89": {
+   "d": "2026-11-15",
+   "t": "Jedzebel: Alex Grey - Amazon.com",
    "v": "no"
   },
   "https://arteraa.com/products/cute-rainbow-sunshine-png-kids-toddler-sublimation-shirt-a-1570": {
@@ -205,6 +230,11 @@
    "t": "Shelley Duvall Boatneck Tee \u2013 Bug Girl",
    "v": "no"
   },
+  "https://casablancaparis.com/collections/mens-t-shirts": {
+   "d": "2026-11-15",
+   "t": "Men's Designer T-shirts | Casablanca Paris",
+   "v": "no"
+  },
   "https://casablancaparis.com/en-us/products/m-sp26-jts-001-36-ex-fl-casablanca-pool-classic-t-shirt": {
    "d": "2026-11-08",
    "t": "Black Casablanca Pool Short Sleeve T-Shirt",
@@ -238,6 +268,11 @@
   "https://collectorsweekly.com/stories/233282-original-1960s-tie-dye-american-target-b": {
    "d": "2026-11-10",
    "t": "Original 1960s Tie Dye American Target BVD T-Shirt ...",
+   "v": "no"
+  },
+  "https://confettipebbles.com/ride-packages": {
+   "d": "2026-11-15",
+   "t": "Private Hot Air Balloon Rides in St. George, Utah | Confetti Hot Air  Balloons",
    "v": "no"
   },
   "https://creativefabrica.com/product/rainbow-fish-sublimation-clipart-2": {
@@ -905,9 +940,19 @@
    "t": "Vintage Mens Fish T Shirt - Etsy UK",
    "v": "no"
   },
+  "https://experienceredmond.com/business/over-the-rainbow-hot-air-balloon-rides": {
+   "d": "2026-11-15",
+   "t": "Over The Rainbow Hot Air Balloon Rides - Experience Redmond",
+   "v": "no"
+  },
   "https://experiencescottsdale.com/listing/rainbow-ryders-hot-air-balloon-company/44352": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders Hot Air Balloon Company",
+   "v": "no"
+  },
+  "https://facebook.com/balloonfiesta/posts/welcome-jesse-roholt-with-rainbow-ryders-inc-hot-air-balloon-co-the-official-rid/1552911360214122": {
+   "d": "2026-11-15",
+   "t": "Welcome Jesse Roholt with Rainbow Ryders, Inc. Hot Air Balloon Co., the  official ride operator of #BalloonFiesta \ud83c\udf88",
    "v": "no"
   },
   "https://facebook.com/balloonfiesta/posts/welcome-sheldon-grauberger-with-rainbow-ryders-inc-hot-air-balloon-co-the-offici/1553758426796082": {
@@ -973,6 +1018,11 @@
   "https://gem.app/product/issey-miyake-issey-miyake-aya-takano-f-w-31766": {
    "d": "2026-11-08",
    "t": "Issey Miyake Issey Miyake Aya Takano F/W 2004 Shirt - Gem",
+   "v": "no"
+  },
+  "https://gibot.it/en/shirt-round-neck/k-way/k-way-grey-combe-jersey/26828": {
+   "d": "2026-11-15",
+   "t": "Grey Combe Jersey",
    "v": "no"
   },
   "https://gibot.it/en/shirt-round-neck/semi-couture/semi-couture-maglia-polo-giulia-paillettes/32232": {
@@ -1045,6 +1095,11 @@
    "t": "Hot Air Balloon Art - Canvas Prints & Wall Art | iCanvas",
    "v": "no"
   },
+  "https://iconiclife.com/hot-attractions-rainbow-ryders": {
+   "d": "2026-11-15",
+   "t": "Hot Attractions | Rainbow Ryders Hot Air Balloons",
+   "v": "no"
+  },
   "https://iconsofsurf.com/products/rvca-mycelium-tee": {
    "d": "2026-11-10",
    "t": "RVCA | Mycelium Tee",
@@ -1113,6 +1168,11 @@
   "https://instagram.com/p/DeiNJaJCp3j": {
    "d": "2026-11-13",
    "t": "Retailer | Travis Scott, in stock at Retailer. Plus 2 price ...",
+   "v": "no"
+  },
+  "https://instagram.com/p/DemTTl6l-Kx": {
+   "d": "2026-11-15",
+   "t": "A rainbow-striped hot-air balloon hovers just above a sunlit meadow, its  bands mirrored like a halo in the pond. The ve",
    "v": "no"
   },
   "https://instagram.com/popular/rainbow-ryders-hot-air-balloon-co-photos": {
@@ -1235,6 +1295,11 @@
    "t": "Fairground T-Shirt 10-12 y/o",
    "v": "no"
   },
+  "https://mycurlyadventures.com/a-must-do-in-phoenix-az-hot-air-balloon-adventures": {
+   "d": "2026-11-15",
+   "t": "Rainbow Ryders Hot Air Balloon Adventures in Phoenix, AZ",
+   "v": "no"
+  },
   "https://myrorna.se/shop/annons/troja-me369-gron-rosa-gra-ull-cashmere-stl-s": {
    "d": "2026-11-08",
    "t": "Tr\u00f6ja, Me369, gr\u00f6n, rosa, gr\u00e5, ull, cashmere, stl. S ...",
@@ -1248,6 +1313,11 @@
   "https://neimanmarcus.com/p/casablanca-printed-mesh-long-sleeve-top-prod277570526": {
    "d": "2026-11-13",
    "t": "Casablanca Printed Mesh Long-Sleeve Top | Neiman Marcus",
+   "v": "no"
+  },
+  "https://newmexico.org/listing/rainbow-ryders-hot-air-balloon-ride-company/1030": {
+   "d": "2026-11-15",
+   "t": "Rainbow Ryders Hot Air Balloon Ride Company | Albuquerque, NM 87113",
    "v": "no"
   },
   "https://news.unm.edu/news/rainbow-ryders-ceo-and-unm-alum-celebrates-40-years-of-hot-air-ballooning": {
@@ -1323,6 +1393,16 @@
   "https://pdoomrecords.com/products/goldfish-fountain-tee": {
    "d": "2026-11-13",
    "t": "Goldfish Fountain Tee - p(doom) records US",
+   "v": "no"
+  },
+  "https://peakradar.com/organization/rainbow-ryders-hot-air-balloon-company": {
+   "d": "2026-11-15",
+   "t": "Rainbow Ryders Hot Air Balloon Company - PeakRadar.com",
+   "v": "no"
+  },
+  "https://pelago.com/en-US/activity/p7y1wdlsu-phoenix-hot-air-balloon-ride-at-sunrise-phoenix": {
+   "d": "2026-11-15",
+   "t": "Phoenix Hot Air Balloon Ride at Sunrise in Phoenix | Pelago",
    "v": "no"
   },
   "https://phildar.com/en/p/womens-addison-sweater-model-mod-065796.html": {
@@ -1413,6 +1493,11 @@
   "https://poshmark.com/category/Women-Tops-Tees___Short_Sleeve--color-Black": {
    "d": "2026-11-11",
    "t": "Black Short Sleeve T-Shirts for Women on Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/closet/bethanyschro673": {
+   "d": "2026-11-15",
+   "t": "Beth's Closet (@bethanyschro673) | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/13th-Birthday-Sleepover-Squad-Tee-Boho-Rainbow-Girls-Pajama-Top-6a40c1a9e0f2ced1f87e93c0": {
@@ -1528,6 +1613,11 @@
   "https://poshmark.com/listing/FUBU-Vintage-Y2K-Knit-Vest-Green-White-Sleeveless-Mens-XL-6a086bb82c9e441fab0e516e": {
    "d": "2026-11-11",
    "t": "FUBU | Shirts | Fubu Vintage Y2k Knit Vest Green White Sleeveless Mens Xl |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Fit-for-a-King-Graphic-Band-Tee-66f05f5b147b98417f7449e9": {
+   "d": "2026-11-15",
+   "t": "Shirts | Fit For A King Graphic Band Tee | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Fortnite-youth-light-green-short-sleeve-graphic-tee-size-m-8-6a7a553831f0f67af290a371": {
@@ -1660,6 +1750,11 @@
    "t": "unbranded | Tops | Morgan Wallen Country Music Tshirt Unisex Tee Patriotic  Usa Flag Shirt Top | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Multicolor-strapless-sequins-mini-Velvet-dress-5ce4549e8557af0a12dd428a": {
+   "d": "2026-11-15",
+   "t": "Dresses | Multicolor Strapless Sequins Mini Velvet Dress | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/NARUTO-SHIPPUDEN-COLLECTION-Nine-Tail-Fox-Biju-Tailed-Beast-Size-Medium-67ebc985d47be587529711ef": {
    "d": "2026-11-11",
    "t": "Naruto Shippuden Collection | Tops | Naruto Shippuden Collection Nine Tail  Fox Biju Tailed Beast Size Medium | Poshmark",
@@ -1678,6 +1773,11 @@
   "https://poshmark.com/listing/NWT-Scotch--Soda-TShirt-677066edf8847121b852a35f": {
    "d": "2026-11-08",
    "t": "Scotch & Soda | Shirts | Nwt Scotch Soda Tshirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/NWT-Standard-Baggu-Set-Archive-Pets-Fluffy-Cat-Poodle-Goldfish-65cb5996f625333f77598717": {
+   "d": "2026-11-15",
+   "t": "BAGGU | Bags | Nwt Standard Baggu Set Archive Pets Fluffy Cat Poodle  Goldfish | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/NWT-Urban-Outfitters-Out-From-Under-Light-Blue-TieDye-Jumpsuit-6ad94560a636160f1dde2a39": {
@@ -1748,6 +1848,11 @@
   "https://poshmark.com/listing/Reel-Legends-ReelTech-Mens-Long-Slv-Shirt-2X-Blue-Rainbow-Scales-UV-Fishing-NEW-69fb7e7edff1f125870e4558": {
    "d": "2026-11-12",
    "t": "Reel Legends | Shirts | Reel Legends Reeltech Mens Long Slv Shirt 2x Blue  Rainbow Scales Uv Fishing New | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Sandro-Paris-Camp-Shirt-Mens-Large-Blue-Goldfish-Koi-Hawaiian-Button-Up-Size-S-6a30284c842dd4af2c5892b6": {
+   "d": "2026-11-15",
+   "t": "Sandro | Shirts | Sandro Paris Camp Shirt Mens Large Blue Goldfish Koi  Hawaiian Button Up Size S | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/SeaWorld-T-Shirt-Medium-Octopus-Angler-Fish-Marine-Life-Octopus-Watermark-Sz-M-6a5f95a860beafa10fa24d3a": {
@@ -1985,6 +2090,11 @@
    "t": "Cover Art T-Shirts for Sale | Redbubble",
    "v": "no"
   },
+  "https://redbubble.com/shop/hot+air+balloon+t-shirts": {
+   "d": "2026-11-15",
+   "t": "Hot Air Balloon T-Shirts for Sale | Redbubble",
+   "v": "no"
+  },
   "https://reddit.com/r/HelpMeFind/comments/1x43p0g/i_used_to_own_this_shirt_and_i_cant_remember_the": {
    "d": "2026-11-08",
    "t": "I used to own this shirt and I can't remember the name of ...",
@@ -2020,6 +2130,11 @@
    "t": "Sierra Ferrell - Pair Of Dice / Trying To Love You - Tee ...",
    "v": "no"
   },
+  "https://rushout.jp/SHOP/ts26070847.html": {
+   "d": "2026-11-15",
+   "t": "\u53e4\u7740\u901a\u8ca9 L\u2606\u53e4\u7740 \u534a\u8896 T\u30b7\u30e3\u30c4 \u30e1\u30f3\u30ba \u30c9\u30ec\u30b9\u30c7\u30f3 \u30af\u30eb\u30fc\u30cd\u30c3\u30af ...",
+   "v": "no"
+  },
   "https://saksfifthavenue.com/c/men/apparel/t-shirts/casablanca": {
    "d": "2026-11-11",
    "t": "Men's Casablanca Designer T-Shirts | Saks Fifth Avenue",
@@ -2048,6 +2163,11 @@
   "https://shopavara.com/products/blue-snowflake-embroidered-sweater": {
    "d": "2026-11-14",
    "t": "Women's Blue Snowflake Embroidered Sweater | Avara",
+   "v": "no"
+  },
+  "https://shutterstock.com/image-illustration/happy-kids-riding-hot-air-balloon-187780415": {
+   "d": "2026-11-15",
+   "t": "Happy Kids Riding Hot Air Balloon Stock Illustration 187780415 |  Shutterstock",
    "v": "no"
   },
   "https://shutterstock.com/image-vector/sky-diving-svg-tshirt-design-funny-2342410449": {
@@ -2100,6 +2220,11 @@
    "t": "Vintage \u2013 Styled by Studio",
    "v": "no"
   },
+  "https://sunjournal.com/2009/08/16/sushi-flying-goldfish": {
+   "d": "2026-11-15",
+   "t": "Sushi, the flying goldfish",
+   "v": "no"
+  },
   "https://target.com/p/-/-/A-1008723764": {
    "d": "2026-11-10",
    "t": "Men's Star Trek Men's Short Sleeve Graphic T-Shirt Short Sleeve Graphic T- Shirt - Purple - Large : Target",
@@ -2113,6 +2238,16 @@
   "https://team.dolfinswimwear.com/shop/goldfish-exclusive/goldfish-youth-unisex-short-sleeve-rash-guard_gf9e10": {
    "d": "2026-11-13",
    "t": "Goldfish Youth Unisex Short Sleeve Rash Guard-GF9E10",
+   "v": "no"
+  },
+  "https://teepublic.com/t-shirt/35912404-hot-air-balloon": {
+   "d": "2026-11-15",
+   "t": "Hot Air Balloon - Balloon - T-Shirt | TeePublic",
+   "v": "no"
+  },
+  "https://teepublic.com/t-shirts/hot-air-balloon": {
+   "d": "2026-11-15",
+   "t": "Hot Air Balloon T-Shirts for Sale | TeePublic",
    "v": "no"
   },
   "https://terraofheaven.com/products/brunette-t-shirt": {
@@ -2175,6 +2310,11 @@
    "t": "Zoo Tees",
    "v": "no"
   },
+  "https://tiktok.com/@ilikeyourbones/photo/7684315542483668237": {
+   "d": "2026-11-15",
+   "t": "New Song \"Pair of Dice\" Released - Zoetrope Vinyl & Merch ...",
+   "v": "no"
+  },
   "https://tillys.com/product/bdg-urban-outfitters-relaxed-cat-maybe-later-womens-tee/541922164.html": {
    "d": "2026-11-10",
    "t": "BDG Urban Outfitters Relaxed Cat Maybe Later Womens Tee - OFF WHITE",
@@ -2225,9 +2365,19 @@
    "t": "Rainbow Ryders Hot Air Balloon Ride Co. - All You SHOULD Know Before Going  (2026 Reviews)",
    "v": "no"
   },
+  "https://tripadvisor.com/Attraction_Review-g31310-d19390219-Reviews-Rainbow_Ryders_Hot_Air_Balloon_Co-Phoenix_Arizona.html": {
+   "d": "2026-11-15",
+   "t": "Rainbow Ryders Hot Air Balloon Co. - All You SHOULD Know Before Going (2026  Reviews)",
+   "v": "no"
+  },
   "https://tripadvisor.com/Attraction_Review-g33364-d10226657-Reviews-Rainbow_Ryders_Hot_Air_Balloon_Ride_Co-Colorado_Springs_El_Paso_County_Colorado.html": {
    "d": "2026-11-13",
    "t": "Rainbow Ryders Hot Air Balloon Ride Co. - All You SHOULD Know Before Going  (2026 Reviews)",
+   "v": "no"
+  },
+  "https://tripadvisor.com/Attraction_Review-g58835-d10417505-Reviews-Over_The_Rainbow-Woodinville_Washington.html": {
+   "d": "2026-11-15",
+   "t": "Over The Rainbow - All You SHOULD Know Before Going 2026 (with Reviews)",
    "v": "no"
   },
   "https://tripadvisor.com/Attraction_Review-g60933-d559837-Reviews-Rainbow_Ryders_Hot_Air_Balloon-Albuquerque_New_Mexico.html": {
@@ -2243,6 +2393,11 @@
   "https://tumblr.com/southernchicstyle/693865706504208384/mermaid-shell-a-bration": {
    "d": "2026-11-08",
    "t": "Mermaid Shell-a-bration \u2013 @southernchicstyle on Tumblr",
+   "v": "no"
+  },
+  "https://unsplash.com/photos/man-riding-on-hot-air-balloon-bAKrDtrOtnU": {
+   "d": "2026-11-15",
+   "t": "Man riding on hot air balloon - Free Photo on Unsplash",
    "v": "no"
   },
   "https://urbanoutfitters.com": {
@@ -2355,9 +2510,24 @@
    "t": "Rainbow Ryders, Inc.\u00ae - Hot Air Balloon Ride Co.",
    "v": "no"
   },
+  "https://visitchandler.com/things-to-do/outdoor-recreation/hot-air-ballooning": {
+   "d": "2026-11-15",
+   "t": "Hot Air Balloon Rides in Chandler | Arizona Flights",
+   "v": "no"
+  },
+  "https://visitmesa.com/directory/rainbow-ryders-inc-hot-air-balloon-company": {
+   "d": "2026-11-15",
+   "t": "Rainbow Ryders, Inc. Hot Air Balloon Company | Visit Mesa",
+   "v": "no"
+  },
   "https://visitphoenix.com/listing/rainbow-ryders-hot-air-balloon-ride-company/3871": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders Hot Air Balloon Ride Company - Glendale AZ, 85307",
+   "v": "no"
+  },
+  "https://visitplano.com/plan-your-hot-air-balloon-ride-over-plano": {
+   "d": "2026-11-15",
+   "t": "Plan Your Hot Air Balloon Ride Over Plano | Plano Insider",
    "v": "no"
   },
   "https://visitsaltlake.com/listing/rainbow-ryders-hot-air-balloon-co/72404": {
