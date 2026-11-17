@@ -1,9 +1,9 @@
 {
- "google_query_index": 3,
- "last_google_date": "2026-11-16",
- "last_lens_date": "2026-11-16",
- "last_poshmark_date": "2026-11-16",
- "last_run_date": "2026-11-16",
+ "google_query_index": 4,
+ "last_google_date": "2026-11-17",
+ "last_lens_date": "2026-11-17",
+ "last_poshmark_date": "2026-11-17",
+ "last_run_date": "2026-11-17",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 9,
+ "poshmark_query_index": 10,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -457,6 +457,16 @@
    "t": "Cute Fish Laptop Sleeve, Teal Blue Ocean Tropical Goldfish Laptop Case for  MacBook Air/pro, Turquoise Deep Sea Cover, G",
    "v": "no"
   },
+  "https://etsy.com/au/listing/1888935324/fancy-goldfish-t-shirt-artistic-betta": {
+   "d": "2026-11-17",
+   "t": "Tropical Fish T-shirt Artistic Betta Fish Graphic Tee Unique Aquarium Lover  Gift Fish Art Shirt Colorful Pet Fish Top -",
+   "v": "no"
+  },
+  "https://etsy.com/au/listing/4295470916/orange-koi-fish-graphic-tee-artistic-koi": {
+   "d": "2026-11-17",
+   "t": "Orange Goldfish Graphic Tee Artistic Fish Pond T-shirt Nature Inspired Shirt  - Etsy Australia",
+   "v": "no"
+  },
   "https://etsy.com/au/market/funky_print_tshirts": {
    "d": "2026-11-08",
    "t": "Funky Print Tshirts - Etsy Australia",
@@ -472,6 +482,11 @@
    "t": "Jesus Fish Shirt - Etsy Australia",
    "v": "no"
   },
+  "https://etsy.com/au/market/jesus_fish_tee": {
+   "d": "2026-11-17",
+   "t": "Jesus Fish Tee - Etsy Australia",
+   "v": "no"
+  },
   "https://etsy.com/au/market/stimming_shirt": {
    "d": "2026-11-11",
    "t": "Stimming Shirt - Etsy Australia",
@@ -482,6 +497,11 @@
    "t": "Disco Mounted Fish | Mirror Ball Goldfish | Funky Maximalist Art | Boho  Dopamine Decor - Etsy Canada",
    "v": "no"
   },
+  "https://etsy.com/ca/listing/1786889973/realistic-goldfish-in-plastic-bag-png": {
+   "d": "2026-11-17",
+   "t": "Realistic Goldfish in Plastic Bag PNG Clipart, Hand-Drawn Fish  Illustration,Unique Aquatic Clip Art for Digital Downloa",
+   "v": "no"
+  },
   "https://etsy.com/ca/market/big_fish_energy": {
    "d": "2026-11-11",
    "t": "Big Fish Energy - Etsy Canada",
@@ -490,6 +510,11 @@
   "https://etsy.com/ca/market/funky_t_shirts": {
    "d": "2026-11-08",
    "t": "Funky T Shirts - Etsy Canada",
+   "v": "no"
+  },
+  "https://etsy.com/ca/market/monochromatic_shirt": {
+   "d": "2026-11-17",
+   "t": "Monochromatic Shirt - Etsy Canada",
    "v": "no"
   },
   "https://etsy.com/ca/market/urban_outfitters_home": {
@@ -505,6 +530,11 @@
   "https://etsy.com/dk-en/market/fish_sweatshirt": {
    "d": "2026-11-11",
    "t": "Fish Sweatshirt - Etsy Denmark",
+   "v": "no"
+  },
+  "https://etsy.com/fi-en/market/funky_t_shirts": {
+   "d": "2026-11-17",
+   "t": "Funky T Shirts - Etsy Finland",
    "v": "no"
   },
   "https://etsy.com/ie/market/art_print_t_shirt": {
@@ -560,6 +590,11 @@
   "https://etsy.com/listing/1399655548/matisse-exhibition-poster-set-french": {
    "d": "2026-11-11",
    "t": "Matisse Exhibition Poster Set: French Museum Art (digital Download) - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1407625055/i-am-so-tired-of-making-lemonade-print": {
+   "d": "2026-11-17",
+   "t": "I Am so Tired of Making Lemonade Print | Trendy Sayings | Idiom Poster |  Pink Neutral Wall Art | Food and Drink Wall Ar",
    "v": "no"
   },
   "https://etsy.com/listing/1525739467/troop-beverly-hills-t-shirt-green-kids": {
@@ -642,6 +677,11 @@
    "t": "Surreal Canvas Art | Goldfish Phone Booth Print for Whimsical Home Decor",
    "v": "no"
   },
+  "https://etsy.com/listing/4341600735/goldfish-t-shirt-dress-oversized-sleep": {
+   "d": "2026-11-17",
+   "t": "Japanese Goldfish T-shirt Dress Ukiyo-e Art Boho Summer Outfit, Asian  Streetwear Vacation Dress for Her - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/listing/4357338824/vintage-japanese-koi-fish-t-shirt": {
    "d": "2026-11-11",
    "t": "Vintage Japanese Koi Fish T-Shirt: Nautical Art Nouveau Style",
@@ -712,9 +752,19 @@
    "t": "Angelfish Shirt - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/angelfish_t_shirt": {
+   "d": "2026-11-17",
+   "t": "Angelfish T Shirt - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/are_you_my_mother_shirt": {
    "d": "2026-11-11",
    "t": "Are You My Mother Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/arowana_fish_shirt": {
+   "d": "2026-11-17",
+   "t": "Arowana Fish Shirt - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/arowana_tshirt": {
@@ -767,14 +817,29 @@
    "t": "Fin Print - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/fish_and_lily_tattoo_design": {
+   "d": "2026-11-17",
+   "t": "Fish and Lily Tattoo Design - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/fish_wearing_shirts": {
    "d": "2026-11-11",
    "t": "Fish Wearing Shirts - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/fish_wearing_sunglasses": {
+   "d": "2026-11-17",
+   "t": "Fish Wearing Sunglasses - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/funny_30_birthday_shirt": {
    "d": "2026-11-08",
    "t": "Funny 30 Birthday Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/funny_abstract_poster": {
+   "d": "2026-11-17",
+   "t": "Funny Abstract Poster - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/funny_hot_air_balloon_shirts": {
@@ -857,6 +922,16 @@
    "t": "Men Aquarium Shirt - Etsy - Page 4",
    "v": "no"
   },
+  "https://etsy.com/market/mens_yellow_shirt_fish": {
+   "d": "2026-11-17",
+   "t": "Mens Yellow Shirt Fish - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/peaceful_flow": {
+   "d": "2026-11-17",
+   "t": "Peaceful Flow - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/ragdoll_cat_shirts": {
    "d": "2026-11-11",
    "t": "Ragdoll Cat Shirts - Etsy",
@@ -912,6 +987,11 @@
    "t": "Vintage 90s Fishing Shirt - Etsy - Page 2",
    "v": "no"
   },
+  "https://etsy.com/market/vintage_aquarium_t_shirt": {
+   "d": "2026-11-17",
+   "t": "Vintage Aquarium T Shirt - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/vintage_t_shirts_fish": {
    "d": "2026-11-11",
    "t": "Vintage T Shirts Fish - Etsy",
@@ -920,6 +1000,11 @@
   "https://etsy.com/market/vintage_urban_outfitters_tee": {
    "d": "2026-11-12",
    "t": "Vintage Urban Outfitters Tee - Etsy - Page 6",
+   "v": "no"
+  },
+  "https://etsy.com/market/y2k_beach_tops": {
+   "d": "2026-11-17",
+   "t": "Y2k Beach Tops - Etsy",
    "v": "no"
   },
   "https://etsy.com/nz/listing/1309660235/cute-fish-laptop-sleeve-teal-blue-ocean": {
@@ -950,6 +1035,11 @@
   "https://etsy.com/uk/market/girly_graphic_tees": {
    "d": "2026-11-11",
    "t": "Girly Graphic Tees - Etsy UK",
+   "v": "no"
+  },
+  "https://etsy.com/uk/market/goldfish_glasses": {
+   "d": "2026-11-17",
+   "t": "Goldfish Glasses - Etsy UK",
    "v": "no"
   },
   "https://etsy.com/uk/market/goldfish_shark_fin": {
@@ -985,6 +1075,11 @@
   "https://etsy.com/uk/market/vintage_mens_fish_t_shirt": {
    "d": "2026-11-11",
    "t": "Vintage Mens Fish T Shirt - Etsy UK",
+   "v": "no"
+  },
+  "https://etsy.com/uk/market/women%27s_celestial_t_shirts": {
+   "d": "2026-11-17",
+   "t": "Women's Celestial T Shirts - Etsy UK",
    "v": "no"
   },
   "https://experienceredmond.com/business/over-the-rainbow-hot-air-balloon-rides": {
@@ -1202,6 +1297,11 @@
    "t": "We are born of love. Love is our mother.\" - Rumi \ud83e\udde1 Wearing ...",
    "v": "no"
   },
+  "https://instagram.com/p/DYnFOrEgMYB": {
+   "d": "2026-11-17",
+   "t": "Swipe to see our new tees from this week's new release ...",
+   "v": "no"
+  },
   "https://instagram.com/p/DZ_YXkujBDa": {
    "d": "2026-11-12",
    "t": "Fun vintage fish tees coming this weekend \ud83d\udc1f\ud83d\ude02 onlytrouts.com \u2014 link in bio  Saturday 6/27 @ 2PM EDT",
@@ -1314,6 +1414,11 @@
   },
   "https://magnoliapearl.com/bg/products/all-hail-love-tee-sundip": {
    "d": "2026-11-11",
+   "t": "All Hail Love Tee \u2013 Magnolia Pearl Clothing",
+   "v": "no"
+  },
+  "https://magnoliapearl.com/products/all-hail-love-tee-sundip": {
+   "d": "2026-11-17",
    "t": "All Hail Love Tee \u2013 Magnolia Pearl Clothing",
    "v": "no"
   },
@@ -1542,6 +1647,11 @@
    "t": "Urban Outfitters Pink Shrugs & Ponchos for Women on Sale up to 90% Off:  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/brand/Urban_Outfitters-Women-Tops-Tees___Short_Sleeve": {
+   "d": "2026-11-17",
+   "t": "Urban Outfitters Short Sleeve T-Shirts for Women on Sale up to 90% Off:  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/brand/urban_pipeline-Women-Tops-Tees___Short_Sleeve": {
    "d": "2026-11-11",
    "t": "urban pipeline Short Sleeve T-Shirts for Women on Sale up to 90% Off:  Poshmark",
@@ -1632,6 +1742,11 @@
    "t": "BDG | Tops | Bdg Oversized Plaid Buttonup Shirt In Tan Green Cream |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Beach-Cover-Up-Cotton-Shirt-Back-Cut-Out-Shredded-632efe3b4bd7603f7d602867": {
+   "d": "2026-11-17",
+   "t": "Tops | Beach Cover Up Cotton Shirt Back Cut Out Shredded | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Biggie-smalls-medium-blue-graphic-preowned-Tshirt-669577379d05c41c8f460f69": {
    "d": "2026-11-14",
    "t": "Shirts | Biggie Smalls Medium Blue Graphic Preowned Tshirt | Poshmark",
@@ -1657,6 +1772,11 @@
    "t": "Urban Outfitters | Tops | Blue Fairy Button Up | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/BooJee-Ghost-Sweatshirt-6514530afb730437fdd883fb": {
+   "d": "2026-11-17",
+   "t": "Sweaters | Boojee Ghost Sweatshirt | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Brockhampton-Rainbow-Couch-Logo-Shirt-6046ba12576006c04b9f9e76": {
    "d": "2026-11-12",
    "t": "Brockhampton | Shirts | Brockhampton Rainbow Couch Logo Shirt | Poshmark",
@@ -1675,6 +1795,11 @@
   "https://poshmark.com/listing/CR-Kids-girls-summer-dress-with-cold-shoulder-NWOT-size-5-65f999c317e49c704eadac1b": {
    "d": "2026-11-16",
    "t": "CR Kids | Dresses | Cr Kids Girls Summer Dress With Cold Shoulder Nwot Size  5 | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Christmas-Santa-Hat-Donald-Duck-Graphic-Tee-Short-Sleeve-Classic-Fit-6ade6fd18f9d3e0d7232eff2": {
+   "d": "2026-11-17",
+   "t": "Tops | Christmas Santa Hat Donald Duck Graphic Tee Short Sleeve Classic Fit  | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Columbia-Mens-Faded-Black-Rainbow-Mountain-Graphic-TShirt-Size-M-Gorpcore-6a96615b37385362c5570fae": {
@@ -1700,6 +1825,11 @@
   "https://poshmark.com/listing/Crewcuts-J-Crew-Kids-Vintage-wash-Cotton-Pride-Love-Graphic-Tshirt-M-89-NIP-6ad6e9aa72e624814e9259d0": {
    "d": "2026-11-12",
    "t": "Crewcuts | Shirts & Tops | Crewcuts J Crew Kids Vintage Wash Cotton Pride  Love Graphic Tshirt M 89 Nip | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Damn-I-Make-30-look-Good-Birthday-humor-shirt-5c6569ee5c445265207507b7": {
+   "d": "2026-11-17",
+   "t": "Tops | Damn I Make 3 Look Good Birthday Humor Shirt | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Dark-green-tie-dyed-tshirt-60f71393ff8304af3fdd0819": {
@@ -1772,6 +1902,11 @@
    "t": "GAP | Sweaters | Gap Sweater Womens 3d Popcorn Knit Baubles Oatmeal Retro  9s Y2k Size S Tall | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Goodfellow-Co-Zion-Canyon-Graphic-Tee-6ac2a869441b19c6ed1cbc3c": {
+   "d": "2026-11-17",
+   "t": "Tops | Goodfellow Co Zion Canyon Graphic Tee | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Gorgeous-floral-cropped-blouse-649f48bac1c346cb5cb063ca": {
    "d": "2026-11-10",
    "t": "Urban Outfitters | Tops | Gorgeous Floral Cropped Blouse | Poshmark",
@@ -1837,6 +1972,11 @@
    "t": "Urban Outfitters | Tops | Long Sleeve Top | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/MALOKA-COLORFUL-LONG-SLEEVE-TOP-67a18a1cf884717859839afa": {
+   "d": "2026-11-17",
+   "t": "Maloka | Tops | Maloka Colorful Long Sleeve Top | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/MENS-QUICK-DRY-SHIRT-REEL-LEGEND-FISHING-SHORT-SLEEVE-BUTTON-FRONTVENTED-BACK-65edb35a2fbf1a12c251221a": {
    "d": "2026-11-12",
    "t": "Reel Legends | Shirts | Mens Quick Dry Shirt Reel Legend Fishing Short  Sleeve Button Frontvented Back | Poshmark",
@@ -1882,6 +2022,11 @@
    "t": "unbranded | Tops | Morgan Wallen Country Music Tshirt Unisex Tee Patriotic  Usa Flag Shirt Top | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Morgan-Wallen-One-Thing-At-A-Time-Country-Music-Album-Graphic-Fan-TShirt-6a3ddc1746c849d3e53c5fc1": {
+   "d": "2026-11-17",
+   "t": "Tops | Morgan Wallen One Thing At A Time Country Music Album Graphic Fan  Tshirt | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Multicolor-strapless-sequins-mini-Velvet-dress-5ce4549e8557af0a12dd428a": {
    "d": "2026-11-15",
    "t": "Dresses | Multicolor Strapless Sequins Mini Velvet Dress | Poshmark",
@@ -1890,6 +2035,11 @@
   "https://poshmark.com/listing/NARUTO-SHIPPUDEN-COLLECTION-Nine-Tail-Fox-Biju-Tailed-Beast-Size-Medium-67ebc985d47be587529711ef": {
    "d": "2026-11-11",
    "t": "Naruto Shippuden Collection | Tops | Naruto Shippuden Collection Nine Tail  Fox Biju Tailed Beast Size Medium | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/NEW-Honda-1998-Soccer-Jersey-Polo-Tee-Urban-Outfitters-White-Sz-M-Streetwear-69f26903dff1f13ea4a08cc0": {
+   "d": "2026-11-17",
+   "t": "Honda | Shirts | New Honda 998 Soccer Jersey Polo Tee Urban Outfitters  White Sz M Streetwear | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/NEW-MTV-Jackass-Urban-Outfitters-UO-Warning-Shirt-TShirt-Tee-L-XL-634f2b92ffb5d01625a71e7f": {
@@ -1915,6 +2065,11 @@
   "https://poshmark.com/listing/NWT-Urban-Outfitters-Out-From-Under-Light-Blue-TieDye-Jumpsuit-6ad94560a636160f1dde2a39": {
    "d": "2026-11-10",
    "t": "Urban Outfitters | Pants & Jumpsuits | Nwt Urban Outfitters Out From Under  Light Blue Tiedye Jumpsuit | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/NWT-VOmax-Mens-MLS-Short-Sleeve-Secondary-New-York-City-FC-Cycling-Jersey-6ad7f51913a647ad123f0b00": {
+   "d": "2026-11-17",
+   "t": "VOmax | Shirts | Nwt Vomax Mens Mls Short Sleeve Secondary New York City Fc  Cycling Jersey | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/National-Geographic-Black-TShirt-with-Orange-Goldfish-Graphic-6a4cc973ff032030f3907fde": {
@@ -1962,6 +2117,11 @@
    "t": "Accessories | Penn State Nittany Lion Ears | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Philosophy-Dark-Green-Short-Sleeve-Tee-with-Cream-Skeleton-Graphic-6abb34ad13a64774ab56c209": {
+   "d": "2026-11-17",
+   "t": "Philosophy Dark Green Short Sleeve Tee with Cream Skeleton Graphic",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Phoebe-Bridgers-Skeleton-Tee-6247a98dfadba44271628612": {
    "d": "2026-11-09",
    "t": "Urban Outfitters | Shirts | Phoebe Bridgers Skeleton Tee | Poshmark",
@@ -1975,6 +2135,11 @@
   "https://poshmark.com/listing/Pink-Floyd-Liquid-Blue-tee-639e789102760b59684f0126": {
    "d": "2026-11-12",
    "t": "Liquid Blue | Shirts | Pink Floyd Liquid Blue Tee | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Pink-Floyd-WomensLadies-Lightning-Prism-Mesh-LongSleeved-Crop-Top-Navy-Blue-6ac3a4d52f16e6282e39ca50": {
+   "d": "2026-11-17",
+   "t": "Pink Floyd | Tops | Pink Floyd Womensladies Lightning Prism Mesh  Longsleeved Crop Top Navy Blue | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Pizza-my-heart-t-shirt-56e3abea6802783c5a011bfa": {
@@ -2000,6 +2165,11 @@
   "https://poshmark.com/listing/Reel-Legends-ReelTech-Mens-Long-Slv-Shirt-2X-Blue-Rainbow-Scales-UV-Fishing-NEW-69fb7e7edff1f125870e4558": {
    "d": "2026-11-12",
    "t": "Reel Legends | Shirts | Reel Legends Reeltech Mens Long Slv Shirt 2x Blue  Rainbow Scales Uv Fishing New | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Rip-Bj-Thomas-Lengend-Never-Die-Classic-Unisex-T-Shirt-1-Shirt-678bb4726903d31ddad4218e": {
+   "d": "2026-11-17",
+   "t": "Tops | Rip Bj Thomas Lengend Never Die Classic Unisex T Shirt 1 Shirt |  Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Sandro-Paris-Camp-Shirt-Mens-Large-Blue-Goldfish-Koi-Hawaiian-Button-Up-Size-S-6a30284c842dd4af2c5892b6": {
@@ -2152,6 +2322,11 @@
    "t": "Urban Outfitters | Tops | Urban Outfitters Pink And Gold Wrap Blouse With  34 Sleeves | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Project-Social-T-Striped-Tank-Top-in-Black-White-6aebafb4c9ddecad35435232": {
+   "d": "2026-11-17",
+   "t": "Urban Outfitters Project Social T Striped Tank Top in Black & White",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Ruched-Blouse-Blue-White-flower-floral-smocked-Reformation-656e3222ff04840e221584ff": {
    "d": "2026-11-16",
    "t": "Urban Outfitters | Tops | Urban Outfitters Ruched Blouse Blue White Flower  Floral Smocked Reformation | Poshmark",
@@ -2250,6 +2425,11 @@
   "https://poshmark.com/listing/White-Tropical-Fish-Graphic-TShirt-Ocean-Marine-Life-Illustration-Tee-69b278e2b2780c8754f3a78e": {
    "d": "2026-11-12",
    "t": "Shirts | White Tropical Fish Graphic Tshirt Ocean Marine Life Illustration  Tee | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Womens-True-Religion-Embroidered-TShirt-Size-sp-6a6c358a310f1c6e20cb4bc1": {
+   "d": "2026-11-17",
+   "t": "Tops | Womens True Religion Embroidered Tshirt Size Sp | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/bryn-Walker-White-Cotton-Boatneck-LongSleeve-Top-6ae6c1f070333fc7e37cb918": {
@@ -2537,6 +2717,11 @@
    "t": "MEMBER SPOTLIGHT: RAINBOW RYDER HOT AIR BALLOON RIDE CO. - The Scout Guide",
    "v": "no"
   },
+  "https://thestrayfoxvintage.com/store-1-2/tees": {
+   "d": "2026-11-17",
+   "t": "tees \u2014 Vintage Clothing in Seattle & Ballard \u2014 The Stray Fox",
+   "v": "no"
+  },
   "https://thewebster.com/collections/casablanca": {
    "d": "2026-11-11",
    "t": "CASABLANCA \u2013 The Webster",
@@ -2595,6 +2780,11 @@
   "https://trcp.org/2024/11/20/in-the-arena-capt-chris-dollar": {
    "d": "2026-11-12",
    "t": "In the Arena: Capt. Chris Dollar | Theodore Roosevelt Conservation  Partnership",
+   "v": "no"
+  },
+  "https://trestlesclothingcompany.com": {
+   "d": "2026-11-17",
+   "t": "Vintage Boho Dress | Boho Beach Dresses | Trestles Clothing ...",
    "v": "no"
   },
   "https://tripadvisor.com/Attraction_Review-g31231-d1627676-Reviews-Rainbow_Ryders_Hot_Air_Balloon_Ride_Co-Glendale_Arizona.html": {
