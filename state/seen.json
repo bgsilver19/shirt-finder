@@ -1,9 +1,9 @@
 {
- "google_query_index": 5,
- "last_google_date": "2026-11-18",
- "last_lens_date": "2026-11-18",
- "last_poshmark_date": "2026-11-18",
- "last_run_date": "2026-11-18",
+ "google_query_index": 6,
+ "last_google_date": "2026-11-19",
+ "last_lens_date": "2026-11-19",
+ "last_poshmark_date": "2026-11-19",
+ "last_run_date": "2026-11-19",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 11,
+ "poshmark_query_index": 12,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -162,6 +162,11 @@
    "t": "Amazon.com : Parachute Toy, 6.1ft Diameter Giant Rainbow Parachute for Kids  Colorful Children Parachute with Handles La",
    "v": "no"
   },
+  "https://amazon.com/Parachute-Skydiving-Tshirt-Skydive-Parachuting/dp/B07N5NX5CQ": {
+   "d": "2026-11-19",
+   "t": "Amazon.com: Colorful Parachute Skydiving Skydive Parachuting Gift T-Shirt :  Clothing, Shoes & Jewelry",
+   "v": "no"
+  },
   "https://amazon.com/Skydiving-Skydiver-Skydive-Parachuting-Premium/dp/B0D9YWSF4H": {
    "d": "2026-11-13",
    "t": "Skydiving Skydiver Skydive Parachuting Popart Premium Tri-blend T-Shirt :  Clothing, Shoes & Jewelry - Amazon.com",
@@ -190,6 +195,11 @@
   "https://amazon.com/clp/B07YBTSWKN": {
    "d": "2026-11-15",
    "t": "Amazon.com: Colorful Cute Hot Air Balloon Ride Vacation Flying Balloons",
+   "v": "no"
+  },
+  "https://amazon.com/clp/B084SW14CT": {
+   "d": "2026-11-19",
+   "t": "Amazon.com: Toddler and Children's Balloon T-Shirt Kids Tees Fun Graphic",
    "v": "no"
   },
   "https://amazon.com/clp/B08SNJSGVW": {
@@ -652,6 +662,11 @@
    "t": "Matisse Exhibition Poster Set: French Museum Art (digital Download) - Etsy",
    "v": "no"
   },
+  "https://etsy.com/listing/1402448367/colored-100-polyester-sublimation-t": {
+   "d": "2026-11-19",
+   "t": "Colored 100% Polyester Sublimation T-Shirt, soft cotton feel, DTF, cricut, Sublimation blank",
+   "v": "no"
+  },
   "https://etsy.com/listing/1407625055/i-am-so-tired-of-making-lemonade-print": {
    "d": "2026-11-17",
    "t": "I Am so Tired of Making Lemonade Print | Trendy Sayings | Idiom Poster |  Pink Neutral Wall Art | Food and Drink Wall Ar",
@@ -662,9 +677,39 @@
    "t": "Kids Halloween Costume, Troop Beverly Hills T-Shirt: Green Kids Tee, 80s Movie Nostalgia",
    "v": "no"
   },
+  "https://etsy.com/listing/1528626551/horse-and-flowers-apparel-transfer": {
+   "d": "2026-11-19",
+   "t": "Horse And Flowers DTF Transfer or Sublimation Print Ready to Press, Heat Transfer for T-Shirts",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1530021211/neon-vibrant-dirt-bike-bundle-of-5-png": {
+   "d": "2026-11-19",
+   "t": "Neon Vibrant Dirt Bike, Bundle of 5 PNG Files for Wall Art, Digital Prints, T-Shirt Designs, and Tumbler Sublimation",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1574355257/600-t-shirt-sublimation-designs-jersey": {
+   "d": "2026-11-19",
+   "t": "600+ T-Shirt Sublimation Designs: Jersey Templates for Adobe Illustrator (AI)",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1577974924/thing-1-2-3-4-svg-bundle-svg-eps-dxf-png": {
+   "d": "2026-11-19",
+   "t": "Thing 1 2 3 4 SVG Bundle | SVG Eps Dxf Png Format Bundle | Silhouette | Cricut File | Family Tshirts Group | Cut Files |",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1666264205/patriotic-motocross-digital-clipart-usa": {
+   "d": "2026-11-19",
+   "t": "Patriotic Motocross Digital Clipart | USA American Flag Rider | Printable  Sublimation PNG Clip Art | Dirt Bike Graphics",
+   "v": "no"
+  },
   "https://etsy.com/listing/1679538850/gymnastics-birthday-shirt-girls-rainbow": {
    "d": "2026-11-13",
    "t": "Gymnastics Birthday Shirt Girls, Custom Rainbow Glitter Gymnast Party  Tumbling Beam - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1682872826/custom-homecoming-football-all-over": {
+   "d": "2026-11-19",
+   "t": "Custom Homecoming Football All Over Print T-Shirt",
    "v": "no"
   },
   "https://etsy.com/listing/1704527788/disco-mounted-fish-mirror-ball-goldfish": {
@@ -682,9 +727,19 @@
    "t": "Morning Hot Air Balloon Ride Quilt Panel - AFT-003, Panel Size is 23.5\" X 16\", Quality Quilting Cotton",
    "v": "no"
   },
+  "https://etsy.com/listing/1742265755/horse-floral-line-drawing-svg-png-equine": {
+   "d": "2026-11-19",
+   "t": "Horse Floral Line Drawing SVG, PNG, Equine SVG, T-shirt Design",
+   "v": "no"
+  },
   "https://etsy.com/listing/1755926520/pink-floyd-lady-pink-unisex-tee": {
    "d": "2026-11-13",
    "t": "PINK FLOYD 'lady Pink' Unisex Tee | Officially Licensed ...",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1761238633/30-skydiving-designs-svg-bundle": {
+   "d": "2026-11-19",
+   "t": "30 Skydiving Designs SVG Bundle | Parachute Clipart | Skydiver Silhouette | Extreme Sport Cut Files for Cricut & Sublima",
    "v": "no"
   },
   "https://etsy.com/listing/1770516877/woman-glasses-canvas-wall-art-surreal": {
@@ -702,6 +757,11 @@
    "t": "Impuls Handpainted Glass Goldfish Ornament From Poland Boxed - Etsy",
    "v": "no"
   },
+  "https://etsy.com/listing/1780873571/horse-western-desert-png-sublimations": {
+   "d": "2026-11-19",
+   "t": "Horse Western Desert, PNG Sublimations, Western Sublimations, Designs Downloads, Shirt Design, Sublimation Download",
+   "v": "no"
+  },
   "https://etsy.com/listing/1783854419/goldfish-mini-pinata-for-luau-party-or": {
    "d": "2026-11-11",
    "t": "Mini Goldfish Pi\u00f1ata: Tropical Luau, Ocean, Baby Shower Party Decoration",
@@ -710,6 +770,11 @@
   "https://etsy.com/listing/1803991956/watercolor-parachute-clip-art-whimsical": {
    "d": "2026-11-13",
    "t": "Watercolor Parachute Clip Art: Whimsical PNG Graphics (digital Download) -  Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1809228742/parachutist-sublimation-socks-unique": {
+   "d": "2026-11-19",
+   "t": "Parachutist Crew Socks - Sublimation Print, Skydiving Gift",
    "v": "no"
   },
   "https://etsy.com/listing/1810725147/y2k-custo-barcelona-t-shirt-art-nouveau": {
@@ -727,6 +792,31 @@
    "t": "100+ Skydiving T-Shirt Designs: Parachute SVG, PNG Clipart (Digital Download)",
    "v": "no"
   },
+  "https://etsy.com/listing/1862276956/custom-ready-to-press-sublimation": {
+   "d": "2026-11-19",
+   "t": "Custom Ready To Press Sublimation Transfers Wholesale Print On Demand Services Mugs, Tumblers, T-Shirts & More, Low Cost",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1869554254/personalized-motocross-racing-design-dtf": {
+   "d": "2026-11-19",
+   "t": "Personalized Motocross Racing Design DTF Transfer",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1874564136/retro-floral-mama-quote-png-mom-png-she": {
+   "d": "2026-11-19",
+   "t": "Retro floral mama quote png, mom png, she is mom png, mama sublimation, floral mom png, mama dtf transfer, mothers day p",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1889435061/horse-american-flag-png-sublimation": {
+   "d": "2026-11-19",
+   "t": "Horse American Flag Png, Sublimation Design, 4th Of July Png, Horse Png, Patriotic Png, T-Shirt Design, Instant Digital ",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1889756423/rainbow-trout-fishing-png-jumping-fish": {
+   "d": "2026-11-19",
+   "t": "Rainbow Trout Fishing PNG: Jumping Fish Sublimation Design (Digital Download)",
+   "v": "no"
+  },
   "https://etsy.com/listing/1905168503/5-loaves-2-fish-and-loaves-shirt-bible": {
    "d": "2026-11-10",
    "t": "5 Loaves 2 Fish and Loaves Shirt Bible Verse T Shirt Faith T Shirt Religious Tee Christian Clothing Bible Verse Tee Chri",
@@ -735,6 +825,16 @@
   "https://etsy.com/listing/4305586314/rainbow-balloon-birthday-romper-1st": {
    "d": "2026-11-13",
    "t": "Personalized Rainbow Balloon Birthday Outfit, Romper, Sweatshirt or Shirt",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4308954665/motocross-jersey-sublimation-design": {
+   "d": "2026-11-19",
+   "t": "Motocross Jersey Sublimation Design Bundle | Motocross Jersey Designs | Vector Files | 100 Jersey Designs | Instant Digi",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4332563065/futuristic-racing-shirt-background-svg": {
+   "d": "2026-11-19",
+   "t": "Futuristic Racing Shirt Background SVG Bundle - Pink & Blue Motocross Designs (png, eps, dxf, pdf)",
    "v": "no"
   },
   "https://etsy.com/listing/4340398074/surreal-canvas-art-goldfish-phone-booth": {
@@ -752,6 +852,16 @@
    "t": "Vintage Japanese Koi Fish T-Shirt: Nautical Art Nouveau Style",
    "v": "no"
   },
+  "https://etsy.com/listing/4363562242/just-a-girl-who-loves-horses-png-horse": {
+   "d": "2026-11-19",
+   "t": "Just a Girl Who Loves Horses PNG, Horse Lover Sublimation Design, Western Cowgirl Floral Graphic, Horse Clipart Digital ",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4373665567/letter-m-costume-font-svg-kids-halloween": {
+   "d": "2026-11-19",
+   "t": "Letter M Costume Font SVG: Kids Halloween T-Shirt Design (Digital Download)",
+   "v": "no"
+  },
   "https://etsy.com/listing/4377553544/vintage-90s-puff-daddy-t-shirt-single": {
    "d": "2026-11-08",
    "t": "Vintage 90's Puff Daddy T-shirt Single Stitch Winterland XL ...",
@@ -762,6 +872,11 @@
    "t": "fish Around Find trout Funny Fishing Father's Day Dad Men T-Shirt, retro rainbow trout shirt, comfort colors trout fish ",
    "v": "no"
   },
+  "https://etsy.com/listing/4392057789/1200-christmas-bundle-sublimation-xmas": {
+   "d": "2026-11-19",
+   "t": "1200+ Christmas Bundle Sublimation, XMAS PNG, Christmas T-shirt Designs, Tumblers, Transparent PNG, Sublimation Designs,",
+   "v": "no"
+  },
   "https://etsy.com/listing/4395915329/fish-around-and-find-trout-funny-t-shirt": {
    "d": "2026-11-18",
    "t": "Fish Around And Find Trout Funny T-shirt, Vintage Graphic Tee, Meme Tshirt, Unhinged Clothes, Gift for Fisherman, Ironic",
@@ -770,6 +885,11 @@
   "https://etsy.com/listing/4412999425/anglerfish-vintage-t-shirt-minimalist": {
    "d": "2026-11-10",
    "t": "Anglerfish Vintage T-Shirt - Minimalist Deep Sea Fish Tee, Ocean Creature Linocut Style, Unique Sea Monster Gift for Fis",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4433008931/dinosaur-png-t-shirt-designs-t-rex-png": {
+   "d": "2026-11-19",
+   "t": "Dinosaur PNG T-shirt Designs T-rex PNG Sublimation Designs Digital Download  - Etsy",
    "v": "no"
   },
   "https://etsy.com/listing/4474916577/vince-staples-big-fish-theory-t-shirt": {
@@ -787,9 +907,29 @@
    "t": "Retro Trout Fishing Graphic Tee, Mountain River Fish Shirt, Vintage Outdoor  Wilderness Style Top, Comfort Colors\u00ae Fishi",
    "v": "no"
   },
+  "https://etsy.com/listing/4501178565/colorful-trout-png-sublimation-design": {
+   "d": "2026-11-19",
+   "t": "Colorful Trout PNG Sublimation Design, Retro Fishing PNG, Preppy Rainbow Fish Shirt Graphic Digital Download",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4510599757/cruise-2026-png-bundle-family-cruise": {
+   "d": "2026-11-19",
+   "t": "Cruise 2026 PNG Bundle, Family Cruise Trip Png, Cruise Squad Png, Birthday Cruise Shirts Png, Vacation Shirt Design Bund",
+   "v": "no"
+  },
   "https://etsy.com/listing/4512286091/vtg-90s-fish-go-against-the-flow-tee-x": {
    "d": "2026-11-18",
    "t": "Vtg 90s FISH Go AGAINST the FLOW Tee X-large // White Cotton Texas Vacation  St. Edwards Padre Island Minimalist Street ",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4515725377/simple-butterfly-t-shirt-design-flower": {
+   "d": "2026-11-19",
+   "t": "Simple Butterfly T-Shirt Design, Flower SVG, Boho Sweatshirt SVG & PNG, Just Breathe Inspirational Sublimation Designs f",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4522285535/first-day-of-kindergarten-png-coquette": {
+   "d": "2026-11-19",
+   "t": "First Day of Kindergarten PNG | Coquette Bow Sublimation Design | Back to School Shirt for Girls & Kids (Digital Downloa",
    "v": "no"
   },
   "https://etsy.com/listing/594532616/womens-open-road-flowy-crop-top-classic": {
@@ -1332,6 +1472,11 @@
    "t": "Aerosmith 1977 Tour Boyfriend Fit Girls T-Shirt | Hot Topic",
    "v": "no"
   },
+  "https://hottopic.com/product/goldfish-calling-t-shirt-by-friday-jr./37110722.html": {
+   "d": "2026-11-19",
+   "t": "Goldfish Calling T-Shirt By Friday Jr. | Hot Topic",
+   "v": "no"
+  },
   "https://houseofsunny.com": {
    "d": "2026-11-08",
    "t": "House of Sunny",
@@ -1437,6 +1582,11 @@
    "t": "A rainbow-striped hot-air balloon hovers just above a sunlit meadow, its  bands mirrored like a halo in the pond. The ve",
    "v": "no"
   },
+  "https://instagram.com/p/DffVELamvuH": {
+   "d": "2026-11-19",
+   "t": "Bucket List Item: Sunrise Hot Sit Balloon Ride with the most spectacular  beautiful brilliant woman in the world\u2026\u2713 Rainb",
+   "v": "no"
+  },
   "https://instagram.com/popular/rainbow-ryders-hot-air-balloon-co-photos": {
    "d": "2026-11-09",
    "t": "Reminiscing on our Hot Air Balloon ride in New Mexico \ud83c\udf88, @rainbowryders,  -, -, -, #hotairballoons #newmexico #hotairbal",
@@ -1445,6 +1595,11 @@
   "https://instagram.com/reel/DRxTmkYjG7l": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | NYC, let's bounce! We teamed up with @Nike to build a  giant pink bounce house inspired by the new Ni",
+   "v": "no"
+  },
+  "https://instagram.com/reel/DcsEyVaDUOm": {
+   "d": "2026-11-19",
+   "t": "Want to be part of the action at the largest hot-air balloon festival in  the world? \ud83c\udf88 Rainbow Ryders is hiring energeti",
    "v": "no"
   },
   "https://instagram.com/reel/Dd4viKeMzvo": {
@@ -1535,6 +1690,16 @@
   "https://magnoliapearl.com/bg/products/all-hail-love-tee-sundip": {
    "d": "2026-11-11",
    "t": "All Hail Love Tee \u2013 Magnolia Pearl Clothing",
+   "v": "no"
+  },
+  "https://magnoliapearl.com/en-at/products/fawn-magic-tee-daismarie": {
+   "d": "2026-11-19",
+   "t": "Fawn Magic Tee \u2013 Magnolia Pearl Clothing",
+   "v": "no"
+  },
+  "https://magnoliapearl.com/en-de/products/through-endless-skies-t-kiss-molly": {
+   "d": "2026-11-19",
+   "t": "Through Endless Skies Tee \u2013 Magnolia Pearl Clothing",
    "v": "no"
   },
   "https://magnoliapearl.com/products/all-hail-love-tee-sundip": {
@@ -1787,6 +1952,16 @@
    "t": "Urban Outfitters Shirts & Tops for Kids on Sale up to 90% Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/brand/Urban_Outfitters-Women-Dresses-Midi": {
+   "d": "2026-11-19",
+   "t": "Urban Outfitters Midi Dresses for Women on Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/brand/Urban_Outfitters-Women-Sweaters-Cowl_&_Turtlenecks--color-Green": {
+   "d": "2026-11-19",
+   "t": "Urban Outfitters Green Cowl & Turtlenecks for Women on Sale up to 90% Off:  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/brand/Urban_Outfitters-Women-Sweaters-Shrugs_&_Ponchos--color-Pink": {
    "d": "2026-11-10",
    "t": "Urban Outfitters Pink Shrugs & Ponchos for Women on Sale up to 90% Off:  Poshmark",
@@ -1805,6 +1980,11 @@
   "https://poshmark.com/browse/bdg-cropped-sweater": {
    "d": "2026-11-13",
    "t": "Bdg Cropped Sweater for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/elastic-jeans-urban-outfitters": {
+   "d": "2026-11-19",
+   "t": "Elastic Jeans Urban Outfitters for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/browse/mens-graphic-tee-shirts": {
@@ -1850,6 +2030,11 @@
   "https://poshmark.com/category/Women-Tops-Tees___Short_Sleeve--color-Black": {
    "d": "2026-11-11",
    "t": "Black Short Sleeve T-Shirts for Women on Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/closet/armesk": {
+   "d": "2026-11-19",
+   "t": "Kristel's Closet (@armesk) | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/closet/bethanyschro673": {
@@ -2437,6 +2622,11 @@
    "t": "UNIF | Sweaters | Unif Sweater | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/UNIF-thyme-plaid-dress-6164f938284e999941f469b0": {
+   "d": "2026-11-19",
+   "t": "UNIF | Dresses | Unif Thyme Plaid Dress | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/URBAN-REBEL-Womens-Hoodie-Tie-Dye-Light-Hooded-Sweatshirt-Colorful-2X-621c0e3a7468d5005499023f": {
    "d": "2026-11-10",
    "t": "Urban Rebel | Tops | Urban Rebel Womens Hoodie Tie Dye Light Hooded  Sweatshirt Colorful 2x | Poshmark",
@@ -2505,6 +2695,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Lyra-Pullover-Sweater-Size-L-67999a080c0a3fa60c5b252a": {
    "d": "2026-11-10",
    "t": "Urban Outfitters Lyra Pullover Sweater - Size L",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Midi-Dress-Colorblock-Seersucker-Striped-Off-Shoulder-6ada9334f00c55de663ef1f8": {
+   "d": "2026-11-19",
+   "t": "Urban Outfitters | Dresses | Urban Outfitters Midi Dress Colorblock  Seersucker Striped Off Shoulder | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Mustard-WideLeg-Drawstring-Utility-Pants-6a1f246ca0dc2b896f2d71d5": {
@@ -2682,6 +2877,11 @@
    "t": "Free People | Sweaters | Free People Softly Structured Tunic Sweater  Ottoman Slouchy Colorblock | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/iets-frans-by-UO-Harri-Wide-Leg-Jogger-Pants-6a39db6c006e4363ebf7a5fd": {
+   "d": "2026-11-19",
+   "t": "Iets Frans | Pants & Jumpsuits | Iets Frans By Uo Harri Wide Leg Jogger  Pants | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/rainbow-leopard-cropped-and-collared-button-up-60919ef081a36cdeaecd5b61": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Rainbow Leopard Cropped And Collared Button Up |  Poshmark",
@@ -2695,6 +2895,11 @@
   "https://ragstock.com/products/vintage-rainbow-clownfish-aruba-t-shirt-1990s": {
    "d": "2026-11-18",
    "t": "Vintage Rainbow Clownfish \"Aruba\" T-Shirt (1990s)",
+   "v": "no"
+  },
+  "https://rainbowryders.com/locations/colorado-springs": {
+   "d": "2026-11-19",
+   "t": "Colorado Springs Hot Air Balloon Rides | Reserve Online",
    "v": "no"
   },
   "https://rainbowryders.com/locations/phoenix": {
@@ -2777,6 +2982,11 @@
    "t": "CASABLANCA Nature's Teacher Silk Shirt | Casablanca Paris ...",
    "v": "no"
   },
+  "https://rocksoup.net/products/aris-moore-shirt-pre-order": {
+   "d": "2026-11-19",
+   "t": "Aris Moore Shirt *IN STOCK* \u2013 ROCK|SOUP",
+   "v": "no"
+  },
   "https://rounder.com/products/sierra-ferrell-pair-of-dice-trying-to-love-you-tee": {
    "d": "2026-11-14",
    "t": "Sierra Ferrell - Pair Of Dice / Trying To Love You - Tee ...",
@@ -2817,9 +3027,19 @@
    "t": "usaesscapelife - Shop",
    "v": "no"
   },
+  "https://shop.laurieberkner.com/products/lets-go-swimming-youth-t-shirt-1": {
+   "d": "2026-11-19",
+   "t": "Goldfish Youth T-Shirt \u2013 Laurie Berkner Band",
+   "v": "no"
+  },
   "https://shop.oldrow.net/products/old-row-outdoors-neon-fish-pocket-tee": {
    "d": "2026-11-18",
    "t": "Old Row Outdoors Neon Fish Pocket Tee / Old Row Black / S",
+   "v": "no"
+  },
+  "https://shoparchiveroom.com/products/vintage-1993-grateful-dead-skydiving-bears-t-shirt-xl-liquid-blue": {
+   "d": "2026-11-19",
+   "t": "1993 Grateful Dead Skydiving Bears T-Shirt XL | Liquid Blue Vintage |  ARCHIVE ROOM",
    "v": "no"
   },
   "https://shopavara.com/products/blue-snowflake-embroidered-sweater": {
@@ -2867,6 +3087,11 @@
    "t": "Casablanca: Black Warped Logo Short Sleeve T\u2011shirt | SSENSE",
    "v": "no"
   },
+  "https://ssense.com/en-us/men/product/casablanca/green-classic-t-shirt/19307281": {
+   "d": "2026-11-19",
+   "t": "Casablanca: Green Classic T-shirt | SSENSE",
+   "v": "no"
+  },
   "https://ssense.com/en-us/men/product/casablanca/multicolor-short-sleeve-football-t-shirt/18722191": {
    "d": "2026-11-11",
    "t": "Casablanca: Multicolor Short Sleeve Football T-shirt | SSENSE",
@@ -2905,6 +3130,11 @@
   "https://target.com/p/-/-/A-1008723764": {
    "d": "2026-11-10",
    "t": "Men's Star Trek Men's Short Sleeve Graphic T-Shirt Short Sleeve Graphic T- Shirt - Purple - Large : Target",
+   "v": "no"
+  },
+  "https://target.com/p/boys-instant-message-thanksgiving-food-parade-balloons-short-sleeve-graphic-t-shirt-forest-green-small/-/A-1015604317": {
+   "d": "2026-11-19",
+   "t": "Boys' Instant Message Thanksgiving Food Parade Balloons Short Sleeve  Graphic T-Shirt - Forest Green - Small : Target",
    "v": "no"
   },
   "https://target.com/p/men-s-neff-jumping-rainbow-fish-t-shirt/-/A-86122161": {
@@ -3250,6 +3480,11 @@
   "https://us.amazon.com/AUHILL-Shirts-Blouses-Vintage-Sardines/dp/B0DFG96639": {
    "d": "2026-11-10",
    "t": "AUHILL Linen Shirts for Women Fish Print Blouses Casual Flowy Shirts Long  Sleeve Floral Tops Vintage Sardines Art Print",
+   "v": "no"
+  },
+  "https://us.shein.com/Men-Women-Retro-Paramotor-T-Shirt-PPG-With-Paramotor-Wing-Parachute-Gear-Graphic-Round-Neck-Casual-Tee-Suitable-For-PPG-Lovers-Machine-Washable-Aviation-Enthusiast-Apparel-p-411060019.html": {
+   "d": "2026-11-19",
+   "t": "Men' & Women' Retro Paramotor T-Shirt - PPG With Paramotor Wing & Parachute  Gear Graphic, Round Neck Casual Tee Suitabl",
    "v": "no"
   },
   "https://us.shein.com/Starry-Sky-Cats-Catching-Fish-Washed-Graphic-T-Shirt-Minimal-Line-Art-Kitten-Print-Gift-For-Cat-Lovers-Night-Sky-Fans2026-p-522237392.html": {
