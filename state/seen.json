@@ -1,9 +1,9 @@
 {
- "google_query_index": 6,
- "last_google_date": "2026-11-19",
- "last_lens_date": "2026-11-19",
- "last_poshmark_date": "2026-11-19",
- "last_run_date": "2026-11-19",
+ "google_query_index": 1,
+ "last_google_date": "2026-11-20",
+ "last_lens_date": "2026-11-20",
+ "last_poshmark_date": "2026-11-20",
+ "last_run_date": "2026-11-20",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 12,
+ "poshmark_query_index": 13,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -30,6 +30,11 @@
   "ebay:145247214944": {
    "d": "2026-11-12",
    "t": "VINTAGE 90s Fishing Funny Graphic Comic T Shirt XXL 1992 Artwear Made In USA",
+   "v": "no"
+  },
+  "ebay:186108542543": {
+   "d": "2026-11-20",
+   "t": "FRUIT OF THE LOOM GIRLS KIDS PINK Urban Air Adventure Park COTTON Tshirt  SIZE S | eBay",
    "v": "no"
   },
   "ebay:226111066412": {
@@ -97,6 +102,11 @@
    "t": "Trains, Pontoons & Hot Air Balloons: Hitch a Ride to Colorado's Backcountry  - 5280",
    "v": "no"
   },
+  "https://abercrombie.com/shop/us/girls-sweaters-tops": {
+   "d": "2026-11-20",
+   "t": "girls' sweaters | abercrombie kids",
+   "v": "no"
+  },
   "https://abercrombie.com/shop/us/kids/p/easy-crew-sweater-63590319": {
    "d": "2026-11-14",
    "t": "girls easy crew sweater in pink stripe | size 9/10 | abercrombie kids",
@@ -140,6 +150,11 @@
   "https://amazon.com/Colorful-Rainbow-Hot-Air-Balloon/dp/B0F116MFMZ": {
    "d": "2026-11-09",
    "t": "Amazon.com: Colorful Rainbow Hot Air Balloon Flight Tees T-Shirts for Men  Women Kids : Clothing, Shoes & Jewelry",
+   "v": "no"
+  },
+  "https://amazon.com/Disney-Princess-Mermaid-Birthday-T-Shirt/dp/B0CL5F3NLT": {
+   "d": "2026-11-20",
+   "t": "Amazon.com: Disney Lilo & Stitch Angel Birthday Little Girls T-Shirt Pink 4  : Clothing, Shoes & Jewelry",
    "v": "no"
   },
   "https://amazon.com/Earth-Wind-Fire-T-Shirt-Charcoal/dp/B07TK3GHZD": {
@@ -402,6 +417,11 @@
    "t": "Excellerations Brawny Tough Rainbow Parachute - 6'dia",
    "v": "no"
   },
+  "https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b2017-belec-p-btext": {
+   "d": "2026-11-20",
+   "t": "Georgia travel guide 2017 - Digital Library of Georgia",
+   "v": "no"
+  },
   "https://dmc.com/US/en/products/under-the-sea-embroidery": {
    "d": "2026-11-16",
    "t": "Under the Sea",
@@ -512,6 +532,11 @@
    "t": "Buy Casablanca T-shirt - Beige At 50% Off | Editorialist",
    "v": "no"
   },
+  "https://en.zalando.de/next-print-t-shirt-purple-bon-jovi-nx322o1o6-i11.html": {
+   "d": "2026-11-20",
+   "t": "Next REGULAR FIT - GRAPHIC BAND - Print T-shirt - purple bon jovi/purple -  Zalando",
+   "v": "no"
+  },
   "https://en.zalando.de/womens-clothing-shirts": {
    "d": "2026-11-08",
    "t": "Shirts for women | ZALANDO - Page 27",
@@ -600,6 +625,11 @@
   "https://etsy.com/dk-en/market/fish_sweatshirt": {
    "d": "2026-11-11",
    "t": "Fish Sweatshirt - Etsy Denmark",
+   "v": "no"
+  },
+  "https://etsy.com/dk-en/market/plus_size_shirts": {
+   "d": "2026-11-20",
+   "t": "Plus Size Shirts - Etsy Denmark",
    "v": "no"
   },
   "https://etsy.com/fi-en/market/funky_t_shirts": {
@@ -977,6 +1007,11 @@
    "t": "Angelfish T Shirt - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/aqua_pants_outfit": {
+   "d": "2026-11-20",
+   "t": "Aqua Pants Outfit - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/are_you_my_mother_shirt": {
    "d": "2026-11-11",
    "t": "Are You My Mother Shirt - Etsy",
@@ -1010,6 +1045,11 @@
   "https://etsy.com/market/boys_balloon_shirt": {
    "d": "2026-11-14",
    "t": "Boys Balloon Shirt - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/coquette_tapestry": {
+   "d": "2026-11-20",
+   "t": "Coquette Tapestry - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/cowboy_riding_trout_shirt": {
@@ -1347,6 +1387,11 @@
    "t": "Festore (@festorefashion) \u2022 Facebook",
    "v": "no"
   },
+  "https://facebook.com/groups/273829497131347/posts/1027780408402915": {
+   "d": "2026-11-20",
+   "t": "Needs Adopting Name: Ashton Cook - Middle School PE, High School Assistant  Softball \ud83e\udd4e Birthday: June 25 Shirt size: Med",
+   "v": "no"
+  },
   "https://facebook.com/groups/377902640141158/posts/1701236501141092": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders hot air balloon ride in Phoenix, AZ",
@@ -1405,6 +1450,11 @@
   "https://gem.app/product/issey-miyake-issey-miyake-aya-takano-f-w-31766": {
    "d": "2026-11-08",
    "t": "Issey Miyake Issey Miyake Aya Takano F/W 2004 Shirt - Gem",
+   "v": "no"
+  },
+  "https://gem.app/search": {
+   "d": "2026-11-20",
+   "t": "Blue orange shirts xs - Gem",
    "v": "no"
   },
   "https://gibot.it/en/shirt-round-neck/k-way/k-way-grey-combe-jersey/26828": {
@@ -1467,6 +1517,11 @@
    "t": "Hysterics Pop Art Pin-Up Medallion Long Sleeve (XS/S)",
    "v": "no"
   },
+  "https://hottopic.com/product/adventure-time-fionna-cake-flower-heart-boyfriend-fit-girls-t-shirt/18623219.html": {
+   "d": "2026-11-20",
+   "t": "Adventure Time Fionna & Cake Flower Heart Boyfriend Fit Girls T-Shirt | Hot  Topic",
+   "v": "no"
+  },
   "https://hottopic.com/product/aerosmith-1977-tour-boyfriend-fit-girls-t-shirt/19883508.html": {
    "d": "2026-11-08",
    "t": "Aerosmith 1977 Tour Boyfriend Fit Girls T-Shirt | Hot Topic",
@@ -1500,6 +1555,11 @@
   "https://iconsofsurf.com/products/rvca-mycelium-tee": {
    "d": "2026-11-10",
    "t": "RVCA | Mycelium Tee",
+   "v": "no"
+  },
+  "https://ideal.house/community/news/georgetown-pop-ups-unique-gifts-for-hearth-and-heart": {
+   "d": "2026-11-20",
+   "t": "Georgetown Pop-up's Unique Gifts for Hearth and Heart",
    "v": "no"
   },
   "https://instagram.com/p/CL7i1ZYF6mZ": {
@@ -1547,6 +1607,11 @@
    "t": "We are born of love. Love is our mother.\" - Rumi \ud83e\udde1 Wearing ...",
    "v": "no"
   },
+  "https://instagram.com/p/DYfS_x3jFy0": {
+   "d": "2026-11-20",
+   "t": "I am super excited to show you the next release of my ...",
+   "v": "no"
+  },
   "https://instagram.com/p/DYnFOrEgMYB": {
    "d": "2026-11-17",
    "t": "Swipe to see our new tees from this week's new release ...",
@@ -1560,6 +1625,16 @@
   "https://instagram.com/p/DbMgbCtuDFC": {
    "d": "2026-11-08",
    "t": "From city to city, Karol's taking the merch around the world \ud83c\udf0e\ud83e\udde1 Now it's  your turn! \ud83e\udd9c\u2728 Get your official merch in shopk",
+   "v": "no"
+  },
+  "https://instagram.com/p/DbYAZcCDNg9": {
+   "d": "2026-11-20",
+   "t": "Which of these are you? \ud83d\udc99",
+   "v": "no"
+  },
+  "https://instagram.com/p/DdWUn40nENp": {
+   "d": "2026-11-20",
+   "t": "A hoodie, but make it larger than life. During New York Fashion Week, Pink  Palm Puff took over NYC with a giant replica",
    "v": "no"
   },
   "https://instagram.com/p/Ddg25Byl_iT": {
@@ -1580,6 +1655,11 @@
   "https://instagram.com/p/DemTTl6l-Kx": {
    "d": "2026-11-15",
    "t": "A rainbow-striped hot-air balloon hovers just above a sunlit meadow, its  bands mirrored like a halo in the pond. The ve",
+   "v": "no"
+  },
+  "https://instagram.com/p/DfFdhC4kaC1": {
+   "d": "2026-11-20",
+   "t": "EDIT: The pattern is out now \ud83e\udd73 \ud83c\udf4bLEMONADE SWEATER TESTERS\ud83c\udf4b . My testers  smashed this out of the park once again! So so g",
    "v": "no"
   },
   "https://instagram.com/p/DffVELamvuH": {
@@ -1607,6 +1687,16 @@
    "t": "Hand painted silks, hand stitching, and a ton of references for  @noahkahanmusic to kick off the Australian leg of The G",
    "v": "no"
   },
+  "https://instagram.com/reel/DfCzefPjg5S": {
+   "d": "2026-11-20",
+   "t": "We loaded up and added some cool new additions to our inventory! Come check  it out and take some home!",
+   "v": "no"
+  },
+  "https://issuu.com/7days/docs/061919": {
+   "d": "2026-11-20",
+   "t": "Seven Days, June 19, 2019 by Seven Days - Issuu",
+   "v": "no"
+  },
   "https://issuu.com/localemagazine/docs/14julyoc": {
    "d": "2026-11-08",
    "t": "Orange County July 2014 by Locale Magazine - Issuu",
@@ -1622,6 +1712,11 @@
    "t": "2021 Best of OC by Southern California News Group Special Sections - Issuu",
    "v": "no"
   },
+  "https://issuu.com/totallicensing/docs/total_licensing_australia_18": {
+   "d": "2026-11-20",
+   "t": "Total Licensing Australia 2018 by Total Licensing - Issuu",
+   "v": "no"
+  },
   "https://isthmus.com/news/cover-story/good-eye-curated-vintage-stores-are-more-than-thrifting": {
    "d": "2026-11-12",
    "t": "Good eye! - Isthmus | Madison, Wisconsin",
@@ -1630,6 +1725,11 @@
   "https://istockphoto.com/illustrations/rainbow-parachute": {
    "d": "2026-11-13",
    "t": "110+ Rainbow Parachute Illustrations - iStock",
+   "v": "no"
+  },
+  "https://janemcgonigal.com/wp-content/uploads/2010/12/100waystomakehistory.pdf": {
+   "d": "2026-11-20",
+   "t": "template 1_p1-72.indd",
    "v": "no"
   },
   "https://jing-shop.com/en/sure-shirts/10799-no-time-t-shirt-size-l-stonewashed.html": {
@@ -1665,6 +1765,11 @@
   "https://llbean.com/buy/holiday-graphic-tees": {
    "d": "2026-11-16",
    "t": "Holiday Graphic Tees | LLBean",
+   "v": "no"
+  },
+  "https://lux-mag.com/category/art-design": {
+   "d": "2026-11-20",
+   "t": "Art & Design - Lux Magazine",
    "v": "no"
   },
   "https://lyst.com/clothing/casablanca-shirt-silk-20": {
@@ -1787,6 +1892,11 @@
    "t": "Untitled by Wassily Kandinsky T-Shirt | Abstract Art Tee",
    "v": "no"
   },
+  "https://msjacampanile.org/4526/lifestyles/teacher-inspired-outfitsmrs-fabrey-and-mrs-king-edition": {
+   "d": "2026-11-20",
+   "t": "Teacher-inspired outfits: Mrs. Fabrey and Mrs. King edition \u2013 The Campanile",
+   "v": "no"
+  },
   "https://myartforkids.com/product/fairground-t-shirt-10-12-y-o": {
    "d": "2026-11-09",
    "t": "Fairground T-Shirt 10-12 y/o",
@@ -1827,9 +1937,19 @@
    "t": "Rainbow Ryders CEO and UNM alum celebrates 40 years of hot air ballooning |  UNM UCAM Newsroom",
    "v": "no"
   },
+  "https://next.us/en/style/su769347/v45689": {
+   "d": "2026-11-20",
+   "t": "Buy Ecru/Fluro Stripe Soft Touch Chunky Knit Cardigan from Next USA",
+   "v": "no"
+  },
   "https://nordstrom.com/browse/back-to-campus": {
    "d": "2026-11-10",
    "t": "BDG Urban Outfitters Back to Campus | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstrom.com/browse/men/clothing/shirts/tshirts": {
+   "d": "2026-11-20",
+   "t": "Mens Casablanca T-Shirts | Nordstrom",
    "v": "no"
   },
   "https://nordstrom.com/browse/men/clothing/shirts/tshirts/graphic": {
@@ -1840,6 +1960,16 @@
   "https://nordstrom.com/browse/women": {
    "d": "2026-11-10",
    "t": "Women's BDG Urban Outfitters Clothing, Shoes, & Accessories | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstrom.com/browse/women/clothing": {
+   "d": "2026-11-20",
+   "t": "Women's Mickey & Friends Clothing | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstrom.com/browse/women/clothing/tops-tees/stripes": {
+   "d": "2026-11-20",
+   "t": "Women's Primary Striped Tops | Nordstrom",
    "v": "no"
   },
   "https://nordstrom.com/s/bdg-pixelated-balloon-pants/8514344": {
@@ -1970,6 +2100,11 @@
   "https://poshmark.com/brand/Urban_Outfitters-Women-Tops-Tees___Short_Sleeve": {
    "d": "2026-11-17",
    "t": "Urban Outfitters Short Sleeve T-Shirts for Women on Sale up to 90% Off:  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/brand/Urban_Renewal-Women-Tops-Tees___Short_Sleeve--color-Blue": {
+   "d": "2026-11-20",
+   "t": "Urban Renewal Blue Short Sleeve T-Shirts for Women on Sale up to 90% Off:  Poshmark",
    "v": "no"
   },
   "https://poshmark.com/brand/urban_pipeline-Women-Tops-Tees___Short_Sleeve": {
@@ -2127,6 +2262,11 @@
    "t": "Tops | Brown Casual Womens Leopard Print Pattern Loose Tshirt Sweatpants  Set | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Budweiser-Beer-Ad-90s-Graphic-Tee-623d0d128be9137c37dc9802": {
+   "d": "2026-11-20",
+   "t": "Tops | Budweiser Beer Ad 9s Graphic Tee | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/COPY-Odd-future-hot-air-balloon-button-down-shirt-65163956981d48e2a2895615": {
    "d": "2026-11-10",
    "t": "COPY - Odd future hot air balloon button down shirt",
@@ -2197,6 +2337,11 @@
    "t": "Dickies | Tops | Dickies Shirt Mens Medium Green Workwear Graphic Back Print  Urban Outfitters | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Dr-Seuss-Green-Grinch-Tee-694ff4bb9553833feae91c87": {
+   "d": "2026-11-20",
+   "t": "Dr. Seuss | Tops | Dr Seuss Green Grinch Tee | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/End-of-the-Rainbow-pan-fried-fish-shirt-64f6ccfa5d686bb39c93a716": {
    "d": "2026-11-12",
    "t": "Fruit of the Loom | Shirts | End Of The Rainbow Pan Fried Fish Shirt |  Poshmark",
@@ -2260,6 +2405,11 @@
   "https://poshmark.com/listing/Gorgeous-floral-cropped-blouse-649f48bac1c346cb5cb063ca": {
    "d": "2026-11-10",
    "t": "Urban Outfitters | Tops | Gorgeous Floral Cropped Blouse | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Green-and-White-hellstar-Short-Sleeve-Tee-681b0c3ab09b7cd8e043bb31": {
+   "d": "2026-11-20",
+   "t": "Shirts | Green And White Hellstar Short Sleeve Tee | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Green-oversized-Kesha-Urban-Outfitters-shirt-6a8ef71b8091ef8f9085c6e3": {
@@ -2482,6 +2632,11 @@
    "t": "Urban Outfitters | Tops | Out From Under Uo Boxy Pocket Tee In Blush |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Oversized-Baggy-White-Button-Down-Shirt-Denim-Contrast-Sleeves-100-Cotton-Sz-M-698973aa05deb35dcb586426": {
+   "d": "2026-11-20",
+   "t": "POL | Tops | Oversized Baggy White Button Down Shirt Denim Contrast Sleeves  0 Cotton Sz M | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Oversized-Hollow-Out-Pullover-Sweater-Chunky-Crew-Neck-Knit-Long-Sleeve-6a3c32c7a6bb76a9efbb7b4e": {
    "d": "2026-11-16",
    "t": "Sweaters | Oversized Hollow Out Pullover Sweater Chunky Crew Neck Knit Long  Sleeve | Poshmark",
@@ -2522,6 +2677,11 @@
    "t": "Urban Outfitters | Shirts | Phoebe Bridgers Skeleton Tee | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Pink-Floyd-Black-ShortSleeve-50th-Anniversary-Prism-Tee-6adb7995c5c2ed61191dacd3": {
+   "d": "2026-11-20",
+   "t": "Pink Floyd | Shirts | Pink Floyd Black Shortsleeve 5th Anniversary Prism Tee  | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Pink-Floyd-Liquid-Blue-tee-639e789102760b59684f0126": {
    "d": "2026-11-12",
    "t": "Liquid Blue | Shirts | Pink Floyd Liquid Blue Tee | Poshmark",
@@ -2545,6 +2705,11 @@
   "https://poshmark.com/listing/Prince-Purple-Rain-Black-Tshirt-Medium-660ee4c1038291e65246c8c9": {
    "d": "2026-11-08",
    "t": "Shirts | Prince Purple Rain Black Tshirt Medium | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/RARE-Moschino-Y2K-Cheap-Chic-Red-Ribbed-Heart-Cutout-Tank-Top-6ae8c8ce41ae66c5d6ffaf19": {
+   "d": "2026-11-20",
+   "t": "Moschino | Tops | Rare Moschino Y2k Cheap Chic Red Ribbed Heart Cutout Tank  Top | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/ReDone-White-Tee-with-Pink-Sweetheart-Graphic-68d47aa6a0dc2ba79b69472b": {
@@ -2640,6 +2805,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Black-ButtonUp-Top-6ad7eea671a0035527eff050": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Urban Outfitters Black Buttonup Top | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Blue-Crewneck-with-Yellow-Floral-Embroidery-6a690fcbb09b7c968fa616b2": {
+   "d": "2026-11-20",
+   "t": "Urban Outfitters | Sweaters | Urban Outfitters Blue Crewneck With Yellow  Floral Embroidery | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Carol-Space-Dye-Pullover-Sweater-Puff-Sleeve-Size-L-64d92ced4bc6555d05c01f5d": {
@@ -2947,6 +3117,11 @@
    "t": "I used to own this shirt and I can't remember the name of ...",
    "v": "no"
   },
+  "https://reddit.com/r/femalefashionadvice/comments/kt5m6p/whats_your_opinion_on_modern_90sinspired_fashion": {
+   "d": "2026-11-20",
+   "t": "What's your opinion on (modern) 90s-inspired fashion? :  r/femalefashionadvice",
+   "v": "no"
+  },
   "https://reddit.com/r/findfashion/comments/1xkty4y/does_anybody_know_where_to_get_this_shirt": {
    "d": "2026-11-14",
    "t": "does anybody know where to get this shirt : r/findfashion",
@@ -2982,6 +3157,11 @@
    "t": "CASABLANCA Nature's Teacher Silk Shirt | Casablanca Paris ...",
    "v": "no"
   },
+  "https://revolution.eu/collections/t-shirts": {
+   "d": "2026-11-20",
+   "t": "Revolution \u2192 T-Shirts \u2013 Revolution.eu",
+   "v": "no"
+  },
   "https://rocksoup.net/products/aris-moore-shirt-pre-order": {
    "d": "2026-11-19",
    "t": "Aris Moore Shirt *IN STOCK* \u2013 ROCK|SOUP",
@@ -3007,9 +3187,19 @@
    "t": "U*SA*HA*NA Beach Day Tee",
    "v": "no"
   },
+  "https://scholarworks.umt.edu/cgi/viewcontent.cgi": {
+   "d": "2026-11-20",
+   "t": "The Mountains and The Men",
+   "v": "no"
+  },
   "https://seaplaneshirts.com/products/celadon-cryptid-ls": {
    "d": "2026-11-11",
    "t": "celadon cryptid LS",
+   "v": "no"
+  },
+  "https://sevenlanternlane.com/collections/childrens-gifts": {
+   "d": "2026-11-20",
+   "t": "CHILDREN'S GIFTS \u2013 Page 6",
    "v": "no"
   },
   "https://shawncraft.com/products/cowgirl-riding-a-fish-tattoo-vintage-t-shirt": {
@@ -3125,6 +3315,11 @@
   "https://sunjournal.com/2009/08/16/sushi-flying-goldfish": {
    "d": "2026-11-15",
    "t": "Sushi, the flying goldfish",
+   "v": "no"
+  },
+  "https://tanger.com/bridgestreet": {
+   "d": "2026-11-20",
+   "t": "Tanger Bridge Street Town Centre - Shopping mall in Alabama",
    "v": "no"
   },
   "https://target.com/p/-/-/A-1008723764": {
@@ -3245,6 +3440,11 @@
   "https://tiktok.com/@ilikeyourbones/photo/7684315542483668237": {
    "d": "2026-11-15",
    "t": "New Song \"Pair of Dice\" Released - Zoetrope Vinyl & Merch ...",
+   "v": "no"
+  },
+  "https://tiktok.com/@liverpool_oneofficial/video/7633156293913611542": {
+   "d": "2026-11-20",
+   "t": "Surprise and Delight at Liverpool ONE",
    "v": "no"
   },
   "https://tillys.com/product/bdg-urban-outfitters-relaxed-cat-maybe-later-womens-tee/541922164.html": {
@@ -3382,6 +3582,11 @@
    "t": "Men's Vacation Outfits & Beach Wear | Urban Outfitters",
    "v": "no"
   },
+  "https://urbanoutfitters.com/shop/14000-things-to-be-happy-about-by-barbara-ann-kipfer": {
+   "d": "2026-11-20",
+   "t": "14,000 Things To Be Happy About By Barbara Ann Kipfer | Urban Outfitters",
+   "v": "no"
+  },
   "https://urbanoutfitters.com/shop/bdg-fish-baby-tee": {
    "d": "2026-11-14",
    "t": "BDG Fish Baby Tee | Urban Outfitters",
@@ -3442,6 +3647,11 @@
    "t": "Tin Fish Graphic Tee | Urban Outfitters",
    "v": "no"
   },
+  "https://urbanoutfitters.com/shop/uo-embroidered-rainbow-tee": {
+   "d": "2026-11-20",
+   "t": "UO Embroidered Rainbow Tee | Urban Outfitters",
+   "v": "no"
+  },
   "https://urbanoutfitters.com/shop/uo-rainbow-stripe-short-sleeve-button-down-shirt": {
    "d": "2026-11-14",
    "t": "UO Rainbow Stripe Short Sleeve Button-Down Shirt | Urban Outfitters",
@@ -3475,6 +3685,11 @@
   "https://urbanoutfitters.com/shop/vintage-hawaii-dolphins-tee": {
    "d": "2026-11-16",
    "t": "Vintage Hawaii Dolphins Tee | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/vintage-rainbow-button-down-shirt": {
+   "d": "2026-11-20",
+   "t": "Vintage Rainbow Button-Down Shirt | Urban Outfitters",
    "v": "no"
   },
   "https://us.amazon.com/AUHILL-Shirts-Blouses-Vintage-Sardines/dp/B0DFG96639": {
@@ -3542,6 +3757,11 @@
    "t": "Rainbow Fish Shirt",
    "v": "no"
   },
+  "https://walmart.com/ip/Men-s-Sesame-Street-Group-Shot-Graphic-T-Shirt/5678828045": {
+   "d": "2026-11-20",
+   "t": "Men's Sesame Street Group Shot T-Shirt - Charcoal Heather - X Large",
+   "v": "no"
+  },
   "https://walmart.com/ip/NB-MUSCLE-TANK/19076306926": {
    "d": "2026-11-14",
    "t": "No Boundaries Boxy Fit Heavyweight Graphic Muscle Tank Top, Men's XS-5XL -  Walmart.com",
@@ -3585,6 +3805,11 @@
   "https://wycovintage.com/products/1970s-grateful-dead-europe-72-shirt-11042263": {
    "d": "2026-11-08",
    "t": "1970s Grateful Dead Europe 72 Shirt | WyCo Vintage",
+   "v": "no"
+  },
+  "https://yelp.com/search": {
+   "d": "2026-11-20",
+   "t": "TOP 10 BEST Japanese Dessert in Towson, MD - (2026 Guide) - Yelp",
    "v": "no"
   },
   "https://yizzam.com/products/antique-map-figure-of-the-heavenly-bodies-mens-t-shirt": {
