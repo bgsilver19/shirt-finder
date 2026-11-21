@@ -1,9 +1,9 @@
 {
- "google_query_index": 1,
- "last_google_date": "2026-11-20",
- "last_lens_date": "2026-11-20",
- "last_poshmark_date": "2026-11-20",
- "last_run_date": "2026-11-20",
+ "google_query_index": 2,
+ "last_google_date": "2026-11-21",
+ "last_lens_date": "2026-11-21",
+ "last_poshmark_date": "2026-11-21",
+ "last_run_date": "2026-11-21",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 13,
+ "poshmark_query_index": 14,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -670,6 +670,11 @@
   "https://etsy.com/in-en/market/asia_tees": {
    "d": "2026-11-11",
    "t": "Buy Asia Tees Online In India - Etsy India",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1043419018/hot-air-balloon-t-shirt-aviation-gift": {
+   "d": "2026-11-21",
+   "t": "Hot Air Balloon T-Shirt: Aviation Gift, Balloon Festival Outfit",
    "v": "no"
   },
   "https://etsy.com/listing/1103332841/retro-skydiving-shirt-skydiver-parachute": {
@@ -1432,6 +1437,11 @@
    "t": "Surf Trip Printed Oversized T-Shirt - Tie Dye \u2013 Feature",
    "v": "no"
   },
+  "https://feverup.com/m/173673": {
+   "d": "2026-11-21",
+   "t": "Phoenix Hot Air Balloon Ride at Sunrise (Phoenix) Tickets | Fever",
+   "v": "no"
+  },
   "https://flysandguides.com/product/rainbow-trout-artist-series-t-shirt-next-level-apparel": {
    "d": "2026-11-18",
    "t": "Rainbow Trout Artist Series T-Shirt \u2013 Next Level Apparel",
@@ -1465,6 +1475,11 @@
   "https://gibot.it/en/shirt-round-neck/semi-couture/semi-couture-maglia-polo-giulia-paillettes/32232": {
    "d": "2026-11-08",
    "t": "Maglia Polo Giulia Paillettes",
+   "v": "no"
+  },
+  "https://giffywalls.com/products/koi-pond-swirl-wall-mural": {
+   "d": "2026-11-21",
+   "t": "Koi Pond Swirl Wallpaper - Peaceful Fish Art",
    "v": "no"
   },
   "https://giglio.com/en-us/clothing-woman_sweater-casablanca-wf24jtp028.html": {
@@ -1530,6 +1545,11 @@
   "https://hottopic.com/product/goldfish-calling-t-shirt-by-friday-jr./37110722.html": {
    "d": "2026-11-19",
    "t": "Goldfish Calling T-Shirt By Friday Jr. | Hot Topic",
+   "v": "no"
+  },
+  "https://houmatoday.com/story/entertainment/local/2017/11/05/local-artists-painting-featured-on-new-festivals-poster/17290079007": {
+   "d": "2026-11-21",
+   "t": "Local artist's painting featured on new festival's poster",
    "v": "no"
   },
   "https://houseofsunny.com": {
@@ -2027,6 +2047,11 @@
    "t": "Drippy Fish T-Shirt \u2013 Parachute Fishing Company",
    "v": "no"
   },
+  "https://parkrecord.com/2025/07/08/world-renowned-pilot-leads-rainbow-ryders-on-sunrise-hot-air-balloon-flights": {
+   "d": "2026-11-21",
+   "t": "World-renowned pilot leads Rainbow Ryders on sunrise hot air balloon  flights - Park Record",
+   "v": "no"
+  },
   "https://pdoomrecords.com/products/goldfish-fountain-tee": {
    "d": "2026-11-13",
    "t": "Goldfish Fountain Tee - p(doom) records US",
@@ -2050,6 +2075,11 @@
   "https://phoenixmag.com/2023/06/13/on-the-up-and-up-rainbow-ryders-celebrates-40-years-in-the-valley": {
    "d": "2026-11-13",
    "t": "On the Up and Up: Rainbow Ryders Celebrates 40 Years in the Valley -  PHOENIX magazine",
+   "v": "no"
+  },
+  "https://phoenixmag.com/2023/10/17/rainbow-ryders-ohso-little-os": {
+   "d": "2026-11-21",
+   "t": "Rainbow Ryders + OHSO Little O's - PHOENIX magazine",
    "v": "no"
   },
   "https://phoenixwithkids.net/hot-air-balloon-ride-rainbow-ryders": {
@@ -2477,6 +2507,11 @@
    "t": "BDG | Sweaters | Knitted Sweater | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Laguna-Beach-Floral-Fitted-Short-Sleeve-Tee-White-and-Green-Ombre-686c46ac006e43ec190178ac": {
+   "d": "2026-11-21",
+   "t": "nla | Tops | Laguna Beach Floral Fitted Short Sleeve Tee White And Green  Ombre | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Life-is-good-Santa-eagle-6aea6c8f1921259b380a715b": {
    "d": "2026-11-18",
    "t": "Life Is Good | Shirts | Life Is Good Santa Eagle | Poshmark",
@@ -2595,6 +2630,11 @@
   "https://poshmark.com/listing/NWT-Standard-Baggu-Set-Archive-Pets-Fluffy-Cat-Poodle-Goldfish-65cb5996f625333f77598717": {
    "d": "2026-11-15",
    "t": "BAGGU | Bags | Nwt Standard Baggu Set Archive Pets Fluffy Cat Poodle  Goldfish | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/NWT-Urban-Outfitters-Fish-Bowl-Tank-Top-Size-Medium-6a7cd8e531f0f6b352cab25e": {
+   "d": "2026-11-21",
+   "t": "Urban Outfitters | Tops | Nwt Urban Outfitters Fish Bowl Tank Top Size  Medium | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/NWT-Urban-Outfitters-Out-From-Under-Light-Blue-TieDye-Jumpsuit-6ad94560a636160f1dde2a39": {
@@ -2732,6 +2772,11 @@
    "t": "Tops | Rip Bj Thomas Lengend Never Die Classic Unisex T Shirt 1 Shirt |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Rolla-Bon-Drinks-On-Me-Shirt-NWT-64c5750af8c5da8b7e5572f2": {
+   "d": "2026-11-21",
+   "t": "ROLLA'S | Shirts | Rolla Bon Drinks On Me Shirt Nwt | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Sandro-Paris-Camp-Shirt-Mens-Large-Blue-Goldfish-Koi-Hawaiian-Button-Up-Size-S-6a30284c842dd4af2c5892b6": {
    "d": "2026-11-15",
    "t": "Sandro | Shirts | Sandro Paris Camp Shirt Mens Large Blue Goldfish Koi  Hawaiian Button Up Size S | Poshmark",
@@ -2802,6 +2847,11 @@
    "t": "Urban Outfitters | Pants & Jumpsuits | Urban Outfitter Jeans | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-BDG-Flannel-Shirt-XS-NWT-6ad183b38091efba4e9784e5": {
+   "d": "2026-11-21",
+   "t": "Urban Outfitters BDG Flannel Shirt * XS * NWT",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Black-ButtonUp-Top-6ad7eea671a0035527eff050": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Urban Outfitters Black Buttonup Top | Poshmark",
@@ -2852,6 +2902,11 @@
    "t": "Urban Outfitters Kaylee Split-Ankle Gingham Pant",
    "v": "no"
   },
+  "https://poshmark.com/listing/Urban-Outfitters-Les-Doux-Leopard-Graphic-Baby-Tee-6ad5482017a3c4647023db43": {
+   "d": "2026-11-21",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Les Doux Leopard Graphic Baby Tee  | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Urban-Outfitters-Light-Blue-Embroidered-Spaghetti-Strap-Top-6a10b23605deb31cadda035b": {
    "d": "2026-11-13",
    "t": "Urban Outfitters | Dresses | Urban Outfitters Light Blue Embroidered  Spaghetti Strap Top | Poshmark",
@@ -2890,6 +2945,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Out-From-Under-First-Base-Seamless-Top-646da55a528015bb8c148847": {
    "d": "2026-11-10",
    "t": "Urban Outfitters | Tops | Urban Outfitters Out From Under First Base  Seamless Top | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Penny-PJ-Mix-Print-Shirt-6adbb3b2a255402eb96b9fba": {
+   "d": "2026-11-21",
+   "t": "Urban Outfitters Penny PJ Mix Print Shirt",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Pink-Polka-Dot-Leila-Top-Size-M-69fe056f44ad4d526c61b4df": {
@@ -2950,6 +3010,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-high-low-ribbed-tank-6ac0174f571a7e34e0619eee": {
    "d": "2026-11-16",
    "t": "Urban Outfitters high low ribbed tank",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-outfitter-Tee-Size-Small-6ac429787625b14b97b7e8b0": {
+   "d": "2026-11-21",
+   "t": "Urban Outfitters | Tops | Urban Outfitter Tee Size Small | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-outfitters-cold-shoulder-cross-halter-top-60b3a7126f6c91a87a760cd9": {
@@ -3057,6 +3122,11 @@
    "t": "Urban Outfitters | Tops | Rainbow Leopard Cropped And Collared Button Up |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/style-tag/Y2K%20Baby%20Tee": {
+   "d": "2026-11-21",
+   "t": "Y2K Baby Tee - Poshmark",
+   "v": "no"
+  },
   "https://rachaelfarrar.com/products/the-rainbow-sea-slug-facts-tee": {
    "d": "2026-11-10",
    "t": "The Rainbow Sea Slug Facts Tee \u2013 Rachael Farrar Artist",
@@ -3147,6 +3217,11 @@
    "t": "Find this shirt",
    "v": "same_design"
   },
+  "https://reddit.com/r/phoenix/comments/aubwjh/i_took_a_hot_air_balloon_ride_yesterday_and_it": {
+   "d": "2026-11-21",
+   "t": "I took a hot air balloon ride yesterday and it was awesome! : r/phoenix",
+   "v": "no"
+  },
   "https://repyourwater.com/products/r-akrr9125": {
    "d": "2026-11-18",
    "t": "Rep Your Water Men's Alaska Rising Rainbow Short Sleeve Tee Black / M",
@@ -3160,6 +3235,11 @@
   "https://revolution.eu/collections/t-shirts": {
    "d": "2026-11-20",
    "t": "Revolution \u2192 T-Shirts \u2013 Revolution.eu",
+   "v": "no"
+  },
+  "https://rgj.com/picture-gallery/life/2015/09/09/photo-rewind-characters-at-reno-balloon-race/71939788": {
+   "d": "2026-11-21",
+   "t": "Photo rewind: 'Characters' at Reno Balloon Race",
    "v": "no"
   },
   "https://rocksoup.net/products/aris-moore-shirt-pre-order": {
@@ -3250,6 +3330,11 @@
   "https://shutterstock.com/image-illustration/happy-kids-riding-hot-air-balloon-187780415": {
    "d": "2026-11-15",
    "t": "Happy Kids Riding Hot Air Balloon Stock Illustration 187780415 |  Shutterstock",
+   "v": "no"
+  },
+  "https://shutterstock.com/image-vector/happy-kids-riding-hot-air-balloon-187781093": {
+   "d": "2026-11-21",
+   "t": "Happy Kids Riding Hot Air Balloon Stock Vector (Royalty Free) 187781093 |  Shutterstock",
    "v": "no"
   },
   "https://shutterstock.com/image-vector/sky-diving-svg-tshirt-design-funny-2342410449": {
@@ -3487,6 +3572,11 @@
    "t": "Tr\u00f6ja, Me369, gr\u00f6n, rosa, gr\u00e5, ull.. | K\u00f6p fr\u00e5n Myrorna p\u00e5 ...",
    "v": "no"
   },
+  "https://travelocity.com/things-to-do/phoenix-sunrise-hot-air-balloon-ride.a179044.activity-details": {
+   "d": "2026-11-21",
+   "t": "Phoenix Sunrise Hot Air Balloon Ride",
+   "v": "no"
+  },
   "https://trcp.org/2024/11/20/in-the-arena-capt-chris-dollar": {
    "d": "2026-11-12",
    "t": "In the Arena: Capt. Chris Dollar | Theodore Roosevelt Conservation  Partnership",
@@ -3710,6 +3800,11 @@
   "https://viator.com/tours/Colorado-Springs/Colorado-Springs-Sunrise-Balloon-Ride/d22201-34641P1": {
    "d": "2026-11-09",
    "t": "Colorado Springs Sunrise Balloon Ride 2026 - BOOK NOW",
+   "v": "no"
+  },
+  "https://viator.com/tours/Phoenix/Sunset-Hot-Air-Balloon-Ride-over-Phoenix/d639-6746P4": {
+   "d": "2026-11-21",
+   "t": "Phoenix Sunset Hot-Air Balloon Ride 2026 - BOOK NOW",
    "v": "no"
   },
   "https://vinted.com/catalog/1807-t-shirts-estampadas/brand/471-urban-outfitters": {
