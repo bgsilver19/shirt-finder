@@ -1,9 +1,9 @@
 {
- "google_query_index": 3,
- "last_google_date": "2026-11-22",
- "last_lens_date": "2026-11-22",
- "last_poshmark_date": "2026-11-22",
- "last_run_date": "2026-11-22",
+ "google_query_index": 4,
+ "last_google_date": "2026-11-23",
+ "last_lens_date": "2026-11-23",
+ "last_poshmark_date": "2026-11-23",
+ "last_run_date": "2026-11-23",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 15,
+ "poshmark_query_index": 16,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -712,6 +712,11 @@
    "t": "Hot Air Balloon T-Shirt: Aviation Gift, Balloon Festival Outfit",
    "v": "no"
   },
+  "https://etsy.com/listing/1052229653/garibaldi-fish-watercolor-print": {
+   "d": "2026-11-23",
+   "t": "Garibaldi Fish Watercolor Print: California State Fish Art",
+   "v": "no"
+  },
   "https://etsy.com/listing/1103332841/retro-skydiving-shirt-skydiver-parachute": {
    "d": "2026-11-13",
    "t": "Retro Skydiving Shirt - Skydiver Parachute Silhouette Long Sleeve Skydiving T-Shirt",
@@ -780,6 +785,11 @@
   "https://etsy.com/listing/1682872826/custom-homecoming-football-all-over": {
    "d": "2026-11-19",
    "t": "Custom Homecoming Football All Over Print T-Shirt",
+   "v": "no"
+  },
+  "https://etsy.com/listing/1687260606/gold-fish-print-cute-girly-wall-art": {
+   "d": "2026-11-23",
+   "t": "Gold Fish Print, Cute Girly Wall Art, Preppy Horizontal Digital Print, Pink Aesthetic, Trendy Wall Art College Apartment",
    "v": "no"
   },
   "https://etsy.com/listing/1704527788/disco-mounted-fish-mirror-ball-goldfish": {
@@ -915,6 +925,11 @@
   "https://etsy.com/listing/4341600735/goldfish-t-shirt-dress-oversized-sleep": {
    "d": "2026-11-17",
    "t": "Japanese Goldfish T-shirt Dress Ukiyo-e Art Boho Summer Outfit, Asian  Streetwear Vacation Dress for Her - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4345270596/goldfish-cracker-template-goldfish": {
+   "d": "2026-11-23",
+   "t": "Goldfish Cracker Chip Bag Template: Party Favor SVG, Canva Editable",
    "v": "no"
   },
   "https://etsy.com/listing/4357338824/vintage-japanese-koi-fish-t-shirt": {
@@ -1127,6 +1142,11 @@
    "t": "Fish and Lily Tattoo Design - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/fish_keeper_shirt": {
+   "d": "2026-11-23",
+   "t": "Fish Keeper Shirt - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/fish_wearing_shirts": {
    "d": "2026-11-11",
    "t": "Fish Wearing Shirts - Etsy",
@@ -1220,6 +1240,11 @@
   "https://etsy.com/market/koi_fish_crop_top": {
    "d": "2026-11-11",
    "t": "Koi Fish Crop Top - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/koi_fish_tee": {
+   "d": "2026-11-23",
+   "t": "Koi Fish Tee - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/longhorn_cattle_tshirt": {
@@ -1317,6 +1342,11 @@
    "t": "Vintage Aquarium T Shirt - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/vintage_blue_fish_clothing": {
+   "d": "2026-11-23",
+   "t": "Vintage Blue Fish Clothing - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/vintage_t_shirts_fish": {
    "d": "2026-11-11",
    "t": "Vintage T Shirts Fish - Etsy",
@@ -1337,6 +1367,11 @@
    "t": "Cute Fish Laptop Sleeve, Teal Blue Ocean Tropical Goldfish Laptop Case for  MacBook Air/pro, Turquoise Deep Sea Cover, G",
    "v": "no"
   },
+  "https://etsy.com/nz/market/vintage_gold_shirt": {
+   "d": "2026-11-23",
+   "t": "Vintage Gold Shirt - Etsy New Zealand",
+   "v": "no"
+  },
   "https://etsy.com/sg-en/market/funky_t_shirts": {
    "d": "2026-11-11",
    "t": "Funky T Shirts - Etsy Singapore",
@@ -1345,6 +1380,11 @@
   "https://etsy.com/uk/listing/4295470916/orange-koi-fish-graphic-tee-artistic-koi": {
    "d": "2026-11-11",
    "t": "Orange Goldfish Graphic Tee Artistic Fish Pond T-shirt Nature Inspired Shirt  - Etsy UK",
+   "v": "no"
+  },
+  "https://etsy.com/uk/market/celestial_tee_shirt": {
+   "d": "2026-11-23",
+   "t": "Celestial Tee Shirt - Etsy UK",
    "v": "no"
   },
   "https://etsy.com/uk/market/cute_tshirts": {
@@ -1552,6 +1592,11 @@
    "t": "Casablanca \u0421\u0432\u0438\u0442\u0435\u0440 \u0416\u0435\u043d\u0441\u043a\u043e\u0435 - \u0411\u0435\u043b\u044b\u0439 | WF24JTP028 | GIGLIO.COM",
    "v": "no"
   },
+  "https://global.wearchapters.com/products/chapters-signature-tee-white": {
+   "d": "2026-11-23",
+   "t": "Chapters Signature Tee \u2013 White - S",
+   "v": "no"
+  },
   "https://globridgestudio.com/products/psychedelic-rainbow-statement-shirt": {
    "d": "2026-11-18",
    "t": "Rainbow Hawaiian Shirt \u2013 Psychedelic Summer Vacation Outfit ...",
@@ -1580,6 +1625,11 @@
   "https://grailed.com/listings/98208945-casablanca-casablanca-short-sleeve-silk-shirt": {
    "d": "2026-11-22",
    "t": "Casablanca Casablanca Short-Sleeve Silk Shirt | Grailed",
+   "v": "no"
+  },
+  "https://holtrenfrew.com/p/20431582": {
+   "d": "2026-11-23",
+   "t": "CASABLANCA Nature's Teacher Silk Printed Camp Shirt | Holt ...",
    "v": "no"
   },
   "https://holythrift.com/collections/all-products": {
@@ -2722,6 +2772,11 @@
    "t": "Urban Outfitters | Tops | Nwot Urban Outfitters Bon Jovi Photo Graphic Tee  Size Large | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/NWT-Remember-Everyone-Deployed-34-Sleeve-Camo-T-Shirt-62990e4360fdedf1b78d1586": {
+   "d": "2026-11-23",
+   "t": "Iltex | Tops | Nwt Remember Everyone Deployed 34 Sleeve Camo T Shirt |  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/NWT-Scotch--Soda-TShirt-677066edf8847121b852a35f": {
    "d": "2026-11-08",
    "t": "Scotch & Soda | Shirts | Nwt Scotch Soda Tshirt | Poshmark",
@@ -2952,6 +3007,11 @@
    "t": "Urban Outfitters | Sweaters | Urban Outfitters Hot Pink Ribbed Sweater Crop  Top Size Small | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/URBAN-OUTFITTERS-x-JUNK-FOOD-669abab1d90d217b0f21dae6": {
+   "d": "2026-11-23",
+   "t": "Junk Food Clothing | Tops | Urban Outfitters X Junk Food | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/URBAN-REBEL-Womens-Hoodie-Tie-Dye-Light-Hooded-Sweatshirt-Colorful-2X-621c0e3a7468d5005499023f": {
    "d": "2026-11-10",
    "t": "Urban Rebel | Tops | Urban Rebel Womens Hoodie Tie Dye Light Hooded  Sweatshirt Colorful 2x | Poshmark",
@@ -2995,6 +3055,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Ecote-Linen-ALine-Strapless-Top-650b6a5052eee1d7aa713c61": {
    "d": "2026-11-10",
    "t": "Urban Outfitters | Tops | Urban Outfitters Ecote Linen Aline Strapless Top  | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Grateful-Dead-Cropped-Tee-63c60e1e046d7451f9be6fc7": {
+   "d": "2026-11-23",
+   "t": "Urban Outfitters | Tops | Urban Outfitters Grateful Dead Cropped Tee |  Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Green-Striped-Track-Pants-with-Maroon-4-Patch-6a9997031b53fe79064c40d5": {
@@ -3490,6 +3555,11 @@
   "https://ssense.com/en-us/men/product/casablanca/white-classic-t-shirt/19307261": {
    "d": "2026-11-22",
    "t": "Casablanca - White Classic T-shirt",
+   "v": "no"
+  },
+  "https://ssense.com/en-us/women/product/casablanca/black-oversized-t-shirt/19295681": {
+   "d": "2026-11-23",
+   "t": "Black Oversized T-shirt",
    "v": "no"
   },
   "https://ssense.com/en-us/women/product/casablanca/green-innocence-triangle-short-sleeve-tshirt/18818311": {
@@ -4080,6 +4150,11 @@
   "https://youcustomizeit.com/p/Watercolor-Hot-Air-Balloons-Men-Crew-T-Shirt/366664": {
    "d": "2026-11-09",
    "t": "Custom Watercolor Hot Air Balloons Men's Crew T-Shirt | YouCustomizeIt",
+   "v": "no"
+  },
+  "https://zumiez.com/ngorder-pink-floyd-pink-vintage-wash-t-shirt.html": {
+   "d": "2026-11-23",
+   "t": "NGOrder x Pink Floyd Pink Vintage Wash T-Shirt | Zumiez",
    "v": "no"
   }
  }
