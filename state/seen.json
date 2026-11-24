@@ -1,9 +1,9 @@
 {
- "google_query_index": 4,
- "last_google_date": "2026-11-23",
- "last_lens_date": "2026-11-23",
- "last_poshmark_date": "2026-11-23",
- "last_run_date": "2026-11-23",
+ "google_query_index": 5,
+ "last_google_date": "2026-11-24",
+ "last_lens_date": "2026-11-24",
+ "last_poshmark_date": "2026-11-24",
+ "last_run_date": "2026-11-24",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 16,
+ "poshmark_query_index": 17,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -152,6 +152,11 @@
    "t": "Amazon.com: Gay Anglers Not Only Fish For Rainbow Trout Fishing Rod T-Shirt  : Clothing, Shoes & Jewelry",
    "v": "no"
   },
+  "https://amazon.com/Cat-Riding-Shark-Rainbow-T-Shirt/dp/B098BZT191": {
+   "d": "2026-11-24",
+   "t": "Amazon.com: Funny Cat Riding Shark Puking Rainbow Galaxy Space Humor Pun T- Shirt for Men Women Kids : Clothing, Shoes &",
+   "v": "no"
+  },
   "https://amazon.com/Colorful-Rainbow-Hot-Air-Balloon/dp/B0F116MFMZ": {
    "d": "2026-11-09",
    "t": "Amazon.com: Colorful Rainbow Hot Air Balloon Flight Tees T-Shirts for Men  Women Kids : Clothing, Shoes & Jewelry",
@@ -190,6 +195,11 @@
   "https://amazon.com/Skydiving-Skydiver-Skydive-Parachuting-Premium/dp/B0D9YWSF4H": {
    "d": "2026-11-13",
    "t": "Skydiving Skydiver Skydive Parachuting Popart Premium Tri-blend T-Shirt :  Clothing, Shoes & Jewelry - Amazon.com",
+   "v": "no"
+  },
+  "https://amazon.com/Tee-Hunt-Sweatshirt-Freshwater-Fisherman/dp/B0D2YDYCXW": {
+   "d": "2026-11-24",
+   "t": "Amazon.com: Tee Hunt Jumping Rainbow Trout Sweatshirt Freshwater Fish Fly  Fishing Lover Fisherman Angler Lure Nature Re",
    "v": "no"
   },
   "https://amazon.com/Western-Cowboy-Riding-Shark-Space/dp/B084DJQVYS": {
@@ -317,6 +327,11 @@
    "t": "Black Casablanca Pool Short Sleeve T-Shirt",
    "v": "no"
   },
+  "https://celebrateprints.com/products/rainbow-trout-fishing-fisherman-tshirt": {
+   "d": "2026-11-24",
+   "t": "Rainbow Trout Fishing Fisherman T-Shirt - Celebrate Prints",
+   "v": "no"
+  },
   "https://chancestuff.com/products/star-line-album-t-shirt-cd-fan-pack": {
    "d": "2026-11-08",
    "t": "Star Line T-Shirt Fan Pack",
@@ -432,6 +447,11 @@
    "t": "Excellerations Brawny Tough Rainbow Parachute - 6'dia",
    "v": "no"
   },
+  "https://discounttoday.net/product/cowboy-riding-rainbow-trout-premium-graphic-t-shirt-fishing": {
+   "d": "2026-11-24",
+   "t": "Cowboy Riding Rainbow Trout Premium Graphic T-Shirt - Fishing -  DiscountToday Brand",
+   "v": "no"
+  },
   "https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b2017-belec-p-btext": {
    "d": "2026-11-20",
    "t": "Georgia travel guide 2017 - Digital Library of Georgia",
@@ -515,6 +535,11 @@
   "https://ebay.com/shop/queen-a-night-at-the-opera-shirt": {
    "d": "2026-11-18",
    "t": "Queen a Night at the Opera Shirt | eBay",
+   "v": "no"
+  },
+  "https://ebay.com/shop/rainbow-trout-t-shirt": {
+   "d": "2026-11-24",
+   "t": "Rainbow Trout T Shirt | eBay",
    "v": "no"
   },
   "https://ebay.com/shop/trout-shirt": {
@@ -1282,6 +1307,11 @@
    "t": "Ragdoll Cat Shirts - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/rainbow_fish_shirt": {
+   "d": "2026-11-24",
+   "t": "Rainbow Fish Shirt - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/rainbowfish_shirt": {
    "d": "2026-11-18",
    "t": "Rainbowfish Shirt - Etsy",
@@ -1692,6 +1722,11 @@
    "t": "Georgetown Pop-up's Unique Gifts for Hearth and Heart",
    "v": "no"
   },
+  "https://in.dhgate.com/product/end-of-the-rainbow-funny-trout-fishing-graphic/1120684387.html": {
+   "d": "2026-11-24",
+   "t": "End of The Rainbow Funny Trout Fishing Graphic T Shirt Y k Fisherman Art  Outdoor Clothes Humor Husband Daddy Novelty Gi",
+   "v": "no"
+  },
   "https://instagram.com/p/CL7i1ZYF6mZ": {
    "d": "2026-11-13",
    "t": "1970s Goldfish Crackers Promo Tee \u2764\ufe0fSOLD\u2764\ufe0f \u201cWhat? You've never swallowed a  Goldfish?\u201d While researching this shirt I fo",
@@ -1737,6 +1772,11 @@
    "t": "We are born of love. Love is our mother.\" - Rumi \ud83e\udde1 Wearing ...",
    "v": "no"
   },
+  "https://instagram.com/p/DXQGqnVDPgR": {
+   "d": "2026-11-24",
+   "t": "Over 125 new items dropping tomorrow! \ud83e\udee1 Saturday 4/18, 1pm EST. Be there.  onlytrouts.com - Link in bio \ud83c\udfa3",
+   "v": "no"
+  },
   "https://instagram.com/p/DYfS_x3jFy0": {
    "d": "2026-11-20",
    "t": "I am super excited to show you the next release of my ...",
@@ -1760,6 +1800,11 @@
   "https://instagram.com/p/DbYAZcCDNg9": {
    "d": "2026-11-20",
    "t": "Which of these are you? \ud83d\udc99",
+   "v": "no"
+  },
+  "https://instagram.com/p/DcACUq4kTu7": {
+   "d": "2026-11-24",
+   "t": "Funny vintage fish tees dropping Saturday \ud83e\udd23 onlytrouts.com \u2014 link in bio  Saturday (8/15) @ 1PM EDT",
    "v": "no"
   },
   "https://instagram.com/p/DdWUn40nENp": {
@@ -2417,6 +2462,11 @@
    "t": "Brockhampton | Shirts | Brockhampton Rainbow Couch Logo Shirt | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Broken-Threads-MensTropicalLeafPrint-Shirt-ShortsSet-Sz-S-67ea0ceac71ba1f6de629e77": {
+   "d": "2026-11-24",
+   "t": "Broken Threads | Swim | Broken Threads Menstropicalleafprint Shirt  Shortsset Sz S | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Brown-Casual-Womens-Leopard-Print-Pattern-Loose-TShirt-Sweatpants-Set-6a70592f875d65d001a15f1a": {
    "d": "2026-11-11",
    "t": "Tops | Brown Casual Womens Leopard Print Pattern Loose Tshirt Sweatpants  Set | Poshmark",
@@ -2445,6 +2495,16 @@
   "https://poshmark.com/listing/Christmas-Santa-Hat-Donald-Duck-Graphic-Tee-Short-Sleeve-Classic-Fit-6ade6fd18f9d3e0d7232eff2": {
    "d": "2026-11-17",
    "t": "Tops | Christmas Santa Hat Donald Duck Graphic Tee Short Sleeve Classic Fit  | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Chubbies-Mens-Medium-Blue-Trout-Fish-Print-Golf-Peformance-Polo-Shirt-6abba0d44dfc8101b8e326c3": {
+   "d": "2026-11-24",
+   "t": "Chubbies Short Sleeve Trout Dipper Polo Golf Shirt, Mens, M, White",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Chubbies-Mens-XL-Polo-Shirt-Rainbow-Trout-Fish-Neon-Geometric-Performance-Golf-6acbf19dd7337333a839c4ae": {
+   "d": "2026-11-24",
+   "t": "chubbies | Shirts | Chubbies Mens Xl Polo Shirt Rainbow Trout Fish Neon  Geometric Performance Golf | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Columbia-Mens-Faded-Black-Rainbow-Mountain-Graphic-TShirt-Size-M-Gorpcore-6a96615b37385362c5570fae": {
@@ -2512,6 +2572,11 @@
    "t": "Anthropologie | Sweaters | Euc Anthropologie 525 Colorblock Sweater Xs |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Eddie-Bauer-Light-Gray-Tee-with-Blue-Dog-and-Orange-Ducks-6accd86f7049a15eae75d050": {
+   "d": "2026-11-24",
+   "t": "Eddie Bauer | Shirts & Tops | Eddie Bauer Light Gray Tee With Blue Dog And  Orange Ducks | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/End-of-the-Rainbow-pan-fried-fish-shirt-64f6ccfa5d686bb39c93a716": {
    "d": "2026-11-12",
    "t": "Fruit of the Loom | Shirts | End Of The Rainbow Pan Fried Fish Shirt |  Poshmark",
@@ -2557,6 +2622,11 @@
    "t": "Free People | Pants & Jumpsuits | Free People Multicolored Wide Leg Pants  Sz M | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Fripp-Performance-Fishing-Shirt-Mens-S-Trout-Graphic-Longsleeve-Tee-6a8cb1861696a76b3edbb55f": {
+   "d": "2026-11-24",
+   "t": "Fripp | Shirts | Fripp Performance Fishing Shirt Mens S Trout Graphic  Longsleeve Tee | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/GREEN-URBAN-CORSET-TOP-627da61c21f2e1c8a66d193d": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Green Urban Corset Top | Poshmark",
@@ -2585,6 +2655,11 @@
   "https://poshmark.com/listing/Green-oversized-Kesha-Urban-Outfitters-shirt-6a8ef71b8091ef8f9085c6e3": {
    "d": "2026-11-08",
    "t": "Green oversized Kesha Urban Outfitters shirt",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Guy-Harvey-Marlin-Graphic-Print-Pocket-TShirt-Blue-Men-Size-Medium-6a7daeb64adcb385577cdfaf": {
+   "d": "2026-11-24",
+   "t": "Guy Harvey | Shirts | Guy Harvey Marlin Graphic Print Pocket Tshirt Blue  Men Size Medium | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Guy-Harvey-Marlin-Tee-5d066016d1aa25a003a456cf": {
@@ -2660,6 +2735,16 @@
   "https://poshmark.com/listing/Like-New-Super-Cute-Anchor-Top-Black-White-67f6cc362981afe3773cc0e9": {
    "d": "2026-11-14",
    "t": "Boutique | Tops | Like New Super Cute Anchor Top Black White | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Liquid-Blue-Cheech-Chong-TieDye-Graphic-TShirt-Large-6aed489df6680b940d5721e9": {
+   "d": "2026-11-24",
+   "t": "Liquid Blue | Shirts | Liquid Blue Cheech Chong Tiedye Graphic Tshirt Large  | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Liquid-Blue-Colorful-Wolf-Graphic-TShirt-XL-6afe66541b7e502836ccb48f": {
+   "d": "2026-11-24",
+   "t": "Liquid Blue | Shirts | Liquid Blue Colorful Wolf Graphic Tshirt Xl |  Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Liquid-Blue-Mens-2XL-Peace-Sign-Tie-Dye-TShirt-Blue-Cotton-Graphic-Tee-2015-6ad2d1a12fc9f8b2a34da1e3": {
@@ -2807,6 +2892,11 @@
    "t": "National Geographic | Shirts | National Geographic Black Tshirt With Orange  Goldfish Graphic | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Nautica-Black-TShirt-with-Rainbow-Logo-6a905e8f7282532e7818d905": {
+   "d": "2026-11-24",
+   "t": "Nautica | Shirts | Nautica Black Tshirt With Rainbow Logo | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Nautica-Mens-XXL-T-Shirt-Blue-Floral-Palm-Graphic-Crew-Neck-Short-Sleeve-Cotton-6aebe8c86bb7d6a4698d176b": {
    "d": "2026-11-12",
    "t": "Nautica | Shirts | Nautica Mens Xxl T Shirt Blue Floral Palm Graphic Crew  Neck Short Sleeve Cotton | Poshmark",
@@ -2907,6 +2997,11 @@
    "t": "Shirts | Prince Purple Rain Black Tshirt Medium | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Quiksilver-Waterman-Collection-Mens-M-Black-Grey-Fish-Logo-Graphic-TShirt-6aba63d337ab176c3768be8e": {
+   "d": "2026-11-24",
+   "t": "Quiksilver | Shirts | Quiksilver Waterman Collection Mens M Black Grey Fish  Logo Graphic Tshirt | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/RARE-Moschino-Y2K-Cheap-Chic-Red-Ribbed-Heart-Cutout-Tank-Top-6ae8c8ce41ae66c5d6ffaf19": {
    "d": "2026-11-20",
    "t": "Moschino | Tops | Rare Moschino Y2k Cheap Chic Red Ribbed Heart Cutout Tank  Top | Poshmark",
@@ -2977,9 +3072,19 @@
    "t": "Sweaters | Stunning Thick Chic Ribbed Maxi Sweaterdress With Snap Buttons |  Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/TULTEX-Cowgirls-With-Attitude-CWA-Graphic-T-Shirt-Large-Gray-Rodeo-Cowboy-6afed798292f7d20e72294c2": {
+   "d": "2026-11-24",
+   "t": "Tultex | Shirts | Tultex Cowgirls With Attitude Cwa Graphic T Shirt Large  Gray Rodeo Cowboy | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Tea-Collection-Girls-Blue-Embroidered-Rainbow-Tee-Shirt-Size-12-6ae780b99f3194f9056ec756": {
    "d": "2026-11-12",
    "t": "Tea Collection | Shirts & Tops | Tea Collection Girls Blue Embroidered  Rainbow Tee Shirt Size 2 | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Tea-Collection-Gray-and-Light-Blue-Tee-with-Rainbow-Shoulder-Stripes-6afa327456502b15e5997383": {
+   "d": "2026-11-24",
+   "t": "Tea Collection | Shirts & Tops | Tea Collection Gray And Light Blue Tee  With Rainbow Shoulder Stripes | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Team-Pride-Rainbow-Stripe-Mens-Tank-Top-Gay-Pride-NWT-Size-XS-67b038a3d90959c3e266902e": {
@@ -3242,6 +3347,11 @@
    "t": "Vintage | Shirts | Vintage Nos Fishing Tee Shirt Mens Large Striped Usa  Comic Funny Dad Nwt 9s | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Vintage-Rainbow-Fish-Glitter-Tshirt-Tubular-Tee-Roller-Printed-Unbranded-6af5cd3b05ce572f859294d0": {
+   "d": "2026-11-24",
+   "t": "Vintage | Shirts | Vintage Rainbow Fish Glitter Tshirt Tubular Tee Roller  Printed Unbranded | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Vintage-Streetwear-XL-Faded-Hawaiian-Legends-Surf-Spell-Out-Double-Sided-TShirt-6345d369ef1a4e921bd4bc43": {
    "d": "2026-11-12",
    "t": "Vintage | Shirts | Vintage Streetwear Xl Faded Hawaiian Legends Surf Spell  Out Double Sided Tshirt | Poshmark",
@@ -3250,6 +3360,11 @@
   "https://poshmark.com/listing/Vintage-T-Shirt-L-Blue-Maine-York-Beach-Lighthouse-Souvenir-Single-Stitch-80s-6ae8e93906c773296eeb77f2": {
    "d": "2026-11-18",
    "t": "Vintage | Shirts | Vintage T Shirt L Blue Maine York Beach Lighthouse  Souvenir Single Stitch 8s | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Vintage-Yazbek-Rainbow-Mushroom-Graphic-TShirt-6a18ad763fd8e771ca7adcbd": {
+   "d": "2026-11-24",
+   "t": "Yazbek | Shirts | Vintage Yazbek Rainbow Mushroom Graphic Tshirt | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Vintage-rare-Green-Lantern-pastel-knit-sweater-64f8aadefed51fa934e3d749": {
@@ -3300,6 +3415,11 @@
   "https://poshmark.com/listing/rainbow-leopard-cropped-and-collared-button-up-60919ef081a36cdeaecd5b61": {
    "d": "2026-11-08",
    "t": "Urban Outfitters | Tops | Rainbow Leopard Cropped And Collared Button Up |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/uzzi-L-amphibious-gear-pink-hawaiian-floral-fish-shirt-large-casual-fishing-boat-6a21d71f64164a8f8c248b28": {
+   "d": "2026-11-24",
+   "t": "Uzzi | Shirts | Uzzi L Amphibious Gear Pink Hawaiian Floral Fish Shirt  Large Casual Fishing Boat | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/style-tag/Y2K%20Baby%20Tee": {
@@ -3757,6 +3877,11 @@
    "t": "IKIGAI Koi Fish Mens Tee - BROWN - S | Tillys",
    "v": "no"
   },
+  "https://tillys.com/product/quiksilver-two-thousand-mens-heavyweight-tee/53582342901.html": {
+   "d": "2026-11-24",
+   "t": "Quiksilver Two Thousand Short Sleeve T-Shirt, Mens, M, Sand",
+   "v": "no"
+  },
   "https://tillys.com/product/riot-society-floral-koi-womens-boyfriend-tee/550638400.html": {
    "d": "2026-11-10",
    "t": "RIOT SOCIETY Floral Koi Womens Boyfriend Tee - BROWN | Tillys",
@@ -3845,6 +3970,11 @@
   "https://tumblr.com/yellowjacketsfashion/755989379077603328/could-you-find-this-shirt-its-from-bloodhive": {
    "d": "2026-11-16",
    "t": "Beauty And Chaos Koi Fish Oversized Tee \u2013 @yellowjacketsfashion on Tumblr",
+   "v": "no"
+  },
+  "https://twotrailsdesign.com/products/the-road-is-calling-rainbow-unisex-t-shirt": {
+   "d": "2026-11-24",
+   "t": "Road is Calling Rainbow Shirt - Cycling Adventure Unisex Black Heather / S",
    "v": "no"
   },
   "https://unsplash.com/photos/man-riding-on-hot-air-balloon-bAKrDtrOtnU": {
@@ -4002,6 +4132,11 @@
    "t": "AUHILL Linen Shirts for Women Fish Print Blouses Casual Flowy Shirts Long  Sleeve Floral Tops Vintage Sardines Art Print",
    "v": "no"
   },
+  "https://us.shein.com/Cowboy-Riding-Rainbow-Trout-T-Shirt-Genuine-Shirts-Cowboy-Fishing-Club-Rodeo-Graphic-Tee-p-514035292.html": {
+   "d": "2026-11-24",
+   "t": "Cowboy Riding Rainbow Trout T-Shirt | Genuine Shirts | Cowboy Fishing Club  Rodeo Graphic Tee | SHEIN USA",
+   "v": "no"
+  },
   "https://us.shein.com/Men-Women-Retro-Paramotor-T-Shirt-PPG-With-Paramotor-Wing-Parachute-Gear-Graphic-Round-Neck-Casual-Tee-Suitable-For-PPG-Lovers-Machine-Washable-Aviation-Enthusiast-Apparel-p-411060019.html": {
    "d": "2026-11-19",
    "t": "Men' & Women' Retro Paramotor T-Shirt - PPG With Paramotor Wing & Parachute  Gear Graphic, Round Neck Casual Tee Suitabl",
@@ -4020,6 +4155,11 @@
   "https://viator.com/tours/Phoenix/Sunset-Hot-Air-Balloon-Ride-over-Phoenix/d639-6746P4": {
    "d": "2026-11-21",
    "t": "Phoenix Sunset Hot-Air Balloon Ride 2026 - BOOK NOW",
+   "v": "no"
+  },
+  "https://vintagesponsor.com/products/80-rainbow-trout-tie-fish-tee-m-l": {
+   "d": "2026-11-24",
+   "t": "80 Rainbow trout tie fish tee M/L",
    "v": "no"
   },
   "https://vinted.com/catalog/1807-t-shirts-estampadas/brand/471-urban-outfitters": {
@@ -4100,6 +4240,11 @@
   "https://walmart.com/tp/sesame-street-clothing": {
    "d": "2026-11-14",
    "t": "Sesame Street Clothing for Kids and Adults",
+   "v": "no"
+  },
+  "https://whatthefin.com/products/brook-trout-long-sleeve-tee": {
+   "d": "2026-11-24",
+   "t": "Rainbow Trout Long Sleeve Tee",
    "v": "no"
   },
   "https://wildtribute.com/products/miami-vice-rainbow-trout-t-shirt": {
