@@ -1,9 +1,9 @@
 {
- "google_query_index": 6,
- "last_google_date": "2026-11-25",
- "last_lens_date": "2026-11-25",
- "last_poshmark_date": "2026-11-25",
- "last_run_date": "2026-11-25",
+ "google_query_index": 1,
+ "last_google_date": "2026-11-26",
+ "last_lens_date": "2026-11-26",
+ "last_poshmark_date": "2026-11-26",
+ "last_run_date": "2026-11-26",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 18,
+ "poshmark_query_index": 19,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -95,6 +95,11 @@
   "ebay:363362049244": {
    "d": "2026-11-11",
    "t": "Wild Child O-neck Short Sleeve T-shirt Gypsy Bohemian Hippie ...",
+   "v": "no"
+  },
+  "ebay:404355412788": {
+   "d": "2026-11-26",
+   "t": "Airbrush T Shirt Airbrushed T-shirt Any Size Dolphin Colors Customized Beach",
    "v": "no"
   },
   "http://teesandtops.uk": {
@@ -357,6 +362,16 @@
    "t": "Shelley Duvall Boatneck Tee \u2013 Bug Girl",
    "v": "no"
   },
+  "https://buzzfeed.com/brittneytrinh/lgbtqia-owned-businesses-2023": {
+   "d": "2026-11-26",
+   "t": "35 LGBTQIA+-Owned Brands Sure To Be Your New Favorite Shops",
+   "v": "no"
+  },
+  "https://buzzfeed.com/jadagomez/fast-food-chains-not-around-anymore": {
+   "d": "2026-11-26",
+   "t": "Vanishing Food Chains That Defined Our Childhoods",
+   "v": "no"
+  },
   "https://casablancaparis.com/collections/mens-t-shirts": {
    "d": "2026-11-15",
    "t": "Men's Designer T-shirts | Casablanca Paris",
@@ -542,6 +557,11 @@
    "t": "Rainbow parachute stock photo. Image of bright, inside - 45967618",
    "v": "no"
   },
+  "https://dressedinlala.com/products/rainbow-swan-rodeo-short-sleeve-mesh-top": {
+   "d": "2026-11-26",
+   "t": "Rainbow Swan Rodeo Short Sleeve Mesh Top \u2013 Dressed in Lala",
+   "v": "no"
+  },
   "https://ebay.com/b/Urban-Outfitters-Crew-Neck-Tops-for-Women/53159/bn_7115505793": {
    "d": "2026-11-10",
    "t": "25+ Urban Outfitters Crew Neck Tops for Women for sale | Updated Nov 2026",
@@ -707,6 +727,11 @@
    "t": "Jesus Fish Tee - Etsy Australia",
    "v": "no"
   },
+  "https://etsy.com/au/market/pastel_multicolor_sweater": {
+   "d": "2026-11-26",
+   "t": "Pastel Multicolor Sweater - Etsy Australia",
+   "v": "no"
+  },
   "https://etsy.com/au/market/stimming_shirt": {
    "d": "2026-11-11",
    "t": "Stimming Shirt - Etsy Australia",
@@ -767,6 +792,11 @@
    "t": "Art Print T Shirt - Etsy Ireland",
    "v": "no"
   },
+  "https://etsy.com/ie/market/dream_believe_tshirt": {
+   "d": "2026-11-26",
+   "t": "Dream Believe Tshirt - Etsy Ireland",
+   "v": "no"
+  },
   "https://etsy.com/ie/market/tee_shirt_vintage_orange_illustration": {
    "d": "2026-11-11",
    "t": "Tee Shirt Vintage Orange Illustration - Etsy Ireland",
@@ -795,6 +825,11 @@
   "https://etsy.com/in-en/listing/4365468098/comfort-colors-surviving-on-goldfish": {
    "d": "2026-11-11",
    "t": "Buy Comfort Colors\u00ae Surviving on Goldfish Crackers Shirt, Funny Foodie Shirt,  Snack Lover Shirt, Comfort Shirt, Food Pu",
+   "v": "no"
+  },
+  "https://etsy.com/in-en/market/artist_art_t_shirt": {
+   "d": "2026-11-26",
+   "t": "Buy Artist Art T Shirt Online In India - Etsy India",
    "v": "no"
   },
   "https://etsy.com/in-en/market/asia_tees": {
@@ -1025,6 +1060,11 @@
   "https://etsy.com/listing/4308954665/motocross-jersey-sublimation-design": {
    "d": "2026-11-19",
    "t": "Motocross Jersey Sublimation Design Bundle | Motocross Jersey Designs | Vector Files | 100 Jersey Designs | Instant Digi",
+   "v": "no"
+  },
+  "https://etsy.com/listing/4315785531/glitter-butterfly-sticker-holographic": {
+   "d": "2026-11-26",
+   "t": "Glitter Butterfly Sticker, Holographic Pixie Dust Vinyl Sticker for  Laptops, Water Bottles, Journals, Waterproof & Dura",
    "v": "no"
   },
   "https://etsy.com/listing/4332563065/futuristic-racing-shirt-background-svg": {
@@ -1412,6 +1452,11 @@
    "t": "Peaceful Flow - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/pipsticks": {
+   "d": "2026-11-26",
+   "t": "Pipsticks - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/ragdoll_cat_shirts": {
    "d": "2026-11-11",
    "t": "Ragdoll Cat Shirts - Etsy",
@@ -1502,6 +1547,11 @@
    "t": "Y2k Beach Tops - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/y2k_gift_ideas": {
+   "d": "2026-11-26",
+   "t": "Y2k Gift Ideas - 60+ Gift Ideas for 2026 - Page 5",
+   "v": "no"
+  },
   "https://etsy.com/nz/listing/1309660235/cute-fish-laptop-sleeve-teal-blue-ocean": {
    "d": "2026-11-11",
    "t": "Cute Fish Laptop Sleeve, Teal Blue Ocean Tropical Goldfish Laptop Case for  MacBook Air/pro, Turquoise Deep Sea Cover, G",
@@ -1582,6 +1632,11 @@
    "t": "Vintage Mens Fish T Shirt - Etsy UK",
    "v": "no"
   },
+  "https://etsy.com/uk/market/weirdcore_sweatshirt": {
+   "d": "2026-11-26",
+   "t": "Weirdcore Sweatshirt - Etsy UK",
+   "v": "no"
+  },
   "https://etsy.com/uk/market/women%27s_celestial_t_shirts": {
    "d": "2026-11-17",
    "t": "Women's Celestial T Shirts - Etsy UK",
@@ -1622,6 +1677,11 @@
    "t": "Welcome Tony Sandlin and Sheldon Grauberger with Rainbow Ryders, Inc. Hot  Air Balloon Co. \u2013 the official ride operator ",
    "v": "no"
   },
+  "https://facebook.com/buzzfeedtastyhome/posts/these-42-newer-products-from-very-beloved-brands-are-too-good-to-miss-read-more/1716707619810750": {
+   "d": "2026-11-26",
+   "t": "These 42 Newer Products From Very Beloved Brands Are Too Good To Miss Read  more",
+   "v": "no"
+  },
   "https://facebook.com/cow97/posts/i-loved-parachute-day-in-gym-class-who-else-remembers-this/10155907410916147": {
    "d": "2026-11-25",
    "t": "I loved Parachute Day in Gym class! Who else remembers this?",
@@ -1637,6 +1697,11 @@
    "t": "Festore (@festorefashion) \u2022 Facebook",
    "v": "no"
   },
+  "https://facebook.com/groups/234941887823937/posts/235927474392045": {
+   "d": "2026-11-26",
+   "t": "\u2764\ufe0fAdopted\u2764\ufe0f Name: Carla Green Position: Teacher Grade: Kindergarten  Subjects: all Years Teaching: 10 School: McDavid-Jo",
+   "v": "no"
+  },
   "https://facebook.com/groups/273829497131347/posts/1027780408402915": {
    "d": "2026-11-20",
    "t": "Needs Adopting Name: Ashton Cook - Middle School PE, High School Assistant  Softball \ud83e\udd4e Birthday: June 25 Shirt size: Med",
@@ -1650,6 +1715,11 @@
   "https://facebook.com/groups/4406050846346519/posts/4408281339456803": {
    "d": "2026-11-08",
    "t": "\ud83c\udf93\ud83d\udc9a Adopt-a-Senior Spotlight: Audrina Scott \ud83d\udc9a\ud83c\udf93",
+   "v": "no"
+  },
+  "https://facebook.com/groups/980789649533906/posts/987187122227492": {
+   "d": "2026-11-26",
+   "t": "Karli Shuck plans to attend UC for Political Science. Favorite Snacks:  Pretzels, goldfish crackers, slim jims, beef jer",
    "v": "no"
   },
   "https://factory.jcrew.com/p/boys/categories/clothing/tees-and-polos/graphics/boys-rainbow-trout-graphic-tee/CG841": {
@@ -1957,6 +2027,11 @@
    "t": "The giant, rainbow parachute tent in gym class is probably a core memory  for just about every grown-up born in the last",
    "v": "no"
   },
+  "https://instagram.com/p/Dd9r04iIOey": {
+   "d": "2026-11-26",
+   "t": "girl dinner but make it an outfit \ud83c\udf7d\ufe0f\ud83d\udc85\ud83c\udffc the boys simply will never  understand\u2026 but we ATEEE \ud83d\udc97\ud83c\udf43 SHOP THE FALL IN FULL COL",
+   "v": "no"
+  },
   "https://instagram.com/p/DdWUn40nENp": {
    "d": "2026-11-20",
    "t": "A hoodie, but make it larger than life. During New York Fashion Week, Pink  Palm Puff took over NYC with a giant replica",
@@ -2037,9 +2112,19 @@
    "t": "Seven Days, June 19, 2019 by Seven Days - Issuu",
    "v": "no"
   },
+  "https://issuu.com/gmgproduction/docs/2016-06-12_-_las_vegas_magazine": {
+   "d": "2026-11-26",
+   "t": "2016-06-12 - Las Vegas Magazine by Greenspun Media Group - Issuu",
+   "v": "no"
+  },
   "https://issuu.com/localemagazine/docs/14julyoc": {
    "d": "2026-11-08",
    "t": "Orange County July 2014 by Locale Magazine - Issuu",
+   "v": "no"
+  },
+  "https://issuu.com/localemagazine/docs/laaugust2014": {
+   "d": "2026-11-26",
+   "t": "Los Angeles August 2014 by Locale Magazine - Issuu",
    "v": "no"
   },
   "https://issuu.com/localemagazine/docs/sdjune2014_fullmag_small/12": {
@@ -2050,6 +2135,16 @@
   "https://issuu.com/scng/docs/boc21": {
    "d": "2026-11-08",
    "t": "2021 Best of OC by Southern California News Group Special Sections - Issuu",
+   "v": "no"
+  },
+  "https://issuu.com/scng/docs/boc21/64": {
+   "d": "2026-11-26",
+   "t": "Issuu",
+   "v": "no"
+  },
+  "https://issuu.com/shoppingnews/docs/10.10.18": {
+   "d": "2026-11-26",
+   "t": "10.10.18 issue by Shopping News - Issuu",
    "v": "no"
   },
   "https://issuu.com/totallicensing/docs/total_licensing_australia_18": {
@@ -2307,6 +2402,11 @@
    "t": "Men's Casablanca Graphic Tees | Nordstrom",
    "v": "no"
   },
+  "https://nordstrom.com/browse/sale/under-50": {
+   "d": "2026-11-26",
+   "t": "Leveret Sale & Clearance Under $50 | Nordstrom",
+   "v": "no"
+  },
   "https://nordstrom.com/browse/women": {
    "d": "2026-11-10",
    "t": "Women's BDG Urban Outfitters Clothing, Shoes, & Accessories | Nordstrom",
@@ -2330,6 +2430,11 @@
   "https://nordstrom.com/s/bdg-pixelated-balloon-pants/8514344": {
    "d": "2026-11-08",
    "t": "BDG Urban Outfitters Pixelated Balloon Pants (Men) | Nordstrom",
+   "v": "no"
+  },
+  "https://nordstromrack.com/s/bdg-dalston-graphic-baby-tee/9161430": {
+   "d": "2026-11-26",
+   "t": "BDG Urban Outfitters Dalston Graphic Baby Tee (Women) | Nordstromrack",
    "v": "no"
   },
   "https://nordstromrack.com/s/billionaire-boys-club-bb-news-ss-knit-oversize/9285094": {
@@ -2512,9 +2617,19 @@
    "t": "Mens Urban Outfitters T Shirt for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/browse/mens-urban-wear-t-shirts": {
+   "d": "2026-11-26",
+   "t": "Mens Urban Wear T Shirts for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/browse/paper-heart--Sweaters": {
    "d": "2026-11-25",
    "t": "Paper Heart Sweaters for Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/browse/rainbow-unicorn-sweater": {
+   "d": "2026-11-26",
+   "t": "Rainbow Unicorn Sweater for Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/browse/urban-outfitters-baggy-sweaters": {
@@ -2587,6 +2702,11 @@
    "t": "ADORA | Sweaters | Adora Sweater Vest Taupe Sm Nwt | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Aeropostale-Womans-Boyfriend-Fit-Button-Up-Western-Shirt-Blue-Green-Size-S-6ae7714c353f0a442f0a294b": {
+   "d": "2026-11-26",
+   "t": "Aeropostale | Tops | Aeropostale Womans Boyfriend Fit Button Upwestern Shirt  Blue Green Size S | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Altard-State-Fuzzy-Cropped-Crewneck-Sweater-in-Beige-6a13789624b20b14ba2583d1": {
    "d": "2026-11-16",
    "t": "Altar'd State | Sweaters | Altard State Fuzzy Cropped Crewneck Sweater In  Beige | Poshmark",
@@ -2605,6 +2725,11 @@
   "https://poshmark.com/listing/BDG-Oversized-Plaid-ButtonUp-Shirt-in-Tan-Green-Cream-6a5cc928dc3b46ee9e2ec3a5": {
    "d": "2026-11-14",
    "t": "BDG | Tops | Bdg Oversized Plaid Buttonup Shirt In Tan Green Cream |  Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/BDG-Urban-Outfitters-Plaid-Button-Down-Shirt-Yellow-Black-Oversized-Top-SP-69e42decbe296b91dbdb139c": {
+   "d": "2026-11-26",
+   "t": "BDG | Tops | Bdg Urban Outfitters Plaid Button Down Shirt Yellow Black  Oversized Top Sp | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Beach-Cover-Up-Cotton-Shirt-Back-Cut-Out-Shredded-632efe3b4bd7603f7d602867": {
@@ -2660,6 +2785,11 @@
   "https://poshmark.com/listing/Brown-Casual-Womens-Leopard-Print-Pattern-Loose-TShirt-Sweatpants-Set-6a70592f875d65d001a15f1a": {
    "d": "2026-11-11",
    "t": "Tops | Brown Casual Womens Leopard Print Pattern Loose Tshirt Sweatpants  Set | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Brown-Floral-Long-Sleeve-Shirt-69310f4fd8024c6d6798a9a8": {
+   "d": "2026-11-26",
+   "t": "Neptune Zoo | Shirts & Tops | Brown Floral Long Sleeve Shirt | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Budweiser-Beer-Ad-90s-Graphic-Tee-623d0d128be9137c37dc9802": {
@@ -3107,6 +3237,21 @@
    "t": "Salaam | Dresses | New Salaam Short Summer Dress M Medium Made In The Usa  Cap Sleeves | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/OLD-NAVY-100-Cotton-Striped-Cropped-Relaxed-Fit-Boxy-Flowy-Button-Down-Shirt-XL-6937c71b850012acbeda8a21": {
+   "d": "2026-11-26",
+   "t": "Old Navy | Tops | Old Navy 0 Cotton Striped Cropped Relaxed Fit Boxy Flowy  Button Down Shirt Xl | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/OLD-NAVY-Salmon-Pink-LongSleeve-Smocked-Cotton-Poplin-Button-Down-Blouse-Shirt-64dbd16a308f07461efbafc1": {
+   "d": "2026-11-26",
+   "t": "Old Navy | Tops | Old Navy Salmon Pink Longsleeve Smocked Cotton Poplin  Button Down Blouse Shirt | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Offline-by-Aerie-OTT-Fleece-Seamed-Quarter-Zip-Light-Blue-Medium-6ada667818db027d5cd110b1": {
+   "d": "2026-11-26",
+   "t": "Tops | Offline By Aerie Ott Fleece Seamed Quarter Zip Light Blue Medium |  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Orisue-Elevate-Yourself-Crew-Neck-656d1a9358083d0a10a74b70": {
    "d": "2026-11-22",
    "t": "Orisue | Sweaters | Orisue Elevate Yourself Crew Neck | Poshmark",
@@ -3532,6 +3677,11 @@
    "t": "American Vintage | Shirts | Vintage 9s Wells Outfitters Fishing Tee Xl  Single Stitch Thrashed Distressed | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Vintage-Camouflage-TShirt-with-cuffed-sleeves-60b2b851ff7c5a407086f0c0": {
+   "d": "2026-11-26",
+   "t": "Urban Outfitters | Shirts | Vintage Camouflage Tshirt With Cuffed Sleeves |  Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Vintage-Cancun-Dolphins-Graphic-T-Shirt-Mens-XL-Single-Stitch-White-Taller-Mex-6ae15e52d733735f92e0db28": {
    "d": "2026-11-12",
    "t": "Vintage | Shirts | Vintage Cancun Dolphins Graphic T Shirt Mens Xl Single  Stitch White Taller Mex | Poshmark",
@@ -3577,6 +3727,11 @@
    "t": "Vintage | Shirts | Vtg 9s Mens Medium Distressed Dr Sigmund Freud Whats On  A Mans Mind Tshirt Usa | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/White-Gauzy-Lightweight-Loose-100-Cotton-Long-Sleeve-Oversized-Button-Down-Sz-M-68228c83243dae90295e15e7": {
+   "d": "2026-11-26",
+   "t": "Acoa | Tops | White Gauzy Lightweight Loose 0 Cotton Long Sleeve Oversized  Button Down Sz M | Poshmark",
+   "v": "no"
+  },
   "https://poshmark.com/listing/White-Ribbed-Knit-Turtleneck-Sweater-67b21f4f6af5758ee7fd9634": {
    "d": "2026-11-16",
    "t": "BDG | Sweaters | White Ribbed Knit Turtleneck Sweater | Poshmark",
@@ -3590,6 +3745,11 @@
   "https://poshmark.com/listing/Womens-True-Religion-Embroidered-TShirt-Size-sp-6a6c358a310f1c6e20cb4bc1": {
    "d": "2026-11-17",
    "t": "Tops | Womens True Religion Embroidered Tshirt Size Sp | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Y2K-Avatar-Shirt-Womens-Medium-Brown-Hooded-Long-Sleeve-Scoop-Neck-Casual-Top-69924210027427dbf58b961c": {
+   "d": "2026-11-26",
+   "t": "Avatar | Tops | Y2k Avatar Shirt Womens Medium Brown Hooded Long Sleeve  Scoop Neck Casual Top | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/bryn-Walker-White-Cotton-Boatneck-LongSleeve-Top-6ae6c1f070333fc7e37cb918": {
@@ -3987,6 +4147,11 @@
    "t": "Women's Peanuts Music Makes My Heart Sing Short Sleeve Graphic T-Shirt -  Birch - 2X : Target",
    "v": "no"
   },
+  "https://target.com/p/women-s-peanuts-snoopy-and-lucy-oversized-graphic-t-shirt-heather-grey-x-large/-/A-1000661040": {
+   "d": "2026-11-26",
+   "t": "Women's Peanuts Snoopy And Lucy Relaxed Fit T-Shirt - Heather Grey -  X-Large : Target",
+   "v": "no"
+  },
   "https://team.dolfinswimwear.com/shop/goldfish-exclusive/goldfish-youth-unisex-short-sleeve-rash-guard_gf9e10": {
    "d": "2026-11-13",
    "t": "Goldfish Youth Unisex Short Sleeve Rash Guard-GF9E10",
@@ -4307,9 +4472,19 @@
    "t": "Levi's\u00ae Two Horse Radio Graphic Tee | Urban Outfitters",
    "v": "no"
   },
+  "https://urbanoutfitters.com/shop/m-sf-t-feels-finer-tee": {
+   "d": "2026-11-26",
+   "t": "M/SF/T Feels Finer Tee | Urban Outfitters",
+   "v": "no"
+  },
   "https://urbanoutfitters.com/shop/mindblown-lamb-baby-tee2": {
    "d": "2026-11-14",
    "t": "MINDBLOWN Lamb Baby Tee | Urban Outfitters",
+   "v": "no"
+  },
+  "https://urbanoutfitters.com/shop/polo-ralph-lauren-andy-nautical-pattern-camp-collar-shirt": {
+   "d": "2026-11-26",
+   "t": "Polo Ralph Lauren Andy Nautical Pattern Camp Collar Shirt | Urban Outfitters",
    "v": "no"
   },
   "https://urbanoutfitters.com/shop/spalding-uo-exclusive-basketball3": {
