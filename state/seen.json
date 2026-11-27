@@ -1,9 +1,9 @@
 {
- "google_query_index": 1,
- "last_google_date": "2026-11-26",
- "last_lens_date": "2026-11-26",
- "last_poshmark_date": "2026-11-26",
- "last_run_date": "2026-11-26",
+ "google_query_index": 2,
+ "last_google_date": "2026-11-27",
+ "last_lens_date": "2026-11-27",
+ "last_poshmark_date": "2026-11-27",
+ "last_run_date": "2026-11-27",
  "matches": [
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
    "verdict": "same_design"
   }
  ],
- "poshmark_query_index": 19,
+ "poshmark_query_index": 20,
  "seen": {
   "ebay:127439702780": {
    "d": "2026-11-11",
@@ -197,6 +197,11 @@
    "t": "Amazon.com: GSi Kids Rainbow Parachute 6 ft to 35 ft for School & Gym Class  | Bright Rainbow Colors, 54 GSM Fabric, Cro",
    "v": "no"
   },
+  "https://amazon.com/Hot-Air-Balloon-T-shirt-Helium/dp/B07MHDXPQ9": {
+   "d": "2026-11-27",
+   "t": "Amazon.com: Hot Air Balloon Up T-Shirt Boys Girls Youth Child Helium T-Shirt  : Clothing, Shoes & Jewelry",
+   "v": "no"
+  },
   "https://amazon.com/IBDRY-Parachute-Toddlers-Parent-Child-Colourful/dp/B0CRQWLVY5": {
    "d": "2026-11-25",
    "t": "Amazon.com: IBDRY Rainbow Parachute for Toddlers with Ocean Ball, Toddler  Adult Teamwork Parent-Child Game Colourful Pa",
@@ -327,6 +332,11 @@
    "t": "Birthday Sales, Baby & Kids Gifts For Birthday - Beepumpkin.com \u2013  Beepumpkin\u2122",
    "v": "no"
   },
+  "https://beginatbothell.com/play/over-the-rainbow-hot-air-balloon-rides": {
+   "d": "2026-11-27",
+   "t": "Over The Rainbow Hot Air Balloon Rides - Outdoor Activities | Begin at  Bothell",
+   "v": "no"
+  },
   "https://beymen.com/tr/p_casablanca-cok-renkli-t-shirt_1697926": {
    "d": "2026-11-08",
    "t": "Casablanca - \u00c7ok Renkli T-shirt - \u00c7ok Renkli",
@@ -340,6 +350,11 @@
   "https://blog.planoballoonfest.org/royal-race-shirts-revealed": {
    "d": "2026-11-13",
    "t": "Plano Balloon Fest | Blog",
+   "v": "no"
+  },
+  "https://boutiquemilano.bg/product/myjka-oversize-riza-artistic-sun-r1001": {
+   "d": "2026-11-27",
+   "t": "\u041c\u044a\u0436\u043a\u0430 oversize \u0440\u0438\u0437\u0430 \"Artistic Sun\" R1001 - Boutique Milano",
    "v": "no"
   },
   "https://boxlunch.com/product/disney-chicken-little-characters-striped-womens-t-shirt---boxlunch-exclusive/36505777.html": {
@@ -470,6 +485,11 @@
   "https://depop.com/theme/urban-outfitters-koi-fish-tee": {
    "d": "2026-11-10",
    "t": "Urban outfitters koi fish tee - Depop",
+   "v": "no"
+  },
+  "https://destinationgranby.com/things-to-do/outdoor-and-recreation/hot-air-balloon-rides": {
+   "d": "2026-11-27",
+   "t": "Hot Air Balloon Rides - Destination Granby",
    "v": "no"
   },
   "https://dhgate.com/goods/1094678484.html": {
@@ -1197,9 +1217,19 @@
    "t": "Women's Open Road Flowy Crop Top Classic Rock Couture Soft ...",
    "v": "no"
   },
+  "https://etsy.com/listing/718330467/cute-hot-air-balloon-tshirt-aviation": {
+   "d": "2026-11-27",
+   "t": "Cute Hot Air Balloon Tshirt - Aviation Balloons Short-sleeve Unisex T-shirt  XS-4XL - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/listing/760096325/snow-covered-mountain-print-alaska": {
    "d": "2026-11-11",
    "t": "Snow Covered Mountain Print Alaska Highway Printable Snowy Forest Wall Art Nature Landscape Nordic Christmas Decor Large",
+   "v": "no"
+  },
+  "https://etsy.com/listing/831902719/wizard-of-oz-print-somewhere-over-the": {
+   "d": "2026-11-27",
+   "t": "Wizard of Oz Hot Air Balloon Print, Vintage Rainbow Wall Art (unframed) -  Etsy",
    "v": "no"
   },
   "https://etsy.com/listing/947190820/here-comes-the-sun-t-shirt-spring-hippie": {
@@ -1392,6 +1422,11 @@
    "t": "Hot Air Balloon Shirt - Etsy",
    "v": "no"
   },
+  "https://etsy.com/market/hot_air_balloon_shirts_family": {
+   "d": "2026-11-27",
+   "t": "Hot Air Balloon Shirts Family - Etsy",
+   "v": "no"
+  },
   "https://etsy.com/market/hot_air_balloon_t_shirt_design": {
    "d": "2026-11-09",
    "t": "Hot Air Balloon T Shirt Design - Etsy",
@@ -1430,6 +1465,11 @@
   "https://etsy.com/market/men_aquarium_shirt": {
    "d": "2026-11-11",
    "t": "Men Aquarium Shirt - Etsy - Page 4",
+   "v": "no"
+  },
+  "https://etsy.com/market/mens_balloon_sleeve_shirt": {
+   "d": "2026-11-27",
+   "t": "Mens Balloon Sleeve Shirt - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/mens_yellow_shirt_fish": {
@@ -1530,6 +1570,11 @@
   "https://etsy.com/market/vintage_blue_fish_clothing": {
    "d": "2026-11-23",
    "t": "Vintage Blue Fish Clothing - Etsy",
+   "v": "no"
+  },
+  "https://etsy.com/market/vintage_hot_air_balloon_shirt": {
+   "d": "2026-11-27",
+   "t": "Vintage Hot Air Balloon Shirt - Etsy",
    "v": "no"
   },
   "https://etsy.com/market/vintage_t_shirts_fish": {
@@ -1662,6 +1707,11 @@
    "t": "NWT V.i.n.e.y.a.r.d V.i.n.e.s t-shirt for sale",
    "v": "no"
   },
+  "https://facebook.com/OvertheRainbowhotairballoonrides": {
+   "d": "2026-11-27",
+   "t": "Hot Air Balloon Rides Seattle-Over the Rainbow | Woodinville WA",
+   "v": "no"
+  },
   "https://facebook.com/balloonfiesta/posts/welcome-jesse-roholt-with-rainbow-ryders-inc-hot-air-balloon-co-the-official-rid/1552911360214122": {
    "d": "2026-11-15",
    "t": "Welcome Jesse Roholt with Rainbow Ryders, Inc. Hot Air Balloon Co., the  official ride operator of #BalloonFiesta \ud83c\udf88",
@@ -1760,6 +1810,11 @@
   "https://feverup.com/m/173673": {
    "d": "2026-11-21",
    "t": "Phoenix Hot Air Balloon Ride at Sunrise (Phoenix) Tickets | Fever",
+   "v": "no"
+  },
+  "https://feverup.com/m/689207": {
+   "d": "2026-11-27",
+   "t": "Phoenix: Guided Sunrise Hot Air Balloon Ride (Phoenix) Tickets | Fever",
    "v": "no"
   },
   "https://flysandguides.com/product/rainbow-trout-artist-series-t-shirt-next-level-apparel": {
@@ -1957,6 +2012,11 @@
    "t": "Vintage fish tees AVAILABLE NOW \ud83e\udd29 onlytrouts.com \ud83d\udd17 in bio",
    "v": "no"
   },
+  "https://instagram.com/p/DO4L3Zekdk0": {
+   "d": "2026-11-27",
+   "t": "There are only 8 days available to book your Rainbow Ryders Hot Air Balloon  ride in Colorado Springs. Don't miss your c",
+   "v": "no"
+  },
   "https://instagram.com/p/DOXASGYjLDs": {
    "d": "2026-11-12",
    "t": "Vintage fish tees available RIGHT NOW \ud83e\udd1d Time is to be announced \ud83c\udfa3  onlytrouts.com - link in bio",
@@ -2017,6 +2077,11 @@
    "t": "Which of these are you? \ud83d\udc99",
    "v": "no"
   },
+  "https://instagram.com/p/Dc1Ya7oHUqi": {
+   "d": "2026-11-27",
+   "t": "Colorado Springs really said, \u201cLet's make Labor Day WAY more colorful.\u201d The  50th annual Colorado Springs Labor Day Lift",
+   "v": "no"
+  },
   "https://instagram.com/p/DcACUq4kTu7": {
    "d": "2026-11-24",
    "t": "Funny vintage fish tees dropping Saturday \ud83e\udd23 onlytrouts.com \u2014 link in bio  Saturday (8/15) @ 1PM EDT",
@@ -2025,6 +2090,11 @@
   "https://instagram.com/p/Dd19BzNl7LZ": {
    "d": "2026-11-25",
    "t": "The giant, rainbow parachute tent in gym class is probably a core memory  for just about every grown-up born in the last",
+   "v": "no"
+  },
+  "https://instagram.com/p/Dd83QzxiD8R": {
+   "d": "2026-11-27",
+   "t": "Guess what starts this weekend? @balloonfiesta \ud83d\udc40\ud83c\udf88",
    "v": "no"
   },
   "https://instagram.com/p/Dd9r04iIOey": {
@@ -2070,6 +2140,11 @@
   "https://instagram.com/p/Dfs-buklwaH": {
    "d": "2026-11-25",
    "t": "We've found the best way to see Heber Valley.\u2060 Go up.\u2060 Way up.\u2060 \u2060 From the  ground, you see mountains. From a Rainbow Ry",
+   "v": "no"
+  },
+  "https://instagram.com/p/Dfxzc1Sj_NH": {
+   "d": "2026-11-27",
+   "t": "\ud83c\udf88\ud83c\udf05 RISE AND SOAR! HOT AIR BALLOON RIDES ARE COMING! \u2600\ufe0f\u2728 Experience the  magic of a sunrise over the beautiful Sonoran De",
    "v": "no"
   },
   "https://instagram.com/popular/rainbow-ryders-hot-air-balloon-co-photos": {
@@ -2482,6 +2557,11 @@
    "t": "Over the Rainbow | Seattle Hot Air Balloon Rides",
    "v": "no"
   },
+  "https://overtherainbowhotairballoonrides.com/portfolio/gallery": {
+   "d": "2026-11-27",
+   "t": "Hot Air Balloon photos | Over the Rainbow Hot Air Balloon Flights",
+   "v": "no"
+  },
   "https://owensteegarage.com/products/cowboy-riding-rainbow-trout-t-shirtjnrp376": {
    "d": "2026-11-12",
    "t": "Cowboy Riding Rainbow Trout T-shirt",
@@ -2570,6 +2650,11 @@
   "https://poshmark.com/brand/Urban_Outfitters-Women-Dresses-Midi": {
    "d": "2026-11-19",
    "t": "Urban Outfitters Midi Dresses for Women on Sale up to 90% Off: Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/brand/Urban_Outfitters-Women-Dresses-Mini--color-Gold": {
+   "d": "2026-11-27",
+   "t": "Urban Outfitters Gold Mini Dresses for Women on Sale up to 90% Off: Poshmark",
    "v": "no"
   },
   "https://poshmark.com/brand/Urban_Outfitters-Women-Sweaters-Cowl_&_Turtlenecks--color-Green": {
@@ -2780,6 +2865,11 @@
   "https://poshmark.com/listing/Broken-Threads-MensTropicalLeafPrint-Shirt-ShortsSet-Sz-S-67ea0ceac71ba1f6de629e77": {
    "d": "2026-11-24",
    "t": "Broken Threads | Swim | Broken Threads Menstropicalleafprint Shirt  Shortsset Sz S | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Brooks-Dunn-Asphalt-Cowboys-Rhinestone-Western-Graphic-Tee-6ae58042aa5c23d71c03b127": {
+   "d": "2026-11-27",
+   "t": "Brooks & Dunn | Shirts | Brooks Dunn Asphalt Cowboys Rhinestone Western  Graphic Tee | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Brown-Casual-Womens-Leopard-Print-Pattern-Loose-TShirt-Sweatpants-Set-6a70592f875d65d001a15f1a": {
@@ -3337,6 +3427,11 @@
    "t": "Shirts | Prince Purple Rain Black Tshirt Medium | Poshmark",
    "v": "no"
   },
+  "https://poshmark.com/listing/Quiksilver-Mens-Retro-Sunset-Surf-Graphic-TShirt-6aebfd93e625d251c8965c09": {
+   "d": "2026-11-27",
+   "t": "Quiksilver Men's Retro Sunset Surf Graphic T-Shirt",
+   "v": "no"
+  },
   "https://poshmark.com/listing/Quiksilver-Waterman-Collection-Mens-M-Black-Grey-Fish-Logo-Graphic-TShirt-6aba63d337ab176c3768be8e": {
    "d": "2026-11-24",
    "t": "Quiksilver | Shirts | Quiksilver Waterman Collection Mens M Black Grey Fish  Logo Graphic Tshirt | Poshmark",
@@ -3630,6 +3725,11 @@
   "https://poshmark.com/listing/Urban-Outfitters-Womens-Lace-TieFront-Long-Sleeve-Top-Cream-6a32f0fcff03204c8ede3c70": {
    "d": "2026-11-16",
    "t": "Urban Outfitters | Tops | Urban Outfitters Womens Lace Tiefront Long Sleeve  Top Cream | Poshmark",
+   "v": "no"
+  },
+  "https://poshmark.com/listing/Urban-Outfitters-Womens-Shirt-Dress-Floral-Short-Cap-Sleeve-Collar-Size-S-65074a5f1741be4398d85396": {
+   "d": "2026-11-27",
+   "t": "Urban Outfitters | Dresses | Urban Outfitters Womens Shirt Dress Floral  Short Cap Sleeve Collar Size S | Poshmark",
    "v": "no"
   },
   "https://poshmark.com/listing/Urban-Outfitters-Wool-Blend-Rainbow-Sweater-Size-XSmall-6a7485a29bca613910bb35dc": {
@@ -3992,6 +4092,11 @@
    "t": "usaesscapelife - Shop",
    "v": "no"
   },
+  "https://shop.com/products/9081119572104/neon-dancing-robin-tee": {
+   "d": "2026-11-27",
+   "t": "Magnolia Pearl Clothing Neon Dancing Robin Tee - Shop",
+   "v": "no"
+  },
   "https://shop.laurieberkner.com/products/lets-go-swimming-youth-t-shirt-1": {
    "d": "2026-11-19",
    "t": "Goldfish Youth T-Shirt \u2013 Laurie Berkner Band",
@@ -4015,6 +4120,11 @@
   "https://shopisalis.com/products/ursula-dress-in-sirens-song": {
    "d": "2026-11-18",
    "t": "Ursula Dress in Siren's Song \u2013 Isalis",
+   "v": "no"
+  },
+  "https://shoptasoni.com/products/adrian-cashmere-amphibio-double-layer-sweater-amphibio-multi": {
+   "d": "2026-11-27",
+   "t": "Adrian Cashmere Amphibio Double Layer Sweater \u2013 Tasoni",
    "v": "no"
   },
   "https://shopthriftyhippy.com/es/products/short-sleeve-top-785": {
@@ -4115,6 +4225,11 @@
   "https://sunjournal.com/2009/08/16/sushi-flying-goldfish": {
    "d": "2026-11-15",
    "t": "Sushi, the flying goldfish",
+   "v": "no"
+  },
+  "https://susanjoypaul.com/2022/08/29/trains-pontoons-hot-air-balloons-hitch-a-ride-to-colorados-backcountry": {
+   "d": "2026-11-27",
+   "t": "Trains, Pontoons & Hot Air Balloons: Hitch a Ride to Colorado's Backcountry  | Susan Joy Paul",
    "v": "no"
   },
   "https://t-shirtatelier.com/product/hoobastank-november-20-2026-astronaut-floating-balloons-exclusive-show-poster-t-shirt": {
@@ -4587,6 +4702,11 @@
    "t": "Colorado Springs Sunrise Balloon Ride 2026 - BOOK NOW",
    "v": "no"
   },
+  "https://viator.com/tours/Phoenix/Sunrise-Hot-Air-Balloon-Ride-from-Phoenix/d639-6746P3": {
+   "d": "2026-11-27",
+   "t": "Phoenix: Sunrise Small-Group Hot-Air Balloon Ride & Champagne 2026 - BOOK  NOW",
+   "v": "no"
+  },
   "https://viator.com/tours/Phoenix/Sunset-Hot-Air-Balloon-Ride-over-Phoenix/d639-6746P4": {
    "d": "2026-11-21",
    "t": "Phoenix Sunset Hot-Air Balloon Ride 2026 - BOOK NOW",
@@ -4635,6 +4755,11 @@
   "https://visitsaltlake.com/listing/rainbow-ryders-hot-air-balloon-co/72404": {
    "d": "2026-11-09",
    "t": "Rainbow Ryders Hot Air Balloon Co. | a Salt Lake Air Sports Outdoors &  Recreation in Park City",
+   "v": "no"
+  },
+  "https://walmart.com/c/kp/hot-air-balloon-shirt": {
+   "d": "2026-11-27",
+   "t": "Hot Air Balloon Shirts for Men Women Kids",
    "v": "no"
   },
   "https://walmart.com/c/kp/rainbow-fish-shirt": {
